@@ -20,8 +20,6 @@ I've used R to put together an easy-to-update, full rundown of the numbers (see 
 
     awk ' {FS = "\t"} { if ($4 ~ /\-ios$/) print $4 }' thesetup-data.txt | sort | uniq | wc -l
 
-Replace the regular expression "\-ios$/" with whatever you want to find in the "usesthis" column, and/or change the $4 column identifier to search other columns.
-
 There are a few limitations to the making of grand statements about this data: Of course each interview is a static snapshot, and we have no idea (without asking) if, say, [Marco Arment](http://marco.arment.usesthis.com/) has moved his work to a HP touchsmart, or [Kieran Healy](http://kieran.healy.usesthis.com/) has switched to SPSS and MS Word, or if all the reported 3G users are still using that model of the iPhone. [Idea: break down some of the numbers by year.] There are also the occasional instances in the interviews where someone says something like, "I can't imagine using _something_," and due to the context-dumb nature of this data, that becomes a count of that something in the index. Finally, the counts rely on some  skimming of the hardware/software catalogs and subsequent manual coding to identify models of gear that fit into various categories (Windows PCs and Android devices that come in all makes and models, for example). These will probably need periodic updating. 
 
 The data, the code to build the dataset, and the R code to run some numbers are all available.
