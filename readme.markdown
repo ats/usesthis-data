@@ -16,7 +16,7 @@ The ruby code that builds The Setup from those files even helpfully includes a r
 * Nobody yet interviewed has a Xoom or Galaxy tablet
 * Very few iOS apps are named more than once (not even Angry Birds)
 
-I've used R to put together an easy-to-update, [full rundown of the numbers](usesthis-summary.txt) that I thought were interesting and/or fun, but you can easily explore via awk, too. For example, the following finds and counts all unique iOS applications:
+I've used R to put together an easy-to-update, full rundown of the numbers (see usesthis-summary.txt) that I thought were interesting and/or fun, but you can easily explore via awk, too. For example, the following finds and counts all unique iOS applications:
 
     awk ' {FS = "\t"} { if ($4 ~ /\-ios$/) print $4 }' thesetup-data.txt | sort | uniq | wc -l
 
