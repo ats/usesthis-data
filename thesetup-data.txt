@@ -3576,3 +3576,27 @@
 2011	05	30	ben.kamens	GTMetrix	gtmetrix
 2011	05	30	ben.kamens	Netflix	netflix
 2011	05	30	ben.kamens	MacBook Pro	macbook-pro
+2011	06	06	josh.myer	BitTorrent	bittorrent
+2011	06	06	josh.myer	MacBook Pro	macbook-pro
+2011	06	06	josh.myer	Cinema Display	cinema-display
+2011	06	06	josh.myer	Ergotron LCD Arm	mx-lcd-arm
+2011	06	06	josh.myer	Lamy Safari EF	safari-fountain-pen
+2011	06	06	josh.myer	USBTinyISP	usbtinyisp
+2011	06	06	josh.myer	Weller WES51	wes51
+2011	06	06	josh.myer	Rdio	rdio
+2011	06	06	josh.myer	Pinboard.in	pinboard
+2011	06	06	josh.myer	emacs	emacs
+2011	06	06	josh.myer	Aquamacs	aquamacs
+2011	06	06	josh.myer	vim	vim
+2011	06	06	josh.myer	GNU R	r
+2011	06	06	josh.myer	WEKA	weka
+2011	06	06	josh.myer	python	python
+2011	06	06	josh.myer	perl	perl
+2011	06	06	josh.myer	awk	awk
+2011	06	06	josh.myer	sed	sed
+2011	06	06	josh.myer	Arduino IDE	arduino
+2011	06	06	josh.myer	EAGLECad	eagle
+2011	06	06	josh.myer	FreeRouting	freerouting
+2011	06	06	josh.myer	OpenOffice's	openoffice
+2011	06	06	josh.myer	Gnumeric	gnumeric
+2011	06	06	josh.myer	Simon Tatham's Puzzle Collection	portable-puzzle-collection
