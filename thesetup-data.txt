@@ -3600,3 +3600,27 @@
 2011	06	06	josh.myer	OpenOffice's	openoffice
 2011	06	06	josh.myer	Gnumeric	gnumeric
 2011	06	06	josh.myer	Simon Tatham's Puzzle Collection	portable-puzzle-collection
+2011	06	08	jon.hicks	Macbook Air	macbook-air
+2011	06	08	jon.hicks	Apple Display	cinema-display
+2011	06	08	jon.hicks	keyboard	keyboard
+2011	06	08	jon.hicks	iPhone 4	iphone-4
+2011	06	08	jon.hicks	MacBook Pro	macbook-pro
+2011	06	08	jon.hicks	Chrome	chrome
+2011	06	08	jon.hicks	Camino	camino
+2011	06	08	jon.hicks	Dropbox	dropbox
+2011	06	08	jon.hicks	Time Machine	time-machine
+2011	06	08	jon.hicks	Photoshop	photoshop
+2011	06	08	jon.hicks	Acorn	acorn
+2011	06	08	jon.hicks	Opacity	opacity
+2011	06	08	jon.hicks	Adobe Illustrator CS5	illustrator
+2011	06	08	jon.hicks	Coda	coda
+2011	06	08	jon.hicks	VMWare Fusion	fusion
+2011	06	08	jon.hicks	Windows XP	windows-xp
+2011	06	08	jon.hicks	7	windows-7
+2011	06	08	jon.hicks	Evernote	evernote-mac
+2011	06	08	jon.hicks	iPhone app	evernote-ios
+2011	06	08	jon.hicks	Alfred	alfred
+2011	06	08	jon.hicks	Quicksilver	quicksilver
+2011	06	08	jon.hicks	ColorSnapper	colorsnapper
+2011	06	08	jon.hicks	Skitch	skitch
+2011	06	08	jon.hicks	Reeder	reeder
