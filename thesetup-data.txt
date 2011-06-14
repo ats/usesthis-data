@@ -3624,3 +3624,53 @@
 2011	06	08	jon.hicks	ColorSnapper	colorsnapper
 2011	06	08	jon.hicks	Skitch	skitch
 2011	06	08	jon.hicks	Reeder	reeder
+2011	06	10	katie.o.shea	Synesso Hydra	hydra
+2011	06	10	katie.o.shea	Hario V60	hario-v60
+2011	06	10	katie.o.shea	Chemex 6-cup glass woodneck	chemex-6-cup
+2011	06	10	katie.o.shea	Coava Kone	kone
+2011	06	10	katie.o.shea	Mazzer Robur E	robur
+2011	06	10	katie.o.shea	Mazzer Super Jolly	super-jolly
+2011	06	10	katie.o.shea	Rancilio Rocky	rocky
+2011	06	10	katie.o.shea	Red Rooster Camano	camano
+2011	06	10	katie.o.shea	Motobecane Mirage	mirage
+2011	06	10	katie.o.shea	Black Cat Classic Espresso	black-cat-classic
+2011	06	10	katie.o.shea	El Pino	el-pino
+2011	06	10	katie.o.shea	La Tortuga Honduras	la-tortuga
+2011	06	13	jon.tan	Mapalong	mapalong
+2011	06	13	jon.tan	Fontdeck	fontdeck
+2011	06	13	jon.tan	15" Macbook Pro	macbook-pro
+2011	06	13	jon.tan	Time Capsule	time-capsule
+2011	06	13	jon.tan	Macbook Air	macbook-air
+2011	06	13	jon.tan	iPhone 4	iphone-4
+2011	06	13	jon.tan	iPad	ipad
+2011	06	13	jon.tan	Fuji X100	finepix-x100
+2011	06	13	jon.tan	Safari	safari
+2011	06	13	jon.tan	Chrome	chrome
+2011	06	13	jon.tan	Firefox	firefox
+2011	06	13	jon.tan	Safari	safari
+2011	06	13	jon.tan	Fluid	fluid
+2011	06	13	jon.tan	Google Apps	google-apps
+2011	06	13	jon.tan	Gmail	gmail
+2011	06	13	jon.tan	Apple Mail	mail
+2011	06	13	jon.tan	Notational Velocity	notational-velocity
+2011	06	13	jon.tan	Simple Note	simplenote-ios
+2011	06	13	jon.tan	black 0.38MM Muji gel-ink ballpoint	gel-ink-0.38mm
+2011	06	13	jon.tan	black Faber-Castell Grip mechanical pencil	grip-0.7mm
+2011	06	13	jon.tan	Lamy CP 1 fountain pen	cp-1
+2011	06	13	jon.tan	Coda	coda
+2011	06	13	jon.tan	Fontcase	fontcase
+2011	06	13	jon.tan	Fireworks	fireworks
+2011	06	13	jon.tan	Google Docs	google-docs
+2011	06	13	jon.tan	Keynote	keynote
+2011	06	13	jon.tan	Aperture	aperture
+2011	06	13	jon.tan	PTLens plugin	ptlens
+2011	06	13	jon.tan	Spotify	spotify
+2011	06	13	jon.tan	Airfoil	airfoil
+2011	06	13	jon.tan	Teuxdeux	teuxdeux
+2011	06	13	jon.tan	Dropbox	dropbox
+2011	06	13	jon.tan	Gimme Bar	gimme-bar
+2011	06	13	jon.tan	Linkinus	linkinus
+2011	06	13	jon.tan	Skype	skype
+2011	06	13	jon.tan	TweetDeck	tweetdeck
+2011	06	13	jon.tan	Tweetbot	tweetbot-ios
+2011	06	13	jon.tan	Echofon	echofon
