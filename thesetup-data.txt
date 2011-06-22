@@ -3715,3 +3715,17 @@
 2011	06	17	thessaly.la.force	InDesign	indesign
 2011	06	17	thessaly.la.force	Google Docs	google-docs
 2011	06	17	thessaly.la.force	Tumblr	tumblr
+2011	06	20	r.stevens	11" Macbook Air	macbook-air
+2011	06	20	r.stevens	Evoluent Vertical Mouse	verticalmouse
+2011	06	20	r.stevens	Cintiq	cintiq
+2011	06	20	r.stevens	Magic Trackpad	magic-trackpad
+2011	06	20	r.stevens	keyboard	keyboard
+2011	06	20	r.stevens	ioSafe USB hard drives	solo
+2011	06	20	r.stevens	Technivorm Moccamaster	moccamaster-kb-741
+2011	06	20	r.stevens	Photoshop	photoshop
+2011	06	20	r.stevens	Safari	safari
+2011	06	20	r.stevens	Instapaper	instapaper
+2011	06	20	r.stevens	Adium	adium
+2011	06	20	r.stevens	Feeder	feeder
+2011	06	20	r.stevens	Transmit	transmit
+2011	06	20	r.stevens	Dropbox	dropbox
