@@ -3729,3 +3729,12 @@
 2011	06	20	r.stevens	Feeder	feeder
 2011	06	20	r.stevens	Transmit	transmit
 2011	06	20	r.stevens	Dropbox	dropbox
+2011	06	22	shawn.thorsson	Pepakura	pepakura
+2011	06	22	shawn.thorsson	Photoshop	photoshop
+2011	06	24	james.freeman	Bonmac dripper	ceramic-dripper
+2011	06	24	james.freeman	Kenaf filters	kenaf-filters
+2011	06	24	james.freeman	AWS gram scale	aws-scale
+2011	06	24	james.freeman	Takahiro .5 liter kettle	takahiro.5
+2011	06	24	james.freeman	Porlex hand grinder	porlex-grinder
+2011	06	24	james.freeman	Macbook	macbook
+2011	06	24	james.freeman	iPad	ipad
