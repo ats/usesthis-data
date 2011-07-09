@@ -3818,3 +3818,66 @@
 2011	07	01	jessamyn.west	fake sticky note	stickies
 2011	07	01	jessamyn.west	torrenting	transmission
 2011	07	01	jessamyn.west	usenet	easynews
+2011	07	04	laura.brunow.miner	cinema display	cinema-display
+2011	07	04	laura.brunow.miner	iPhone 4	iphone-4
+2011	07	04	laura.brunow.miner	Canon 5D Mark II	eos-5d-mark-ii
+2011	07	04	laura.brunow.miner	Django	django
+2011	07	04	laura.brunow.miner	Photoshop	photoshop
+2011	07	04	laura.brunow.miner	Lightroom	lightroom
+2011	07	04	laura.brunow.miner	Google Docs	google-docs
+2011	07	04	laura.brunow.miner	Tumblr	tumblr
+2011	07	04	laura.brunow.miner	InDesign	indesign
+2011	07	04	laura.brunow.miner	Mint	mint
+2011	07	04	laura.brunow.miner	Doodle	doodle
+2011	07	04	laura.brunow.miner	Facebook	facebook
+2011	07	04	laura.brunow.miner	Virb.com	virb
+2011	07	04	laura.brunow.miner	Instagram	instagram-ios
+2011	07	04	laura.brunow.miner	Kindle	kindle-ios
+2011	07	04	laura.brunow.miner	This American Life	this-american-life-ios
+2011	07	04	laura.brunow.miner	TED	ted-ios
+2011	07	04	laura.brunow.miner	Rdio	rdio-ios
+2011	07	04	laura.brunow.miner	Dog Park Finder	dog-park-finder-ios
+2011	07	04	laura.brunow.miner	Things	things
+2011	07	04	laura.brunow.miner	Adium	adium
+2011	07	04	laura.brunow.miner	Chrome	chrome
+2011	07	04	laura.brunow.miner	Rdio.com	rdio
+2011	07	06	horace.dediu	iMac	imac
+2011	07	06	horace.dediu	Cinema display	cinema-display
+2011	07	06	horace.dediu	keyboard	keyboard
+2011	07	06	horace.dediu	Magic Mouse	magic-mouse
+2011	07	06	horace.dediu	Magic Trackpad	magic-trackpad
+2011	07	06	horace.dediu	Time Capsule	time-capsule
+2011	07	06	horace.dediu	Apple LaserWriter 12/640	laserwriter-12-640
+2011	07	06	horace.dediu	MacBook Pro	macbook-pro
+2011	07	06	horace.dediu	3GS	iphone-3gs
+2011	07	06	horace.dediu	4	iphone-4
+2011	07	06	horace.dediu	iPad 2	ipad-2
+2011	07	06	horace.dediu	Vonage	vonage
+2011	07	06	horace.dediu	Apple TV	apple-tv
+2011	07	06	horace.dediu	Numbers	numbers
+2011	07	06	horace.dediu	Keynote	keynote
+2011	07	06	horace.dediu	Pages	pages
+2011	07	06	horace.dediu	Wordpress	wordpress
+2011	07	06	horace.dediu	Excel	excel
+2011	07	06	horace.dediu	BBEdit	bbedit
+2011	07	06	horace.dediu	Automator	automator
+2011	07	06	horace.dediu	Xcode	xcode
+2011	07	06	horace.dediu	Twitter	twitter-mac
+2011	07	06	horace.dediu	iChat	ichat
+2011	07	06	horace.dediu	Skype	skype
+2011	07	06	horace.dediu	iTunes	itunes
+2011	07	06	horace.dediu	MobileMe	mobile-me
+2011	07	06	horace.dediu	IKEA Jerker	jerker
+2011	07	08	david.sleight	iMac	imac
+2011	07	08	david.sleight	MacBook	macbook-pro
+2011	07	08	david.sleight	iPad 2	ipad-2
+2011	07	08	david.sleight	iPhone 4	iphone-4
+2011	07	08	david.sleight	stuffed labbit	stache-labbit-plush-7-inch
+2011	07	08	david.sleight	CS5 apps	creative-suite
+2011	07	08	david.sleight	Omnigraffle Pro	omnigraffle-pro
+2011	07	08	david.sleight	BBEdit	bbedit
+2011	07	08	david.sleight	Coda	coda
+2011	07	08	david.sleight	VMware Fusion	fusion
+2011	07	08	david.sleight	Things	things
+2011	07	08	david.sleight	iOS devices	things-ios
+2011	07	08	david.sleight	Dropbox	dropbox
