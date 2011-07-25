@@ -788,7 +788,6 @@
 2009	10	02	amit.gupta	2GB LiveScribe pen	pulse-smartpen
 2009	10	02	amit.gupta	AudioTechnica noise-canceling headphones	ath-anc7b
 2009	10	02	amit.gupta	Peltor H10A earmuffs	optime-105
-2009	10	02	amit.gupta	Spire Volt	vl10
 2009	10	02	amit.gupta	airport	airport-express
 2009	10	02	amit.gupta	MacBook	macbook
 2009	10	02	amit.gupta	twitter	twitter
@@ -3881,3 +3880,72 @@
 2011	07	08	david.sleight	Things	things
 2011	07	08	david.sleight	iOS devices	things-ios
 2011	07	08	david.sleight	Dropbox	dropbox
+2011	07	20	gus.mueller	Acorn	acorn
+2011	07	20	gus.mueller	VoodooPad	voodoopad
+2011	07	20	gus.mueller	FlySketch	flysketch
+2011	07	20	gus.mueller	Mac Pro	mac-pro
+2011	07	20	gus.mueller	Time Machine	time-machine
+2011	07	20	gus.mueller	Cinema Display	cinema-display
+2011	07	20	gus.mueller	Logitech MX518 mouse	mx-518
+2011	07	20	gus.mueller	MS natural ergonomic keyboard	natural-ergonomic-keyboard-4000
+2011	07	20	gus.mueller	Line 6 TonePort	toneport-ux1
+2011	07	20	gus.mueller	Wacom Intuos	intuos
+2011	07	20	gus.mueller	Wacom Cintiq	cintiq
+2011	07	20	gus.mueller	GeekDesk	geekdesk
+2011	07	20	gus.mueller	iPads	ipad
+2011	07	20	gus.mueller	iPhone 4	iphone-4
+2011	07	20	gus.mueller	Acorn	acorn
+2011	07	20	gus.mueller	VoodooPad	voodoopad
+2011	07	20	gus.mueller	Xcode	xcode
+2011	07	20	gus.mueller	Safari	safari
+2011	07	20	gus.mueller	Apple Mail	mail
+2011	07	20	gus.mueller	Colloquy	colloquy
+2011	07	20	gus.mueller	iChat	ichat
+2011	07	20	gus.mueller	Twitter	twitter-mac
+2011	07	20	gus.mueller	JSTalk Editor	jstalk
+2011	07	20	gus.mueller	Coda	coda
+2011	07	20	gus.mueller	Transmit	transmit
+2011	07	20	gus.mueller	BBEdit	bbedit
+2011	07	20	gus.mueller	SubEthaEdit	subethaedit
+2011	07	20	gus.mueller	LaunchBar	launchbar
+2011	07	20	gus.mueller	DropBox	dropbox
+2011	07	20	gus.mueller	Backblaze	backblaze
+2011	07	20	gus.mueller	rsync	rsync
+2011	07	22	jonathan.foote	Cygwin	cygwin
+2011	07	22	jonathan.foote	VirtualBox	virtualbox
+2011	07	22	jonathan.foote	Ubuntu	ubuntu
+2011	07	22	jonathan.foote	Logitech Marble Mouse	marble-mouse
+2011	07	22	jonathan.foote	Win7	windows-7
+2011	07	22	jonathan.foote	iPhone	iphone
+2011	07	22	jonathan.foote	TS-7260	ts-7260
+2011	07	22	jonathan.foote	BeagleBoard	beagleboard
+2011	07	22	jonathan.foote	Chumby	chumby
+2011	07	22	jonathan.foote	Python	python
+2011	07	22	jonathan.foote	OSC	pyosc
+2011	07	22	jonathan.foote	TouchOSC	touchosc-ios
+2011	07	22	jonathan.foote	Arduino	arduino
+2011	07	22	jonathan.foote	W51 soldering iron	wes51
+2011	07	22	jonathan.foote	Tektronix 4-channel scope	tds2004b
+2011	07	22	jonathan.foote	Fluke 179 DMM	fluke-170
+2011	07	22	jonathan.foote	these strippers	se-94
+2011	07	22	jonathan.foote	1-bit microcontrollers	m14500
+2011	07	22	jonathan.foote	brainfuck	brainfuck
+2011	07	22	jonathan.foote	emacs	emacs
+2011	07	22	jonathan.foote	awk	awk
+2011	07	22	jonathan.foote	grep	grep
+2011	07	22	jonathan.foote	sed	sed
+2011	07	22	jonathan.foote	bash	bash
+2011	07	22	jonathan.foote	C	c
+2011	07	22	jonathan.foote	Objective C	objective-c
+2011	07	22	jonathan.foote	Inkscape	inkscape
+2011	07	22	jonathan.foote	Blender	blender
+2011	07	22	jonathan.foote	Octave	octave
+2011	07	22	jonathan.foote	VisualSVN server	visualsvn-server
+2011	07	22	jonathan.foote	svn	subversion
+2011	07	22	jonathan.foote	TortoiseSVN	tortoisesvn
+2011	07	22	jonathan.foote	EagleCAD	eagle
+2011	07	22	jonathan.foote	Python	python
+2011	07	22	jonathan.foote	wxFormBuilder	wxformbuilder
+2011	07	22	jonathan.foote	wxPython	wxpython
+2011	07	22	jonathan.foote	Cinema Displays	cinema-display
+2011	07	22	jonathan.foote	these surgical telescopes	standard-field-telescopes
