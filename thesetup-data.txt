@@ -1829,6 +1829,7 @@
 2010	09	03	keita.takahashi	MacBook	macbook
 2010	09	03	keita.takahashi	Apple Magic Mouse	magic-mouse
 2010	09	03	keita.takahashi	Marathon Mouse M705	marathon-m705
+2010	09	03	keita.takahashi	Intuos	intuos
 2010	09	03	keita.takahashi	iPod	ipod
 2010	09	03	keita.takahashi	Nokia NM705i	nm705i
 2010	09	03	keita.takahashi	DSC-HX5V	cyber-shot-hx5v
@@ -4117,3 +4118,165 @@
 2011	08	05	tom.armitage	Ruby	ruby
 2011	08	05	tom.armitage	Macbook Air	macbook-air
 2011	08	05	tom.armitage	Pilot Vanishing Point	vanishing-point
+2011	08	08	boone.speed	5d2	eos-5d-mark-ii
+2011	08	08	boone.speed	7d	eos-7d
+2011	08	08	boone.speed	60d	eos-60d
+2011	08	08	boone.speed	24-70 2.8L	ef-24-70mm-usm
+2011	08	08	boone.speed	16-35 2.8 L II	ef-16-35mm-ii-usm
+2011	08	08	boone.speed	14mm 2.8	ef-14mm-ii-usm
+2011	08	08	boone.speed	24mm 1.4L II	ef-24mm-ii-usm
+2011	08	08	boone.speed	90mm 2.8 Tilt/Shift	ts-e-90mm
+2011	08	08	boone.speed	50mm 1.2L	ef-50mm-usm
+2011	08	08	boone.speed	17mm f4 Tilt Shift	ts-e-17mm
+2011	08	08	boone.speed	70-200 2.8L II	ef-70-200mm-is-usm
+2011	08	08	boone.speed	Lowepro CompuPrimus AW pack	compuprimus-aw
+2011	08	08	boone.speed	Profoto D1 500 Air	d1-air-500
+2011	08	08	boone.speed	Ikan 500 LED	id-500
+2011	08	08	boone.speed	Vagabond Mini batteries	vagabond-mini
+2011	08	08	boone.speed	iPhone 4	iphone-4
+2011	08	08	boone.speed	Apple MBP 17" i7	macbook-pro
+2011	08	08	boone.speed	Lacie eSATA drives	little-big-disk
+2011	08	08	boone.speed	cinema display	cinema-display
+2011	08	08	boone.speed	Drobo	drobo
+2011	08	08	boone.speed	Adobe Lightroom 3	lightroom
+2011	08	08	boone.speed	Adobe CS5 suite	creative-suite
+2011	08	08	boone.speed	Safari	safari
+2011	08	08	boone.speed	iCal	ical
+2011	08	08	boone.speed	Contacts	address-book
+2011	08	08	boone.speed	Twitter	twitter
+2011	08	08	boone.speed	Instagram	instagram-ios
+2011	08	10	meg.pickard	MacBook Pro	macbook-pro
+2011	08	10	meg.pickard	Open Office	openoffice
+2011	08	10	meg.pickard	iMac	imac
+2011	08	10	meg.pickard	magic trackpad	magic-trackpad
+2011	08	10	meg.pickard	DropBox	dropbox
+2011	08	10	meg.pickard	iPhone 4	iphone-4
+2011	08	10	meg.pickard	Zoom H2 recorder	h2-handy-recorder
+2011	08	10	meg.pickard	Nikon D70	d70
+2011	08	10	meg.pickard	Vivitar Ultra Wide and Slim	ultra-wide-and-slim
+2011	08	10	meg.pickard	Blackberry 8100	pearl-8100
+2011	08	10	meg.pickard	Safari	safari
+2011	08	10	meg.pickard	Firefox	firefox
+2011	08	10	meg.pickard	iPhoto	iphoto
+2011	08	10	meg.pickard	Lightroom	lightroom
+2011	08	10	meg.pickard	Picasa	picasa
+2011	08	10	meg.pickard	Keynote	keynote
+2011	08	10	meg.pickard	Powerpoint	powerpoint
+2011	08	10	meg.pickard	Pages	pages
+2011	08	10	meg.pickard	Cyberduck	cyberduck
+2011	08	10	meg.pickard	LittleSnitch	little-snitch
+2011	08	10	meg.pickard	EtreTask	etretask
+2011	08	10	meg.pickard	Twhirl	twhirl
+2011	08	10	meg.pickard	eyefi	eye-fi
+2011	08	12	amanda.wixted	Macbook Pro	macbook-pro
+2011	08	12	amanda.wixted	Apple Cinema Display	cinema-display
+2011	08	12	amanda.wixted	iPhone 4	iphone-4
+2011	08	12	amanda.wixted	Xcode	xcode
+2011	08	12	amanda.wixted	Kindle app	kindle-ios
+2011	08	12	amanda.wixted	Words With Friends	words-with-friends-ios
+2011	08	12	amanda.wixted	MX 518	mx-518
+2011	08	12	amanda.wixted	keyboard	keyboard
+2011	08	12	amanda.wixted	Time Capsule	time-capsule
+2011	08	12	amanda.wixted	Boxee	boxee
+2011	08	12	amanda.wixted	Terminal	terminal
+2011	08	12	amanda.wixted	TextWrangler	textwrangler
+2011	08	12	amanda.wixted	vim	vim
+2011	08	12	amanda.wixted	Objective-C	objective-c
+2011	08	12	amanda.wixted	git	git
+2011	08	12	amanda.wixted	GitHub for Mac	github-for-mac
+2011	08	12	amanda.wixted	Cocos2d	cocos2d
+2011	08	12	amanda.wixted	python	python
+2011	08	12	amanda.wixted	Harbor Master	harbor-master-ios
+2011	08	12	amanda.wixted	Orbital	orbital-ios
+2011	08	12	amanda.wixted	FarmVille	farmville-ios
+2011	08	12	amanda.wixted	Strategery	strategery-ios
+2011	08	12	amanda.wixted	Minecraft	minecraft
+2011	08	12	amanda.wixted	Grooveshark	grooveshark
+2011	08	15	rich.siegel	BBEdit	bbedit
+2011	08	15	rich.siegel	Mac Pro	mac-pro
+2011	08	15	rich.siegel	VelociRaptors	velociraptor
+2011	08	15	rich.siegel	2big Quadra	2big-quadra
+2011	08	15	rich.siegel	MacBook Air	macbook-air
+2011	08	15	rich.siegel	Apple Cinema Display	cinema-display
+2011	08	15	rich.siegel	DVI KVM	2x1-dvikvm-dl
+2011	08	15	rich.siegel	Customizer 104	customizer-104
+2011	08	15	rich.siegel	Razer Mamba	mamba
+2011	08	15	rich.siegel	World of Warcraft	wow
+2011	08	15	rich.siegel	Promise SmartStor DS4600	smartstor-ds4600
+2011	08	15	rich.siegel	Time Machine	time-machine
+2011	08	15	rich.siegel	Jura Capresso F9	impressa-f9
+2011	08	15	rich.siegel	C	c
+2011	08	15	rich.siegel	C++	c-plusplus
+2011	08	15	rich.siegel	Objective-C	objective-c
+2011	08	15	rich.siegel	Markdown	markdown
+2011	08	15	rich.siegel	Textile	textile
+2011	08	15	rich.siegel	Google Chrome	chrome
+2011	08	15	rich.siegel	Yojimbo	yojimbo
+2011	08	15	rich.siegel	iPhoto	iphoto
+2011	08	15	rich.siegel	NetNewsWire	netnewswire
+2011	08	15	rich.siegel	Twitterrific	twitterrific
+2011	08	15	rich.siegel	Take Five	take-five
+2011	08	15	rich.siegel	xScope	xscope
+2011	08	15	rich.siegel	Mailsmith	mailsmith
+2011	08	15	rich.siegel	SpamSieve	spamsieve
+2011	08	15	rich.siegel	iWork	iwork
+2011	08	15	rich.siegel	Microsoft Office	office
+2011	08	15	rich.siegel	SuperDuper!	superduper
+2011	08	15	rich.siegel	LaunchBar	launchbar
+2011	08	17	ruthie.bendor	MacBook Air	macbook-air
+2011	08	17	ruthie.bendor	SFBags Macbook Air Wallet	macbook-air-wallet
+2011	08	17	ruthie.bendor	Sierra Wireless 598U USB Modem	598u
+2011	08	17	ruthie.bendor	iPhone 3GS	iphone-3gs
+2011	08	17	ruthie.bendor	Suntactics PC5	scharger-5
+2011	08	17	ruthie.bendor	Koss KSC75	ksc75
+2011	08	17	ruthie.bendor	Transcend StoreJet 320GB	storejet-25
+2011	08	17	ruthie.bendor	Panasonic Lumix GF-2	lumix-gf2
+2011	08	17	ruthie.bendor	Sony ECM-DS70P	ecm-ds70p
+2011	08	17	ruthie.bendor	Olympus ME-52W	me-52w
+2011	08	17	ruthie.bendor	Audio-Technica ATR-3350	atr-3350
+2011	08	17	ruthie.bendor	this adapter	km-iphone-mic2-ecm
+2011	08	17	ruthie.bendor	Square reader	square
+2011	08	17	ruthie.bendor	Surly Cross-Check	cross-check-complete
+2011	08	17	ruthie.bendor	Surly Long Haul Trucker	long-haul-trucker-complete
+2011	08	17	ruthie.bendor	Schwalbe Marathon Supreme 28mm tires	marathon-supreme-700x28
+2011	08	17	ruthie.bendor	Selle An-Atomica Titanico LD saddle	titanico
+2011	08	17	ruthie.bendor	Shimano A530 SPD dual-platform pedals	pd-a530
+2011	08	17	ruthie.bendor	Tubus Vega	vega
+2011	08	17	ruthie.bendor	Ortlieb Back-Roller Pluses	back-roller-plus
+2011	08	17	ruthie.bendor	Tubus Tara	tara
+2011	08	17	ruthie.bendor	Ortlieb Front-Roller Pluses	front-roller-plus
+2011	08	17	ruthie.bendor	Ortlieb Ultimate5 Plus	ultimate5-plus
+2011	08	17	ruthie.bendor	VDO MC1.0	mc1.0
+2011	08	17	ruthie.bendor	TiGr bike lock	tigr
+2011	08	17	ruthie.bendor	OSX 10.6	mac-os-x
+2011	08	17	ruthie.bendor	VirtualBox	virtualbox
+2011	08	17	ruthie.bendor	Windows XP	windows-xp
+2011	08	17	ruthie.bendor	Windows 7	windows-7
+2011	08	17	ruthie.bendor	MAMP Pro	mamp-pro
+2011	08	17	ruthie.bendor	Coda	coda
+2011	08	17	ruthie.bendor	Transmit	transmit
+2011	08	17	ruthie.bendor	iTerm 2	iterm2
+2011	08	17	ruthie.bendor	Kaleidoscope	kaleidoscope
+2011	08	17	ruthie.bendor	Git	git
+2011	08	17	ruthie.bendor	Integrity	integrity
+2011	08	17	ruthie.bendor	ExpressionEngine	expressionengine
+2011	08	17	ruthie.bendor	Fireworks	fireworks
+2011	08	17	ruthie.bendor	Illustrator	illustrator
+2011	08	17	ruthie.bendor	Photoshop	photoshop
+2011	08	17	ruthie.bendor	ImageOptim	imageoptim
+2011	08	17	ruthie.bendor	Notational Velocity	notational-velocity
+2011	08	17	ruthie.bendor	Word	word
+2011	08	17	ruthie.bendor	Excel	excel
+2011	08	17	ruthie.bendor	Keynote	keynote
+2011	08	17	ruthie.bendor	Echofon	echofon
+2011	08	17	ruthie.bendor	Colloquy	colloquy
+2011	08	17	ruthie.bendor	Skype	skype
+2011	08	17	ruthie.bendor	iChat	ichat
+2011	08	17	ruthie.bendor	Dropbox	dropbox
+2011	08	17	ruthie.bendor	Aperture	aperture
+2011	08	17	ruthie.bendor	VLC	vlc
+2011	08	17	ruthie.bendor	iMovie	imovie
+2011	08	17	ruthie.bendor	Levelator	the-levelator
+2011	08	17	ruthie.bendor	SoundBooth	soundbooth
+2011	08	17	ruthie.bendor	Audacity	audacity
+2011	08	17	ruthie.bendor	1Password	1password
