@@ -95,7 +95,7 @@
 2009	01	17	steven.frank	Yojimbo	yojimbo
 2009	01	17	steven.frank	Subversion	subversion
 2009	01	17	steven.frank	Skitch	skitch
-2009	01	17	steven.frank	VMWare Fusion	fusion
+2009	01	17	steven.frank	VMWare Fusion	vmware-fusion
 2009	01	17	steven.frank	Dropbox	dropbox
 2009	01	17	steven.frank	World of Warcraft	wow
 2009	01	17	steven.frank	iTunes	itunes
@@ -544,7 +544,7 @@
 2009	07	01	john.siracusa	MobileMe	mobile-me
 2009	07	01	john.siracusa	MacFUSE	macfuse
 2009	07	01	john.siracusa	sshfs	sshfs
-2009	07	01	john.siracusa	VMware Fusion	fusion
+2009	07	01	john.siracusa	VMware Fusion	vmware-fusion
 2009	07	01	john.siracusa	Boot Camp	boot-camp
 2009	07	01	john.siracusa	Twitterrific	twitterrific-ios
 2009	07	01	john.siracusa	Safari	safari-ios
@@ -810,7 +810,7 @@
 2009	10	02	amit.gupta	Daylite	daylite
 2009	10	02	amit.gupta	LiveScribe desktop	livescribe-desktop
 2009	10	02	amit.gupta	PandoraBoy	pandoraboy
-2009	10	02	amit.gupta	VMWare Fusion	fusion
+2009	10	02	amit.gupta	VMWare Fusion	vmware-fusion
 2009	10	02	amit.gupta	Quickbooks	quickbooks
 2009	10	02	amit.gupta	Photoshop CS4	photoshop
 2009	10	02	amit.gupta	iStat menus	istat-menus
@@ -1093,7 +1093,7 @@
 2010	01	07	dan.cederholm	SuperDuper!	superduper
 2010	01	07	dan.cederholm	GitX	gitx
 2010	01	07	dan.cederholm	Dribbble	dribbble
-2010	01	07	dan.cederholm	VMware Fusion	fusion
+2010	01	07	dan.cederholm	VMware Fusion	vmware-fusion
 2010	01	07	dan.cederholm	Tweetie 2	tweetie-ios
 2010	01	07	dan.cederholm	MLB At Bat	mlb-at-bat-ios
 2010	01	07	dan.cederholm	Ego	ego-ios
@@ -1443,7 +1443,7 @@
 2010	05	15	maggie.mcfee	TextWrangler	textwrangler
 2010	05	15	maggie.mcfee	BBedit	bbedit
 2010	05	15	maggie.mcfee	Apple Remote Desktop	remote-desktop
-2010	05	15	maggie.mcfee	VMware Fusion	fusion
+2010	05	15	maggie.mcfee	VMware Fusion	vmware-fusion
 2010	05	15	maggie.mcfee	X11	xfree86
 2010	05	15	maggie.mcfee	Terminal	terminal
 2010	05	15	maggie.mcfee	iCal	ical
@@ -1692,7 +1692,7 @@
 2010	07	11	dustin.curtis	Firefox	firefox
 2010	07	11	dustin.curtis	XCode	xcode
 2010	07	11	dustin.curtis	Transmission	transmission
-2010	07	11	dustin.curtis	VMWare Fusion	fusion
+2010	07	11	dustin.curtis	VMWare Fusion	vmware-fusion
 2010	07	11	dustin.curtis	Word 2010	word
 2010	07	11	dustin.curtis	Transmit 4	transmit
 2010	07	11	dustin.curtis	Aperture 3	aperture
@@ -1927,7 +1927,7 @@
 2010	09	15	matthew.mckeon	Chrome	chrome
 2010	09	15	matthew.mckeon	Opera	opera
 2010	09	15	matthew.mckeon	IE	internet-explorer
-2010	09	15	matthew.mckeon	VMWare Fusion	fusion
+2010	09	15	matthew.mckeon	VMWare Fusion	vmware-fusion
 2010	09	15	matthew.mckeon	Word	word
 2010	09	15	matthew.mckeon	Powerpoint	powerpoint
 2010	09	15	matthew.mckeon	Google Maps	google-maps
@@ -2250,7 +2250,7 @@
 2010	11	30	craig.hockenberry	Pcalc	pcalc
 2010	11	30	craig.hockenberry	Acorn	acorn
 2010	11	30	craig.hockenberry	xScope	xscope
-2010	11	30	craig.hockenberry	VMware Fusion	fusion
+2010	11	30	craig.hockenberry	VMware Fusion	vmware-fusion
 2010	11	30	craig.hockenberry	Remote Desktop	remote-desktop
 2010	11	30	craig.hockenberry	Overflow	overflow
 2010	12	01	jeff.lindsay	Twilio	twilio
@@ -2366,7 +2366,7 @@
 2010	12	05	michael.sippey	Excel	excel
 2010	12	05	michael.sippey	Windows 7	windows-7
 2010	12	05	michael.sippey	Office 2010	office
-2010	12	05	michael.sippey	VMWare's Fusion	fusion
+2010	12	05	michael.sippey	VMWare's Fusion	vmware-fusion
 2010	12	05	michael.sippey	Numbers	numbers
 2010	12	05	michael.sippey	TextMate	textmate
 2010	12	05	michael.sippey	vim	vim
@@ -2796,7 +2796,7 @@
 2011	02	28	rui.carmo	Shelf	shelf
 2011	02	28	rui.carmo	ShiftIt	shiftit
 2011	02	28	rui.carmo	MenuMeters	menumeters
-2011	02	28	rui.carmo	Fusion	fusion
+2011	02	28	rui.carmo	vmware-fusion	vmware-fusion
 2011	02	28	rui.carmo	VirtualBox	virtualbox
 2011	02	28	rui.carmo	Dropbox	dropbox-ios
 2011	02	28	rui.carmo	Evernote	evernote-ios
@@ -2861,7 +2861,7 @@
 2011	03	08	eric.meyer	iPhone 3GS	iphone-3gs
 2011	03	08	eric.meyer	OS X	mac-os-x
 2011	03	08	eric.meyer	Windows XP	windows-xp
-2011	03	08	eric.meyer	VMware Fusion	fusion
+2011	03	08	eric.meyer	VMware Fusion	vmware-fusion
 2011	03	08	eric.meyer	IE	internet-explorer
 2011	03	08	eric.meyer	Windows 7	windows-7
 2011	03	08	eric.meyer	Terminal	terminal
@@ -2959,7 +2959,7 @@
 2011	03	19	thomas.fuchs	Adium	adium
 2011	03	19	thomas.fuchs	Skitch	skitch
 2011	03	19	thomas.fuchs	Textual	textual
-2011	03	19	thomas.fuchs	VMWare Fusion	fusion
+2011	03	19	thomas.fuchs	VMWare Fusion	vmware-fusion
 2011	03	19	thomas.fuchs	Campfire	campfire
 2011	03	19	thomas.fuchs	ServerDensity	server-density
 2011	03	19	thomas.fuchs	Pingdom	pingdom
@@ -3614,7 +3614,7 @@
 2011	06	08	jon.hicks	Opacity	opacity
 2011	06	08	jon.hicks	Adobe Illustrator CS5	illustrator
 2011	06	08	jon.hicks	Coda	coda
-2011	06	08	jon.hicks	VMWare Fusion	fusion
+2011	06	08	jon.hicks	VMWare Fusion	vmware-fusion
 2011	06	08	jon.hicks	Windows XP	windows-xp
 2011	06	08	jon.hicks	7	windows-7
 2011	06	08	jon.hicks	Evernote	evernote-mac
@@ -3877,7 +3877,7 @@
 2011	07	08	david.sleight	Omnigraffle Pro	omnigraffle-pro
 2011	07	08	david.sleight	BBEdit	bbedit
 2011	07	08	david.sleight	Coda	coda
-2011	07	08	david.sleight	VMware Fusion	fusion
+2011	07	08	david.sleight	VMware Fusion	vmware-fusion
 2011	07	08	david.sleight	Things	things
 2011	07	08	david.sleight	iOS devices	things-ios
 2011	07	08	david.sleight	Dropbox	dropbox
@@ -3976,7 +3976,7 @@
 2011	07	25	john.resig	iTerm2	iterm2
 2011	07	25	john.resig	Opera	opera
 2011	07	25	john.resig	Safari	safari
-2011	07	25	john.resig	VMWare Fusion	fusion
+2011	07	25	john.resig	VMWare Fusion	vmware-fusion
 2011	07	25	john.resig	IE	internet-explorer
 2011	07	25	john.resig	MAMP	mamp
 2011	07	25	john.resig	MySQL DB	mysql
@@ -4280,3 +4280,81 @@
 2011	08	17	ruthie.bendor	SoundBooth	soundbooth
 2011	08	17	ruthie.bendor	Audacity	audacity
 2011	08	17	ruthie.bendor	1Password	1password
+2011	08	19	crystal.beasley	MacBook Air	macbook-air
+2011	08	19	crystal.beasley	Apple keyboard	keyboard
+2011	08	19	crystal.beasley	iPhone 4	iphone-4
+2011	08	19	crystal.beasley	Micron pens	pigma-micron
+2011	08	19	crystal.beasley	Copic markers	sketch-marker
+2011	08	19	crystal.beasley	Adium	adium
+2011	08	19	crystal.beasley	Colloquy	colloquy
+2011	08	19	crystal.beasley	CSSEdit	cssedit
+2011	08	19	crystal.beasley	Espresso	espresso
+2011	08	19	crystal.beasley	Adobe Photoshop	photoshop
+2011	08	19	crystal.beasley	Illustrator	illustrator
+2011	08	19	crystal.beasley	InDesign	indesign
+2011	08	19	crystal.beasley	Cloud	cloudapp
+2011	08	19	crystal.beasley	Firefox	firefox
+2011	08	19	crystal.beasley	Cintiq	cintiq
+2011	08	22	julieanne.smolinski	Mac Pro	mac-pro
+2011	08	22	julieanne.smolinski	Blue Snowball mic	snowball
+2011	08	22	julieanne.smolinski	Notepad	notepad
+2011	08	22	julieanne.smolinski	Gmail	gmail
+2011	08	22	julieanne.smolinski	CS5	creative-suite
+2011	08	22	julieanne.smolinski	MSPaint	paint
+2011	08	22	julieanne.smolinski	Twitter	twitter
+2011	08	22	julieanne.smolinski	Macbook	macbook
+2011	08	24	meghan.newell	MacBook Pro	macbook-pro
+2011	08	24	meghan.newell	Mac Pro	mac-pro
+2011	08	24	meghan.newell	WD Scorpio Blue	scorpio-blue
+2011	08	24	meghan.newell	Drobo	drobo
+2011	08	24	meghan.newell	Scorpio Black	scorpio-black
+2011	08	24	meghan.newell	Cinema Display	cinema-display
+2011	08	24	meghan.newell	Intuos	intuos
+2011	08	24	meghan.newell	Bamboo Touch/Pen	bamboo
+2011	08	24	meghan.newell	CanoScan LiDe 9000	canoscan-9000f
+2011	08	24	meghan.newell	Epson Stylus Photo R2000	stylus-photo-r2000
+2011	08	24	meghan.newell	20D	eos-20d
+2011	08	24	meghan.newell	24-70 mm	ef-24-70mm-usm
+2011	08	24	meghan.newell	Panasonic GF1	lumix-gf1
+2011	08	24	meghan.newell	TomBow ABT	dual-brush-pen-abt
+2011	08	24	meghan.newell	Staedtler Mars Lumograph	mars-lumograph
+2011	08	24	meghan.newell	Graphics 360	graphics-360
+2011	08	24	meghan.newell	Kindle	kindle
+2011	08	24	meghan.newell	Photoshop	photoshop
+2011	08	24	meghan.newell	Illustrator	illustrator
+2011	08	24	meghan.newell	Cinema4d	cinema-4d
+2011	08	24	meghan.newell	After Effects	after-effects
+2011	08	24	meghan.newell	Flash	flash
+2011	08	24	meghan.newell	Coda	coda
+2011	08	24	meghan.newell	Chrome	chrome
+2011	08	24	meghan.newell	Firebug	firebug
+2011	08	24	meghan.newell	Transmit	transmit
+2011	08	24	meghan.newell	Adium	adium
+2011	08	24	meghan.newell	Mail	mail
+2011	08	24	meghan.newell	iCal	ical
+2011	08	24	meghan.newell	Processing	processing
+2011	08	24	meghan.newell	Python	python
+2011	08	24	meghan.newell	Suitcase Fusion 3	suitcase-fusion
+2011	08	24	meghan.newell	Linotype Font Explorer	fontexplorer-x
+2011	08	26	fabian.pross	Wacom Intous 4	intuos
+2011	08	26	fabian.pross	Apple Cinema Display	cinema-display
+2011	08	26	fabian.pross	Dell U 2410	u2410
+2011	08	26	fabian.pross	Canon EOS 500d	eos-500d
+2011	08	26	fabian.pross	Goliath KackelDackel	kackel-dackel
+2011	08	26	fabian.pross	IKEA Verner	verner
+2011	08	26	fabian.pross	Burton Shooter Case	shooter-case
+2011	08	26	fabian.pross	iPad	ipad
+2011	08	26	fabian.pross	iPhone	iphone
+2011	08	26	fabian.pross	Palm Pixie Plus	pixie-plus
+2011	08	26	fabian.pross	Macbook Pro	macbook-pro
+2011	08	26	fabian.pross	Autodesk Softimage	softimage
+2011	08	26	fabian.pross	Royal Render	royal-render
+2011	08	26	fabian.pross	Eyeon Fusion	fusion
+2011	08	26	fabian.pross	Photoshop	photoshop
+2011	08	26	fabian.pross	After Effects	after-effects
+2011	08	26	fabian.pross	Chrome	chrome
+2011	08	26	fabian.pross	Firefox	firefox
+2011	08	26	fabian.pross	Google Docs	google-docs
+2011	08	26	fabian.pross	Mac OS	mac-os-x
+2011	08	26	fabian.pross	Windows 7	windows-7
+2011	08	26	fabian.pross	Ubuntu 64	ubuntu-server
