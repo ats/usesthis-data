@@ -107,8 +107,8 @@
 2009	01	22	john.gruber	iPhone 3G	iphone-3g
 2009	01	22	john.gruber	Ricoh GR-D	gr-digital
 2009	01	22	john.gruber	Rebel XT	rebel-xt
-2009	01	22	john.gruber	28mm	ef-28mm
-2009	01	22	john.gruber	50mm	ef-50mm-usm
+2009	01	22	john.gruber	28mm	ef-28mm-f2.8
+2009	01	22	john.gruber	50mm	ef-50mm-f1.8-ii
 2009	01	22	john.gruber	Flip Ultra	flip-ultra
 2009	01	22	john.gruber	Kodak Zi6	zi6
 2009	01	22	john.gruber	G-Raid2	g-raid2
@@ -309,8 +309,8 @@
 2009	04	01	garrett.murray	Airport Extremes	airport-extreme
 2009	04	01	garrett.murray	Digidesign Mbox 2	mbox
 2009	04	01	garrett.murray	Panasonic HVX-200A	ag-hvx200a
-2009	04	01	garrett.murray	50mm	af-50mm
-2009	04	01	garrett.murray	28mm	af-28mm
+2009	04	01	garrett.murray	50mm	af-nikkor-50mm-f1.8d
+2009	04	01	garrett.murray	28mm	af-nikkor-28mm-f2.8d
 2009	04	01	garrett.murray	Nikon D90	d90
 2009	04	01	garrett.murray	iPhone	iphone-3g
 2009	04	01	garrett.murray	TextMate	textmate
@@ -795,7 +795,7 @@
 2009	10	02	amit.gupta	geekdesk height-adjustable standing/sitting desk	geekdesk
 2009	10	02	amit.gupta	Mirra chair	mirra
 2009	10	02	amit.gupta	Nikon D70	d70
-2009	10	02	amit.gupta	50mm 1.8	af-50mm
+2009	10	02	amit.gupta	50mm 1.8	af-nikkor-50mm-f1.8d
 2009	10	02	amit.gupta	Canon SD800IS	powershot-sd800
 2009	10	02	amit.gupta	Flip HDs	flip-ultra-hd
 2009	10	02	amit.gupta	Mail.app	mail
@@ -1023,7 +1023,7 @@
 2009	12	03	loren.brichter	iPhone 3GS	iphone-3gs
 2009	12	03	loren.brichter	iPod touches	ipod-touch
 2009	12	03	loren.brichter	Nikon D700	d700
-2009	12	03	loren.brichter	50mm f/1.4	af-50mm
+2009	12	03	loren.brichter	50mm f/1.4	af-nikkor-50mm-f1.4d
 2009	12	03	loren.brichter	Wii	wii
 2009	12	03	loren.brichter	PS3	ps3
 2009	12	03	loren.brichter	Tweetie	tweetie
@@ -1545,7 +1545,7 @@
 2010	06	08	craig.mod	CodeIgniter	codeigniter
 2010	06	08	craig.mod	Expression Engine	expressionengine
 2010	06	08	craig.mod	Transmit	transmit
-2010	06	08	craig.mod	Crash Plan	crash-plan
+2010	06	08	craig.mod	Crash Plan	crashplan
 2010	06	08	craig.mod	Git	git
 2010	06	08	craig.mod	GitHub	github
 2010	06	08	craig.mod	Lightroom	lightroom
@@ -1755,9 +1755,9 @@
 2010	08	10	dave.shea	a mouse	magic-mouse
 2010	08	10	dave.shea	keyboard	keyboard
 2010	08	10	dave.shea	Canon 20D	rebel-xt
-2010	08	10	dave.shea	28-135mm	ef-28mm
-2010	08	10	dave.shea	10-22mm EF-S	ef-s-10-22mm-usm
-2010	08	10	dave.shea	50mm f/1.8 prime	ef-50mm-usm
+2010	08	10	dave.shea	28-135mm	ef-28mm-f2.8
+2010	08	10	dave.shea	10-22mm EF-S	ef-s-10-22mm-f3.5-4.5-usm
+2010	08	10	dave.shea	50mm f/1.8 prime	ef-50mm-f1.8-ii
 2010	08	10	dave.shea	32GB iPhone 3GS	iphone-3gs
 2010	08	10	dave.shea	aluminum model	iphone
 2010	08	10	dave.shea	CS4	creative-suite
@@ -2167,8 +2167,8 @@
 2010	11	11	james.gosling	Kindles	kindle
 2010	11	11	james.gosling	iPad	ipad
 2010	11	11	james.gosling	Canon EOS 5D Mark II	eos-5d-mark-ii
-2010	11	11	james.gosling	EF 24-105mm f/4L IS USM	ef-24-105mm-is-usm
-2010	11	11	james.gosling	EF 100-400mm f/4.5-5.6L IS USM	ef-100-400mm-is-usm
+2010	11	11	james.gosling	EF 24-105mm f/4L IS USM	ef-24-105mm-f4l-is-usm
+2010	11	11	james.gosling	EF 100-400mm f/4.5-5.6L IS USM	ef-100-400mm-f4.5-5.6l-is-usm
 2010	11	11	james.gosling	Olympus STYLUS TOUGH-6020	stylus-tough-6020
 2010	11	11	james.gosling	Indigo	indigo
 2010	11	11	james.gosling	iMac	imac
@@ -2396,7 +2396,7 @@
 2010	12	06	todd.dominey	Aeron	aeron
 2010	12	06	todd.dominey	Mirra	mirra
 2010	12	06	todd.dominey	Magic Mouse	magic-mouse
-2010	12	06	todd.dominey	Grado SR-80s	sr80
+2010	12	06	todd.dominey	Grado SR-80s	sr80i
 2010	12	06	todd.dominey	Samson C03U	c03u
 2010	12	06	todd.dominey	Canon 7D	eos-7d
 2010	12	06	todd.dominey	Photoshop CS5	photoshop
@@ -3045,8 +3045,8 @@
 2011	03	29	nate.smith	iPad	ipad
 2011	03	29	nate.smith	Nikon D700	d700
 2011	03	29	nate.smith	Nikon D300	d300
-2011	03	29	nate.smith	Nikkor 24-70 2.8	af-s-24-70mm
-2011	03	29	nate.smith	Nikkor 24-120 3.5-5.6	af-s-24-120mm
+2011	03	29	nate.smith	Nikkor 24-70 2.8	af-s-nikkor-24-70mm-f2.8g-ed
+2011	03	29	nate.smith	Nikkor 24-120 3.5-5.6	af-s-nikkor-24-120mm-f3.5-5.6g-if-ed
 2011	03	29	nate.smith	Sigma 70-200 2.8	70-200mm-ex-dg
 2011	03	29	nate.smith	SB-800	sb-800-af-speedlight
 2011	03	29	nate.smith	Quantum Battery 1+	qb-1-plus
@@ -3147,7 +3147,7 @@
 2011	04	09	russ.cox	QC15	quietcomfort-15
 2011	04	09	russ.cox	Nexus One phone	nexus-one
 2011	04	09	russ.cox	Nikon D90	d90
-2011	04	09	russ.cox	18-200mm AF-S lens	af-s-18-200mm
+2011	04	09	russ.cox	18-200mm AF-S lens	af-s-dx-nikkor-18-200mm-f3.5-5.6g-ed-vr-ii
 2011	04	09	russ.cox	Kindle 3	kindle
 2011	04	09	russ.cox	Plan 9 from Bell Labs	plan-9
 2011	04	09	russ.cox	Plan 9 from User Space	plan-9-user-space
@@ -3380,9 +3380,17 @@
 2011	05	07	anil.dash	Google Authenticator app	google-authenticator-ios
 2011	05	07	anil.dash	DropBox	dropbox
 2011	05	09	kathryn.yu	Canon 5D Mark II	eos-5d-mark-ii
-2011	05	09	kathryn.yu	Canon 70-200mm f/2.8 IS lens	ef-70-200mm-is-usm
+2011	05	09	kathryn.yu	Canon 70-200mm f/2.8 IS lens	ef-70-200mm-f2.8l-is-usm
 2011	05	09	kathryn.yu	580 EX's	speedlight-580ex
 2011	05	09	kathryn.yu	430 EX's	speedlight-430ex
+2011	05	09	kathryn.yu	Lomo LC-A's	lc-a
+2011	05	09	kathryn.yu	Holga	holga
+2011	05	09	kathryn.yu	Diana	diana
+2011	05	09	kathryn.yu	Lomo Sprocket Rocket	sprocket-rocket
+2011	05	09	kathryn.yu	Lomo Fisheye 2	fisheye-2
+2011	05	09	kathryn.yu	Lomo ActionSampler	actionsampler
+2011	05	09	kathryn.yu	Vivitar Ultra Wide and Slim	ultra-wide-and-slim
+2011	05	09	kathryn.yu	Olympus XA2	xa2
 2011	05	09	kathryn.yu	MacBook Air	macbook-air
 2011	05	09	kathryn.yu	iView MediaPro	iview-mediapro
 2011	05	09	kathryn.yu	Photo Mechanic	photo-mechanic
@@ -3475,10 +3483,10 @@
 2011	05	21	mark.jardine	Canon 5D Mark II	eos-5d-mark-ii
 2011	05	21	mark.jardine	430ex	speedlight-430ex
 2011	05	21	mark.jardine	580ex	speedlight-580ex
-2011	05	21	mark.jardine	35mm 1.4L	ef-35mm-usm
-2011	05	21	mark.jardine	50mm 1.2L	ef-50mm-usm
-2011	05	21	mark.jardine	16-35 2.8L	ef-16-35mm-ii-usm
-2011	05	21	mark.jardine	70-200mm 2.8L IS	ef-70-200mm-is-usm
+2011	05	21	mark.jardine	35mm 1.4L	ef-35mm-f1.4l-usm
+2011	05	21	mark.jardine	50mm 1.2L	ef-50mm-f1.2l-usm
+2011	05	21	mark.jardine	16-35 2.8L	ef-16-35mm-f2.8l-ii-usm
+2011	05	21	mark.jardine	70-200mm 2.8L IS	ef-70-200mm-f2.8l-is-usm
 2011	05	21	mark.jardine	Steadicam Merlin	steadicam-merlin
 2011	05	21	mark.jardine	indislider Pro	indisliderpro
 2011	05	21	mark.jardine	Mac OS X	mac-os-x
@@ -3821,6 +3829,7 @@
 2011	07	04	laura.brunow.miner	cinema display	cinema-display
 2011	07	04	laura.brunow.miner	iPhone 4	iphone-4
 2011	07	04	laura.brunow.miner	Canon 5D Mark II	eos-5d-mark-ii
+2011	07	04	laura.brunow.miner	Lomo LC-A+	lc-a-plus
 2011	07	04	laura.brunow.miner	Django	django
 2011	07	04	laura.brunow.miner	Photoshop	photoshop
 2011	07	04	laura.brunow.miner	Lightroom	lightroom
@@ -4121,14 +4130,14 @@
 2011	08	08	boone.speed	5d2	eos-5d-mark-ii
 2011	08	08	boone.speed	7d	eos-7d
 2011	08	08	boone.speed	60d	eos-60d
-2011	08	08	boone.speed	24-70 2.8L	ef-24-70mm-usm
-2011	08	08	boone.speed	16-35 2.8 L II	ef-16-35mm-ii-usm
-2011	08	08	boone.speed	14mm 2.8	ef-14mm-ii-usm
-2011	08	08	boone.speed	24mm 1.4L II	ef-24mm-ii-usm
+2011	08	08	boone.speed	24-70 2.8L	ef-24-70mm-f2.8l-usm
+2011	08	08	boone.speed	16-35 2.8 L II	ef-16-35mm-f2.8l-ii-usm
+2011	08	08	boone.speed	14mm 2.8	ef-14mm-f2.8l-ii-usm
+2011	08	08	boone.speed	24mm 1.4L II	ef-24mm-f1.4l-ii-usm
 2011	08	08	boone.speed	90mm 2.8 Tilt/Shift	ts-e-90mm
-2011	08	08	boone.speed	50mm 1.2L	ef-50mm-usm
+2011	08	08	boone.speed	50mm 1.2L	ef-50mm-f1.2l-usm
 2011	08	08	boone.speed	17mm f4 Tilt Shift	ts-e-17mm
-2011	08	08	boone.speed	70-200 2.8L II	ef-70-200mm-is-usm
+2011	08	08	boone.speed	70-200 2.8L II	ef-70-200mm-f2.8l-is-usm
 2011	08	08	boone.speed	Lowepro CompuPrimus AW pack	compuprimus-aw
 2011	08	08	boone.speed	Profoto D1 500 Air	d1-air-500
 2011	08	08	boone.speed	Ikan 500 LED	id-500
@@ -4314,7 +4323,7 @@
 2011	08	24	meghan.newell	CanoScan LiDe 9000	canoscan-9000f
 2011	08	24	meghan.newell	Epson Stylus Photo R2000	stylus-photo-r2000
 2011	08	24	meghan.newell	20D	eos-20d
-2011	08	24	meghan.newell	24-70 mm	ef-24-70mm-usm
+2011	08	24	meghan.newell	24-70 mm	ef-24-70mm-f2.8l-usm
 2011	08	24	meghan.newell	Panasonic GF1	lumix-gf1
 2011	08	24	meghan.newell	TomBow ABT	dual-brush-pen-abt
 2011	08	24	meghan.newell	Staedtler Mars Lumograph	mars-lumograph
@@ -4358,3 +4367,281 @@
 2011	08	26	fabian.pross	Mac OS	mac-os-x
 2011	08	26	fabian.pross	Windows 7	windows-7
 2011	08	26	fabian.pross	Ubuntu 64	ubuntu-server
+2011	08	29	nozlee.samadzadeh	Alpine	alpine
+2011	08	29	nozlee.samadzadeh	HP DV2419	pavilion-dv2419us
+2011	08	29	nozlee.samadzadeh	Antec USB-powered cooling pad	notebook-cooler
+2011	08	29	nozlee.samadzadeh	iPhone	iphone-3g
+2011	08	29	nozlee.samadzadeh	Power Mac G5	power-mac-g5
+2011	08	29	nozlee.samadzadeh	iMac	imac
+2011	08	29	nozlee.samadzadeh	Toshiba Satellite	satellite-l645d-s4100
+2011	08	29	nozlee.samadzadeh	Dell Dimension 2400	dimension-2400
+2011	08	29	nozlee.samadzadeh	iPads	ipad
+2011	08	29	nozlee.samadzadeh	Netflix	netflix
+2011	08	29	nozlee.samadzadeh	MUDDUS	muddus
+2011	08	29	nozlee.samadzadeh	Saarinen Tulip chair	tulip-chair
+2011	08	29	nozlee.samadzadeh	Pilot	precise-v5
+2011	08	29	nozlee.samadzadeh	Bialetti Moka pots	moka-express
+2011	08	29	nozlee.samadzadeh	Firefox	firefox
+2011	08	29	nozlee.samadzadeh	Chrome	chrome
+2011	08	29	nozlee.samadzadeh	Gmail/Gchat	gmail
+2011	08	29	nozlee.samadzadeh	Stellar	stellar
+2011	08	29	nozlee.samadzadeh	Rdio	rdio
+2011	08	29	nozlee.samadzadeh	Google Docs	google-docs
+2011	08	29	nozlee.samadzadeh	Artlog	artlog
+2011	08	29	nozlee.samadzadeh	Notepad	notepad
+2011	08	29	nozlee.samadzadeh	TextEdit	textedit
+2011	08	29	nozlee.samadzadeh	Open Office	openoffice
+2011	08	29	nozlee.samadzadeh	Kinja	kinja
+2011	08	29	nozlee.samadzadeh	Google Reader	google-reader
+2011	08	29	nozlee.samadzadeh	Greymatter	greymatter
+2011	08	29	nozlee.samadzadeh	Pitas	pitas
+2011	08	29	nozlee.samadzadeh	Xanga	xanga
+2011	08	29	nozlee.samadzadeh	Wordpress	wordpress
+2011	08	29	nozlee.samadzadeh	Tumblr	tumblr
+2011	08	29	nozlee.samadzadeh	ShakeItPhoto	shakeitphoto-ios
+2011	08	29	nozlee.samadzadeh	Twitter for iPhone	twitter-ios
+2011	08	29	nozlee.samadzadeh	How to Cook Everything	how-to-cook-everything-ios
+2011	08	29	nozlee.samadzadeh	Words with Friends	words-with-friends-ios
+2011	08	29	nozlee.samadzadeh	Kindle for iPhone	kindle-ios
+2011	08	29	nozlee.samadzadeh	Exit Strategy NYC	exit-strategy-nyc-ios
+2011	08	29	nozlee.samadzadeh	Rdio for iPhone	rdio-ios
+2011	08	29	nozlee.samadzadeh	Recorder for iPhone	recorder-ios
+2011	08	29	nozlee.samadzadeh	FMC	free-menstrual-calendar-ios
+2011	08	29	nozlee.samadzadeh	Gourmet Live	gourmet-live-ios
+2011	08	29	nozlee.samadzadeh	Safari	safari-ios
+2011	08	29	nozlee.samadzadeh	Adobe CS5	creative-suite
+2011	08	29	nozlee.samadzadeh	Microsoft Excel	excel
+2011	08	29	nozlee.samadzadeh	Basecamp	basecamp
+2011	08	29	nozlee.samadzadeh	Unfuddle	unfuddle
+2011	08	29	nozlee.samadzadeh	Internet Explorer	internet-explorer
+2011	08	29	nozlee.samadzadeh	BBEdit	bbedit
+2011	08	29	nozlee.samadzadeh	Terminal	terminal
+2011	08	29	nozlee.samadzadeh	Wayback Machine	wayback-machine
+2011	08	31	sirron.norris	iMac	imac
+2011	08	31	sirron.norris	Wacom Cintiq	cintiq
+2011	08	31	sirron.norris	iPad	ipad
+2011	08	31	sirron.norris	SketchBook Pro	sketchbook-pro-ios
+2011	08	31	sirron.norris	Apple TV	apple-tv
+2011	08	31	sirron.norris	Photoshop CS4	photoshop
+2011	08	31	sirron.norris	Illustrator	illustrator
+2011	08	31	sirron.norris	Pagemaker	pagemaker
+2011	08	31	sirron.norris	Cinema 4D	cinema-4d
+2011	08	31	sirron.norris	Unity 3D	unity
+2011	08	31	sirron.norris	Toon Boom	toon-boom-studio
+2011	08	31	sirron.norris	iMovie	imovie
+2011	08	31	sirron.norris	Word	word
+2011	08	31	sirron.norris	Excel	excel
+2011	08	31	sirron.norris	Powerpoint	powerpoint
+2011	09	02	misha.glouberman	XP	windows-xp
+2011	09	02	misha.glouberman	Windows 7	windows-7
+2011	09	02	misha.glouberman	FolderShare	foldershare
+2011	09	02	misha.glouberman	DropBox	dropbox
+2011	09	02	misha.glouberman	Thunderbird	thunderbird
+2011	09	02	misha.glouberman	Autohotkey	autohotkey
+2011	09	02	misha.glouberman	Gmail	gmail
+2011	09	02	misha.glouberman	SpamAssassin	spamassassin
+2011	09	02	misha.glouberman	fastmail.fm	fastmail
+2011	09	02	misha.glouberman	ColdFusion	coldfusion
+2011	09	02	misha.glouberman	MailChimp	mailchimp
+2011	09	05	robin.hunicke	2408 WFP	2408wfp
+2011	09	05	robin.hunicke	Journey	journey
+2011	09	05	robin.hunicke	Contour Roller Mouse Pro	rollermouse-pro
+2011	09	05	robin.hunicke	CA-2022R speakers	ca-2022r
+2011	09	05	robin.hunicke	Bose "On-Ear" headphones	on-ear
+2011	09	05	robin.hunicke	MDR-CD180's	mdr-cd180
+2011	09	05	robin.hunicke	Skype	skype
+2011	09	05	robin.hunicke	PS3	ps3
+2011	09	05	robin.hunicke	KDL-V40XBR1	kdl-v40xbr1
+2011	09	05	robin.hunicke	SIXAXIS	sixaxis
+2011	09	05	robin.hunicke	F-series Sony Vaio	vaio-f-series
+2011	09	05	robin.hunicke	Wii	wii
+2011	09	05	robin.hunicke	PS2	ps2
+2011	09	05	robin.hunicke	360 Elite	xbox-360
+2011	09	05	robin.hunicke	Specialized Roubaix Elite	roubaix-elite
+2011	09	05	robin.hunicke	Nikon D-700	d700
+2011	09	05	robin.hunicke	16-35mm f/4 VR	af-s-nikkor-16-35mm-f4g-ed-vr
+2011	09	05	robin.hunicke	50mm f/1.4	af-nikkor-50mm-f1.4d
+2011	09	05	robin.hunicke	TENORI-ON	tenori-on-ios
+2011	09	05	robin.hunicke	Gmail	gmail
+2011	09	05	robin.hunicke	Google Calendar	google-calendar
+2011	09	05	robin.hunicke	Google Docs	google-docs
+2011	09	05	robin.hunicke	Word	word
+2011	09	05	robin.hunicke	Excel	excel
+2011	09	05	robin.hunicke	Perforce	perforce
+2011	09	05	robin.hunicke	ProDG	prodg
+2011	09	05	robin.hunicke	Notepad++	notepad-plusplus
+2011	09	05	robin.hunicke	Maya	maya
+2011	09	05	robin.hunicke	rdio	rdio
+2011	09	05	robin.hunicke	Wordpress	wordpress
+2011	09	05	robin.hunicke	Twitter	twitter
+2011	09	05	robin.hunicke	Facebook	facebook
+2011	09	05	robin.hunicke	Photoshop CS4	photoshop
+2011	09	05	robin.hunicke	Instagram	instagram-ios
+2011	09	05	robin.hunicke	Lightroom	lightroom
+2011	09	05	robin.hunicke	Epicurious	epicurious
+2011	09	07	kris.piotrowski	Nintendo DS	might-and-magic-clash-of-heroes
+2011	09	07	kris.piotrowski	Superbrothers: Sword & Sworcery EP	sword-and-sworcery-ios
+2011	09	07	kris.piotrowski	13" MacBook	macbook
+2011	09	07	kris.piotrowski	PS3	ps3
+2011	09	07	kris.piotrowski	Xbox 360	xbox-360
+2011	09	07	kris.piotrowski	Vita kits	vita
+2011	09	07	kris.piotrowski	these little guys	usb-retrobit-snes-pc-controller
+2011	09	07	kris.piotrowski	Grado SR80	sr80i
+2011	09	07	kris.piotrowski	Google Docs	google-docs
+2011	09	07	kris.piotrowski	Photoshop	photoshop
+2011	09	07	kris.piotrowski	Boot Camp	boot-camp
+2011	09	07	kris.piotrowski	Windows XP	windows-xp
+2011	09	07	kris.piotrowski	X-COM	ufo-enemy-unknown
+2011	09	07	kris.piotrowski	Wunderlist	wunderlist
+2011	09	07	kris.piotrowski	Tweetie	twitter-mac
+2011	09	07	kris.piotrowski	Twitter	twitter
+2011	09	07	kris.piotrowski	Korg Monotron	monotron
+2011	09	07	kris.piotrowski	DOSBOX	dosbox
+2011	09	07	kris.piotrowski	iTunes	itunes
+2011	09	07	kris.piotrowski	this chair	cocon
+2011	09	09	yusuke.endoh	Thinkpad X60	thinkpad-x60
+2011	09	09	yusuke.endoh	X200	thinkpad-x200
+2011	09	09	yusuke.endoh	X24	thinkpad-x24
+2011	09	09	yusuke.endoh	Kubuntu	kubuntu
+2011	09	09	yusuke.endoh	Debian	debian
+2011	09	09	yusuke.endoh	OS X,	mac-os-x
+2011	09	09	yusuke.endoh	Ruby	ruby
+2011	09	09	yusuke.endoh	Kubuntu	kubuntu
+2011	09	09	yusuke.endoh	Debian	debian
+2011	09	09	yusuke.endoh	vim	vim
+2011	09	09	yusuke.endoh	kate	kate
+2011	09	09	yusuke.endoh	git	git
+2011	09	09	yusuke.endoh	mlterm	mlterm
+2011	09	09	yusuke.endoh	bash	bash
+2011	09	09	yusuke.endoh	Google Chrome	chrome
+2011	09	09	yusuke.endoh	Gmail	gmail
+2011	09	09	yusuke.endoh	Github	github
+2011	09	09	yusuke.endoh	C	c
+2011	09	09	yusuke.endoh	Ocaml	ocaml
+2011	09	09	yusuke.endoh	Haskell	haskell
+2011	09	09	yusuke.endoh	Scala	scala
+2011	09	09	yusuke.endoh	emacs	emacs
+2011	09	12	kevin.meredith	Lomo LC-A	lc-a
+2011	09	12	kevin.meredith	Flickr	flickr
+2011	09	12	kevin.meredith	LC-A+s	lc-a-plus
+2011	09	12	kevin.meredith	Lomo LC-W	lc-wide
+2011	09	12	kevin.meredith	Contax T2	contax-t2
+2011	09	12	kevin.meredith	Olympus Mju ii	mju-ii
+2011	09	12	kevin.meredith	Canon 5D	eos-5d
+2011	09	12	kevin.meredith	28mm - 70mm 2.8 L lens	ef-28-70mm-f2.8l-usm
+2011	09	12	kevin.meredith	50mm 1.4	ef-50mm-f1.4-usm
+2011	09	12	kevin.meredith	Mac Pro	mac-pro
+2011	09	12	kevin.meredith	Caviar Black	caviar-black
+2011	09	12	kevin.meredith	Time Machine	time-machine
+2011	09	12	kevin.meredith	Drobo	drobo
+2011	09	12	kevin.meredith	Crashplan	crashplan
+2011	09	12	kevin.meredith	Mozy	mozy
+2011	09	12	kevin.meredith	Apple monitor	cinema-display
+2011	09	12	kevin.meredith	Magic Mouse	magic-mouse
+2011	09	12	kevin.meredith	MacBook Pro	macbook-pro
+2011	09	12	kevin.meredith	iPhone 4	iphone-4
+2011	09	12	kevin.meredith	Mac Mini	mac-mini
+2011	09	12	kevin.meredith	Instagram	instagram-ios
+2011	09	12	kevin.meredith	Everyday	everyday-ios
+2011	09	12	kevin.meredith	Hipstamatic	hipstamatic-ios
+2011	09	12	kevin.meredith	Evernote	evernote-ios
+2011	09	12	kevin.meredith	DropBox	dropbox-ios
+2011	09	12	kevin.meredith	Lightroom 3	lightroom
+2011	09	12	kevin.meredith	Photoshop CS5	photoshop
+2011	09	12	kevin.meredith	After Effects CS5	after-effects
+2011	09	12	kevin.meredith	Keynote	keynote
+2011	09	12	kevin.meredith	Pages	pages
+2011	09	12	kevin.meredith	Google Docs	google-docs
+2011	09	12	kevin.meredith	Numbers	numbers
+2011	09	12	kevin.meredith	Typinator	typinator
+2011	09	12	kevin.meredith	JumpCut	jumpcut
+2011	09	12	kevin.meredith	Skitch	skitch
+2011	09	12	kevin.meredith	twitter.com	twitter
+2011	09	12	kevin.meredith	mail.google.com	gmail
+2011	09	12	kevin.meredith	delicious	delicious
+2011	09	12	kevin.meredith	Firefox's	firefox
+2011	09	12	kevin.meredith	Safari	safari
+2011	09	12	kevin.meredith	Wordpress	wordpress
+2011	09	12	kevin.meredith	Aperture	aperture
+2011	09	14	ed.hunsinger	Macbook Pro	macbook-pro
+2011	09	14	ed.hunsinger	Sidekick	sidekick
+2011	09	14	ed.hunsinger	iPhone 4G	iphone-4
+2011	09	14	ed.hunsinger	iPad 3G	ipad-3g
+2011	09	14	ed.hunsinger	Canon S90	powershot-s90
+2011	09	14	ed.hunsinger	Vmoda Vibe Duo	vibe-duo
+2011	09	14	ed.hunsinger	Powermat	powermat
+2011	09	14	ed.hunsinger	Kensington Battery pack	travel-battery-pack
+2011	09	14	ed.hunsinger	Pentax K10D	k10d
+2011	09	14	ed.hunsinger	Garmin eTrex Vista HCx	etrex-vista-hcx
+2011	09	14	ed.hunsinger	Skeletool	skeletool
+2011	09	14	ed.hunsinger	Leatherman Charge	charge-tti
+2011	09	14	ed.hunsinger	Viewsonic VX2239	vx2233wm
+2011	09	14	ed.hunsinger	keyboard	keyboard
+2011	09	14	ed.hunsinger	Logitech MX518 mouse	mx-518
+2011	09	14	ed.hunsinger	Mac Mini	mac-mini
+2011	09	14	ed.hunsinger	Airport Express	airport-express
+2011	09	14	ed.hunsinger	Griffin Evolve Wireless	evolve
+2011	09	14	ed.hunsinger	Xbox 360	xbox-360
+2011	09	14	ed.hunsinger	Netgear N300	n300
+2011	09	14	ed.hunsinger	Firefox	firefox
+2011	09	14	ed.hunsinger	inbox	gmail
+2011	09	14	ed.hunsinger	Google Docs	google-docs
+2011	09	14	ed.hunsinger	TextMate	textmate
+2011	09	14	ed.hunsinger	1Password	1password
+2011	09	14	ed.hunsinger	Lightroom	lightroom
+2011	09	14	ed.hunsinger	Plex	plex
+2011	09	14	ed.hunsinger	iTunes	itunes
+2011	09	14	ed.hunsinger	Remote App	remote-ios
+2011	09	14	ed.hunsinger	Syncopation	syncopation
+2011	09	14	ed.hunsinger	Crashplan	crashplan
+2011	09	14	ed.hunsinger	Wordpress	wordpress
+2011	09	16	rob.malda	MacBook Pro	macbook-pro
+2011	09	16	rob.malda	Drobo	drobo
+2011	09	16	rob.malda	iPhone 4	iphone-4
+2011	09	16	rob.malda	PS3	ps3
+2011	09	16	rob.malda	XBox 360	xbox-360
+2011	09	16	rob.malda	Xoom	xoom
+2011	09	16	rob.malda	Canon 5D Mark II	eos-5d-mark-ii
+2011	09	16	rob.malda	Apple screen	cinema-display
+2011	09	16	rob.malda	keyboard	keyboard
+2011	09	16	rob.malda	PodPro	pod-pro
+2011	09	16	rob.malda	Gibson SG	sg-standard
+2011	09	16	rob.malda	Chrome	chrome
+2011	09	16	rob.malda	Fluid	fluid
+2011	09	16	rob.malda	Mail	gmail
+2011	09	16	rob.malda	Google Reader	google-reader
+2011	09	16	rob.malda	Google Docs	google-docs
+2011	09	16	rob.malda	Jira	jira
+2011	09	16	rob.malda	Warcraft	wow
+2011	09	16	rob.malda	Aperture	aperture
+2011	09	16	rob.malda	Apple TV	apple-tv
+2011	09	16	rob.malda	EF 600mm f/4.0 IS II	ef-600mm-f4l-is-usm
+2011	09	16	rob.malda	EF 400mm f/2.8 IS II	ef-400mm-f2.8l-is-ii-usm
+2011	09	19	amy.jean.porter	MacBook Pro	macbook-pro
+2011	09	19	amy.jean.porter	Photoshop	photoshop
+2011	09	19	amy.jean.porter	GoLive	golive
+2011	09	19	amy.jean.porter	InDesign	indesign
+2011	09	19	amy.jean.porter	Illustrator	illustrator
+2011	09	19	amy.jean.porter	iMac	imac
+2011	09	20	matt.hammill	Gesundheit!	gesundheit-ios
+2011	09	20	matt.hammill	Dell Studio XPS laptop	studio-xps-1647
+2011	09	20	matt.hammill	I-Inc monitor	if-281dpb
+2011	09	20	matt.hammill	Mustek A3 scanner	scanexpress-a3-usb-1200-pro
+2011	09	20	matt.hammill	Intuos3	intuos
+2011	09	20	matt.hammill	Alesis MultiMix 8 USB mixer	multimix-8
+2011	09	20	matt.hammill	iPod Touches	ipod-touch
+2011	09	20	matt.hammill	iPad 1	ipad
+2011	09	20	matt.hammill	Windows 7	windows-7
+2011	09	20	matt.hammill	Adobe CS2	creative-suite
+2011	09	20	matt.hammill	Photoshop	photoshop
+2011	09	20	matt.hammill	After Effects	after-effects
+2011	09	20	matt.hammill	Toon Boom Studio 4.5	toon-boom-studio
+2011	09	20	matt.hammill	Adventure Game Studio	adventure-game-studio
+2011	09	20	matt.hammill	Windows XP	windows-xp
+2011	09	20	matt.hammill	Cubase LE	cubase-le
+2011	09	20	matt.hammill	Chrome	chrome
+2011	09	20	matt.hammill	Open Office	openoffice
+2011	09	20	matt.hammill	Google Docs	google-docs
+2011	09	20	matt.hammill	Twhirl	twhirl
+2011	09	20	matt.hammill	Macbook Pro	macbook-pro
+2011	09	20	matt.hammill	Cintiqs	cintiq
