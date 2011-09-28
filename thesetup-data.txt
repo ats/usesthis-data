@@ -3296,7 +3296,7 @@
 2011	04	30	andy.smith	SteelSeries QcK Heavy	qck-heavy
 2011	04	30	andy.smith	HD 280 Pros	hd-280-pro
 2011	04	30	andy.smith	HD 650's	hd-650
-2011	04	30	andy.smith	Technic SL1200MK2	sl-1200-mk2
+2011	04	30	andy.smith	Technic SL1200MK2	sl-1200
 2011	04	30	andy.smith	Shuttle XPC	g2-7600
 2011	04	30	andy.smith	Cr-48	cr-48
 2011	04	30	andy.smith	30" Dell monitor	3007wfp
@@ -4645,3 +4645,63 @@
 2011	09	20	matt.hammill	Twhirl	twhirl
 2011	09	20	matt.hammill	Macbook Pro	macbook-pro
 2011	09	20	matt.hammill	Cintiqs	cintiq
+2011	09	23	chris.slowe	Hipmunk	hipmunk
+2011	09	23	chris.slowe	iPhone 4	iphone-4
+2011	09	23	chris.slowe	iPad	ipad
+2011	09	23	chris.slowe	Macbook Pro	macbook-pro
+2011	09	23	chris.slowe	Mac Mini	mac-mini
+2011	09	23	chris.slowe	EC2	ec2
+2011	09	23	chris.slowe	Ubuntu	ubuntu
+2011	09	23	chris.slowe	Python	python
+2011	09	23	chris.slowe	Tornado	tornado
+2011	09	23	chris.slowe	HAProxy	haproxy
+2011	09	23	chris.slowe	MongoDB	mongodb
+2011	09	23	chris.slowe	Mako	mako
+2011	09	23	chris.slowe	CoffeeScript	coffeescript
+2011	09	23	chris.slowe	Sass	sass
+2011	09	23	chris.slowe	Emacs	emacs
+2011	09	23	chris.slowe	Terminal	terminal
+2011	09	23	chris.slowe	Chrome	chrome
+2011	09	23	chris.slowe	Steam	steam
+2011	09	23	chris.slowe	VMware	vmware-fusion
+2011	09	23	chris.slowe	Firefox	firefox
+2011	09	23	chris.slowe	Mac Pro	mac-pro
+2011	09	25	seb.chan	MacBook Pro	macbook-pro
+2011	09	25	seb.chan	iMac	imac
+2011	09	25	seb.chan	iPhone 4	iphone-4
+2011	09	25	seb.chan	iPad	ipad
+2011	09	25	seb.chan	AiAiAi pipes	pipe-earphones
+2011	09	25	seb.chan	Audio Technica ATH-NC7b	ath-anc7b
+2011	09	25	seb.chan	Celestion SL6 speakers	sl6
+2011	09	25	seb.chan	Denon PMA1315R amplifier	pma-1315r
+2011	09	25	seb.chan	Logitech Squeezebox	squeezebox
+2011	09	25	seb.chan	Technics SL1200	sl-1200
+2011	09	25	seb.chan	M-Audio Firewire Audiophile	firewire-audiophile
+2011	09	25	seb.chan	X-Session Pro	x-session-pro
+2011	09	25	seb.chan	Lion	mac-os-x
+2011	09	25	seb.chan	Textmate	textmate
+2011	09	25	seb.chan	Scrivener	scrivener
+2011	09	25	seb.chan	Safari	safari
+2011	09	25	seb.chan	Chrome	chrome
+2011	09	25	seb.chan	Firefox	firefox
+2011	09	25	seb.chan	Wordpress	wordpress
+2011	09	25	seb.chan	Twitter	twitter
+2011	09	25	seb.chan	Bit.ly	bitly
+2011	09	25	seb.chan	Google Analytics	google-analytics
+2011	09	25	seb.chan	Flurry	flurry
+2011	09	25	seb.chan	Reinvigorate	reinvigorate
+2011	09	25	seb.chan	Mail.app	mail
+2011	09	25	seb.chan	Keynote	keynote
+2011	09	25	seb.chan	Little Snapper	littlesnapper
+2011	09	25	seb.chan	Handbrake	handbrake
+2011	09	25	seb.chan	VLC	vlc
+2011	09	25	seb.chan	Instapaper	instapaper
+2011	09	25	seb.chan	Tweetdeck	tweetdeck-ios
+2011	09	25	seb.chan	Instagram	instagram-ios
+2011	09	25	seb.chan	Traktor Pro 2	traktor-pro
+2011	09	25	seb.chan	iTunes	itunes
+2011	09	25	seb.chan	Jungle Disk	jungle-disk
+2011	09	25	seb.chan	Steam	steam
+2011	09	25	seb.chan	Power64	power64
+2011	09	25	seb.chan	Vice	vice
+2011	09	25	seb.chan	MacBook Air	macbook-air
