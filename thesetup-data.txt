@@ -4705,3 +4705,110 @@
 2011	09	25	seb.chan	Power64	power64
 2011	09	25	seb.chan	Vice	vice
 2011	09	25	seb.chan	MacBook Air	macbook-air
+2011	09	28	geof.morris	iMac	imac
+2011	09	28	geof.morris	OS X Lion	mac-os-x
+2011	09	28	geof.morris	keyboard	keyboard
+2011	09	28	geof.morris	trackpad	magic-trackpad
+2011	09	28	geof.morris	Kensington Expert Mouse	expert-mouse
+2011	09	28	geof.morris	Mac mini	mac-mini
+2011	09	28	geof.morris	Drobo	drobo
+2011	09	28	geof.morris	iPad	ipad
+2011	09	28	geof.morris	iPhone 4	iphone-4
+2011	09	28	geof.morris	Canon EOS-5D Mk II	eos-5d-mark-ii
+2011	09	28	geof.morris	EOS-10D	eos-10d
+2011	09	28	geof.morris	f/2.8 28mm	ef-28mm-f2.8
+2011	09	28	geof.morris	f/1.4 50mm USM	ef-50mm-f1.4-usm
+2011	09	28	geof.morris	f/1.8 85mm	ef-85mm-f1.8-usm
+2011	09	28	geof.morris	f/2.8 100mm USM	ef-100mm-f2.8l-is-usm
+2011	09	28	geof.morris	f/2.8 135mm	ef-135mm-f2.8-softfocus
+2011	09	28	geof.morris	SuperDuper!	superduper
+2011	09	28	geof.morris	Time Machine	time-machine
+2011	09	28	geof.morris	CrashPlan's	crashplan
+2011	09	28	geof.morris	Mail	mail
+2011	09	28	geof.morris	Safari	safari
+2011	09	28	geof.morris	Twitterrific	twitterrific
+2011	09	28	geof.morris	OmniFocus	omnifocus
+2011	09	28	geof.morris	OmniOutliner	omnioutliner
+2011	09	28	geof.morris	Aperture	aperture
+2011	09	28	geof.morris	Acorn	acorn
+2011	09	28	geof.morris	Yojimbo	yojimbo
+2011	09	28	geof.morris	iCal	ical
+2011	09	28	geof.morris	iTunes	itunes
+2011	09	28	geof.morris	f/2.8 70-200mm IS USM	ef-70-200mm-f2.8l-is-usm
+2011	09	30	drew.conway	MacBook Pro	macbook-pro
+2011	09	30	drew.conway	Ubuntu	ubuntu
+2011	09	30	drew.conway	Sparrow	sparrow
+2011	09	30	drew.conway	Chrome	chrome
+2011	09	30	drew.conway	Echofon	echofon
+2011	09	30	drew.conway	TextMate	textmate
+2011	09	30	drew.conway	Emacs	emacs
+2011	09	30	drew.conway	MarsEdit	marsedit
+2011	09	30	drew.conway	Python	python
+2011	09	30	drew.conway	R	r
+2011	09	30	drew.conway	ipython	ipython
+2011	09	30	drew.conway	RStudio	rstudio
+2011	09	30	drew.conway	LaTeX	latex
+2011	09	30	drew.conway	OpenOffice	openoffice
+2011	09	30	drew.conway	MacBook Airs	macbook-air
+2011	09	30	drew.conway	EC2	ec2
+2011	09	30	drew.conway	Apple Cinema displays	cinema-display
+2011	10	02	vijay.pande	Folding@home	folding-at-home
+2011	10	02	vijay.pande	Macbook Pro	macbook-pro
+2011	10	02	vijay.pande	Apple monitor	cinema-display
+2011	10	02	vijay.pande	keyboard	keyboard
+2011	10	02	vijay.pande	iPhone 4	iphone-4
+2011	10	02	vijay.pande	Skype	skype
+2011	10	02	vijay.pande	iPhone 3G	iphone-3g
+2011	10	02	vijay.pande	iPad 2	ipad-2
+2011	10	02	vijay.pande	OS X	mac-os-x
+2011	10	02	vijay.pande	Word 2011	word
+2011	10	02	vijay.pande	Keynote '09	keynote
+2011	10	02	vijay.pande	Powerpoint	powerpoint
+2011	10	02	vijay.pande	Papers	papers
+2011	10	02	vijay.pande	Evernote	evernote
+2011	10	02	vijay.pande	address book	address-book
+2011	10	02	vijay.pande	calendar	ical
+2011	10	02	vijay.pande	mail	mail
+2011	10	05	ed.finkler	Spaz	spaz
+2011	10	05	ed.finkler	Gimme Bar	gimme-bar
+2011	10	05	ed.finkler	Macbook Air	macbook-air
+2011	10	05	ed.finkler	Macbook Pro	macbook-pro
+2011	10	05	ed.finkler	VirtualBox	virtualbox
+2011	10	05	ed.finkler	Mac Pro	mac-pro
+2011	10	05	ed.finkler	Mac Mini	mac-mini
+2011	10	05	ed.finkler	Thinkpad x201	thinkpad-x201
+2011	10	05	ed.finkler	Palm Pre 2	pre-2
+2011	10	05	ed.finkler	iPhone 4	iphone-4
+2011	10	05	ed.finkler	iPad 2	ipad-2
+2011	10	05	ed.finkler	HP TouchPads	touchpad
+2011	10	05	ed.finkler	Sublime Text 2	sublime-text-2
+2011	10	05	ed.finkler	TextMate	textmate
+2011	10	05	ed.finkler	iTerm2	iterm2
+2011	10	05	ed.finkler	Growl	growl
+2011	10	05	ed.finkler	git	git
+2011	10	05	ed.finkler	GitHub	github
+2011	10	05	ed.finkler	GitX	gitx
+2011	10	05	ed.finkler	VirtualBox	virtualbox
+2011	10	05	ed.finkler	Parallels Desktop	parallels-desktop
+2011	10	05	ed.finkler	Fake	fake
+2011	10	05	ed.finkler	Linkinus	linkinus
+2011	10	05	ed.finkler	Skype	skype
+2011	10	05	ed.finkler	Dropbox	dropbox
+2011	10	05	ed.finkler	Sparrow	sparrow
+2011	10	05	ed.finkler	Adium	adium
+2011	10	05	ed.finkler	ttytter	ttytter
+2011	10	05	ed.finkler	Notational Velocity	notational-velocity
+2011	10	05	ed.finkler	Adobe Fireworks	fireworks
+2011	10	05	ed.finkler	Acorn	acorn
+2011	10	05	ed.finkler	CrashPlan	crashplan
+2011	10	07	betsy.bauer	Cintiq 21UX	cintiq
+2011	10	07	betsy.bauer	Mac Pro	mac-pro
+2011	10	07	betsy.bauer	Intuos 3	intuos
+2011	10	07	betsy.bauer	Epson Perfection V30	perfection-v30
+2011	10	07	betsy.bauer	Macbook Pro	macbook-pro
+2011	10	07	betsy.bauer	Mac OS X	mac-os-x
+2011	10	07	betsy.bauer	Windows 7	windows-7
+2011	10	07	betsy.bauer	Photoshop CS5	photoshop
+2011	10	07	betsy.bauer	Corel Painter	painter
+2011	10	07	betsy.bauer	ModBook Pro	modbook-pro
+2011	10	07	betsy.bauer	Asus Eee Slate	eee-slate-ep121
