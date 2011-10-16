@@ -4623,28 +4623,28 @@
 2011	09	19	amy.jean.porter	InDesign	indesign
 2011	09	19	amy.jean.porter	Illustrator	illustrator
 2011	09	19	amy.jean.porter	iMac	imac
-2011	09	20	matt.hammill	Gesundheit!	gesundheit-ios
-2011	09	20	matt.hammill	Dell Studio XPS laptop	studio-xps-1647
-2011	09	20	matt.hammill	I-Inc monitor	if-281dpb
-2011	09	20	matt.hammill	Mustek A3 scanner	scanexpress-a3-usb-1200-pro
-2011	09	20	matt.hammill	Intuos3	intuos
-2011	09	20	matt.hammill	Alesis MultiMix 8 USB mixer	multimix-8
-2011	09	20	matt.hammill	iPod Touches	ipod-touch
-2011	09	20	matt.hammill	iPad 1	ipad
-2011	09	20	matt.hammill	Windows 7	windows-7
-2011	09	20	matt.hammill	Adobe CS2	creative-suite
-2011	09	20	matt.hammill	Photoshop	photoshop
-2011	09	20	matt.hammill	After Effects	after-effects
-2011	09	20	matt.hammill	Toon Boom Studio 4.5	toon-boom-studio
-2011	09	20	matt.hammill	Adventure Game Studio	adventure-game-studio
-2011	09	20	matt.hammill	Windows XP	windows-xp
-2011	09	20	matt.hammill	Cubase LE	cubase-le
-2011	09	20	matt.hammill	Chrome	chrome
-2011	09	20	matt.hammill	Open Office	openoffice
-2011	09	20	matt.hammill	Google Docs	google-docs
-2011	09	20	matt.hammill	Twhirl	twhirl
-2011	09	20	matt.hammill	Macbook Pro	macbook-pro
-2011	09	20	matt.hammill	Cintiqs	cintiq
+2011	09	21	matt.hammill	Gesundheit!	gesundheit-ios
+2011	09	21	matt.hammill	Dell Studio XPS laptop	studio-xps-1647
+2011	09	21	matt.hammill	I-Inc monitor	if-281dpb
+2011	09	21	matt.hammill	Mustek A3 scanner	scanexpress-a3-usb-1200-pro
+2011	09	21	matt.hammill	Intuos3	intuos
+2011	09	21	matt.hammill	Alesis MultiMix 8 USB mixer	multimix-8
+2011	09	21	matt.hammill	iPod Touches	ipod-touch
+2011	09	21	matt.hammill	iPad 1	ipad
+2011	09	21	matt.hammill	Windows 7	windows-7
+2011	09	21	matt.hammill	Adobe CS2	creative-suite
+2011	09	21	matt.hammill	Photoshop	photoshop
+2011	09	21	matt.hammill	After Effects	after-effects
+2011	09	21	matt.hammill	Toon Boom Studio 4.5	toon-boom-studio
+2011	09	21	matt.hammill	Adventure Game Studio	adventure-game-studio
+2011	09	21	matt.hammill	Windows XP	windows-xp
+2011	09	21	matt.hammill	Cubase LE	cubase-le
+2011	09	21	matt.hammill	Chrome	chrome
+2011	09	21	matt.hammill	Open Office	openoffice
+2011	09	21	matt.hammill	Google Docs	google-docs
+2011	09	21	matt.hammill	Twhirl	twhirl
+2011	09	21	matt.hammill	Macbook Pro	macbook-pro
+2011	09	21	matt.hammill	Cintiqs	cintiq
 2011	09	23	chris.slowe	Hipmunk	hipmunk
 2011	09	23	chris.slowe	iPhone 4	iphone-4
 2011	09	23	chris.slowe	iPad	ipad
@@ -4666,45 +4666,45 @@
 2011	09	23	chris.slowe	VMware	vmware-fusion
 2011	09	23	chris.slowe	Firefox	firefox
 2011	09	23	chris.slowe	Mac Pro	mac-pro
-2011	09	25	seb.chan	MacBook Pro	macbook-pro
-2011	09	25	seb.chan	iMac	imac
-2011	09	25	seb.chan	iPhone 4	iphone-4
-2011	09	25	seb.chan	iPad	ipad
-2011	09	25	seb.chan	AiAiAi pipes	pipe-earphones
-2011	09	25	seb.chan	Audio Technica ATH-NC7b	ath-anc7b
-2011	09	25	seb.chan	Celestion SL6 speakers	sl6
-2011	09	25	seb.chan	Denon PMA1315R amplifier	pma-1315r
-2011	09	25	seb.chan	Logitech Squeezebox	squeezebox
-2011	09	25	seb.chan	Technics SL1200	sl-1200
-2011	09	25	seb.chan	M-Audio Firewire Audiophile	firewire-audiophile
-2011	09	25	seb.chan	X-Session Pro	x-session-pro
-2011	09	25	seb.chan	Lion	mac-os-x
-2011	09	25	seb.chan	Textmate	textmate
-2011	09	25	seb.chan	Scrivener	scrivener
-2011	09	25	seb.chan	Safari	safari
-2011	09	25	seb.chan	Chrome	chrome
-2011	09	25	seb.chan	Firefox	firefox
-2011	09	25	seb.chan	Wordpress	wordpress
-2011	09	25	seb.chan	Twitter	twitter
-2011	09	25	seb.chan	Bit.ly	bitly
-2011	09	25	seb.chan	Google Analytics	google-analytics
-2011	09	25	seb.chan	Flurry	flurry
-2011	09	25	seb.chan	Reinvigorate	reinvigorate
-2011	09	25	seb.chan	Mail.app	mail
-2011	09	25	seb.chan	Keynote	keynote
-2011	09	25	seb.chan	Little Snapper	littlesnapper
-2011	09	25	seb.chan	Handbrake	handbrake
-2011	09	25	seb.chan	VLC	vlc
-2011	09	25	seb.chan	Instapaper	instapaper
-2011	09	25	seb.chan	Tweetdeck	tweetdeck-ios
-2011	09	25	seb.chan	Instagram	instagram-ios
-2011	09	25	seb.chan	Traktor Pro 2	traktor-pro
-2011	09	25	seb.chan	iTunes	itunes
-2011	09	25	seb.chan	Jungle Disk	jungle-disk
-2011	09	25	seb.chan	Steam	steam
-2011	09	25	seb.chan	Power64	power64
-2011	09	25	seb.chan	Vice	vice
-2011	09	25	seb.chan	MacBook Air	macbook-air
+2011	09	26	seb.chan	MacBook Pro	macbook-pro
+2011	09	26	seb.chan	iMac	imac
+2011	09	26	seb.chan	iPhone 4	iphone-4
+2011	09	26	seb.chan	iPad	ipad
+2011	09	26	seb.chan	AiAiAi pipes	pipe-earphones
+2011	09	26	seb.chan	Audio Technica ATH-NC7b	ath-anc7b
+2011	09	26	seb.chan	Celestion SL6 speakers	sl6
+2011	09	26	seb.chan	Denon PMA1315R amplifier	pma-1315r
+2011	09	26	seb.chan	Logitech Squeezebox	squeezebox
+2011	09	26	seb.chan	Technics SL1200	sl-1200
+2011	09	26	seb.chan	M-Audio Firewire Audiophile	firewire-audiophile
+2011	09	26	seb.chan	X-Session Pro	x-session-pro
+2011	09	26	seb.chan	Lion	mac-os-x
+2011	09	26	seb.chan	Textmate	textmate
+2011	09	26	seb.chan	Scrivener	scrivener
+2011	09	26	seb.chan	Safari	safari
+2011	09	26	seb.chan	Chrome	chrome
+2011	09	26	seb.chan	Firefox	firefox
+2011	09	26	seb.chan	Wordpress	wordpress
+2011	09	26	seb.chan	Twitter	twitter
+2011	09	26	seb.chan	Bit.ly	bitly
+2011	09	26	seb.chan	Google Analytics	google-analytics
+2011	09	26	seb.chan	Flurry	flurry
+2011	09	26	seb.chan	Reinvigorate	reinvigorate
+2011	09	26	seb.chan	Mail.app	mail
+2011	09	26	seb.chan	Keynote	keynote
+2011	09	26	seb.chan	Little Snapper	littlesnapper
+2011	09	26	seb.chan	Handbrake	handbrake
+2011	09	26	seb.chan	VLC	vlc
+2011	09	26	seb.chan	Instapaper	instapaper
+2011	09	26	seb.chan	Tweetdeck	tweetdeck-ios
+2011	09	26	seb.chan	Instagram	instagram-ios
+2011	09	26	seb.chan	Traktor Pro 2	traktor-pro
+2011	09	26	seb.chan	iTunes	itunes
+2011	09	26	seb.chan	Jungle Disk	jungle-disk
+2011	09	26	seb.chan	Steam	steam
+2011	09	26	seb.chan	Power64	power64
+2011	09	26	seb.chan	Vice	vice
+2011	09	26	seb.chan	MacBook Air	macbook-air
 2011	09	28	geof.morris	iMac	imac
 2011	09	28	geof.morris	OS X Lion	mac-os-x
 2011	09	28	geof.morris	keyboard	keyboard
@@ -4752,23 +4752,23 @@
 2011	09	30	drew.conway	MacBook Airs	macbook-air
 2011	09	30	drew.conway	EC2	ec2
 2011	09	30	drew.conway	Apple Cinema displays	cinema-display
-2011	10	02	vijay.pande	Folding@home	folding-at-home
-2011	10	02	vijay.pande	Macbook Pro	macbook-pro
-2011	10	02	vijay.pande	Apple monitor	cinema-display
-2011	10	02	vijay.pande	keyboard	keyboard
-2011	10	02	vijay.pande	iPhone 4	iphone-4
-2011	10	02	vijay.pande	Skype	skype
-2011	10	02	vijay.pande	iPhone 3G	iphone-3g
-2011	10	02	vijay.pande	iPad 2	ipad-2
-2011	10	02	vijay.pande	OS X	mac-os-x
-2011	10	02	vijay.pande	Word 2011	word
-2011	10	02	vijay.pande	Keynote '09	keynote
-2011	10	02	vijay.pande	Powerpoint	powerpoint
-2011	10	02	vijay.pande	Papers	papers
-2011	10	02	vijay.pande	Evernote	evernote
-2011	10	02	vijay.pande	address book	address-book
-2011	10	02	vijay.pande	calendar	ical
-2011	10	02	vijay.pande	mail	mail
+2011	10	03	vijay.pande	Folding@home	folding-at-home
+2011	10	03	vijay.pande	Macbook Pro	macbook-pro
+2011	10	03	vijay.pande	Apple monitor	cinema-display
+2011	10	03	vijay.pande	keyboard	keyboard
+2011	10	03	vijay.pande	iPhone 4	iphone-4
+2011	10	03	vijay.pande	Skype	skype
+2011	10	03	vijay.pande	iPhone 3G	iphone-3g
+2011	10	03	vijay.pande	iPad 2	ipad-2
+2011	10	03	vijay.pande	OS X	mac-os-x
+2011	10	03	vijay.pande	Word 2011	word
+2011	10	03	vijay.pande	Keynote '09	keynote
+2011	10	03	vijay.pande	Powerpoint	powerpoint
+2011	10	03	vijay.pande	Papers	papers
+2011	10	03	vijay.pande	Evernote	evernote
+2011	10	03	vijay.pande	address book	address-book
+2011	10	03	vijay.pande	calendar	ical
+2011	10	03	vijay.pande	mail	mail
 2011	10	05	ed.finkler	Spaz	spaz
 2011	10	05	ed.finkler	Gimme Bar	gimme-bar
 2011	10	05	ed.finkler	Macbook Air	macbook-air
@@ -4812,3 +4812,73 @@
 2011	10	07	betsy.bauer	Corel Painter	painter
 2011	10	07	betsy.bauer	ModBook Pro	modbook-pro
 2011	10	07	betsy.bauer	Asus Eee Slate	eee-slate-ep121
+2011	10	10	etherbrian	Gowalla	gowalla
+2011	10	10	etherbrian	MacBook Pro	macbook-pro
+2011	10	10	etherbrian	iMac	imac
+2011	10	10	etherbrian	Adobe Illustrator	illustrator
+2011	10	10	etherbrian	Adobe Photoshop	photoshop
+2011	10	10	etherbrian	Rezilla	rezilla
+2011	10	12	gabriel.weinberg	DuckDuckGo	duckduckgo
+2011	10	12	gabriel.weinberg	HP Pavilion Elite HPE-180t	pavilion-elite-180t
+2011	10	12	gabriel.weinberg	28" Hanns G monitors	hz281hpb
+2011	10	12	gabriel.weinberg	these D-Link USB hubs	dub-h7
+2011	10	12	gabriel.weinberg	Logitech Orbit webcam	quickcam-orbit-mp
+2011	10	12	gabriel.weinberg	HP Envy 13T-1000	envy-13t-1000
+2011	10	12	gabriel.weinberg	Android T-mobile G2	g2
+2011	10	12	gabriel.weinberg	iPad 2	ipad-2
+2011	10	12	gabriel.weinberg	Zagg keyboard folio	zaggfolio-ipad-2
+2011	10	12	gabriel.weinberg	Lumix DMC-GH2	lumix-gh2
+2011	10	12	gabriel.weinberg	putty	putty
+2011	10	12	gabriel.weinberg	emacs	emacs
+2011	10	12	gabriel.weinberg	git	git
+2011	10	12	gabriel.weinberg	nginx	nginx
+2011	10	12	gabriel.weinberg	VMware Server	vmware-server
+2011	10	12	gabriel.weinberg	Windows 7	windows-7
+2011	10	12	gabriel.weinberg	FreeBSD	freebsd
+2011	10	12	gabriel.weinberg	Ubuntu	ubuntu
+2011	10	12	gabriel.weinberg	Skype	skype
+2011	10	12	gabriel.weinberg	Yammer	yammer
+2011	10	12	gabriel.weinberg	HipChat	hipchat
+2011	10	12	gabriel.weinberg	join.me	join.me
+2011	10	12	gabriel.weinberg	github	github
+2011	10	12	gabriel.weinberg	trac	trac
+2011	10	12	gabriel.weinberg	Tweetdeck	tweetdeck
+2011	10	12	gabriel.weinberg	Pidgin	pidgin
+2011	10	12	gabriel.weinberg	Chrome	chrome
+2011	10	12	gabriel.weinberg	Picasa	picasa
+2011	10	12	gabriel.weinberg	Pandora	pandora
+2011	10	12	gabriel.weinberg	Spotify	spotify
+2011	10	12	gabriel.weinberg	QuickBooks	quickbooks
+2011	10	12	gabriel.weinberg	Photoshop Elements	photoshop-elements
+2011	10	12	gabriel.weinberg	Illustrator	illustrator
+2011	10	12	gabriel.weinberg	official one	twitter-ios
+2011	10	12	gabriel.weinberg	Twidroid	twidroid
+2011	10	12	gabriel.weinberg	connectbot	connectbot
+2011	10	12	gabriel.weinberg	Decaf	decaf
+2011	10	14	john.allspaw	Etsy.com	etsy
+2011	10	14	john.allspaw	MacBook Pro	macbook-pro
+2011	10	14	john.allspaw	Sony MDR V600 headphones	mdr-v600
+2011	10	14	john.allspaw	Takamine ESN40C	esn40c
+2011	10	14	john.allspaw	MXR distortion+	distortion-plus
+2011	10	14	john.allspaw	Keeley Compressor	keeley-compressor
+2011	10	14	john.allspaw	Mesa Boogie Maverick	maverick
+2011	10	14	john.allspaw	Evernote	evernote
+2011	10	14	john.allspaw	Omnigraffle	omnigraffle
+2011	10	14	john.allspaw	vi	vi
+2011	10	14	john.allspaw	git	git
+2011	10	14	john.allspaw	svn	svn
+2011	10	14	john.allspaw	ssh	openssh
+2011	10	14	john.allspaw	Chef	chef
+2011	10	14	john.allspaw	Firefox	firefox
+2011	10	14	john.allspaw	Adium	adium
+2011	10	14	john.allspaw	irssi	irssi
+2011	10	14	john.allspaw	screen	screen
+2011	10	14	john.allspaw	Skype	skype
+2011	10	14	john.allspaw	Word	word
+2011	10	14	john.allspaw	grep	grep
+2011	10	14	john.allspaw	awk	awk
+2011	10	14	john.allspaw	sed	sed
+2011	10	14	john.allspaw	tcpdump	tcpdump
+2011	10	14	john.allspaw	strace	strace
+2011	10	14	john.allspaw	ktrace	ktrace
+2011	10	14	john.allspaw	truss	truss
