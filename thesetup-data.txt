@@ -559,7 +559,7 @@
 2009	07	13	violet.blue	DMC-TZ3K	lumix-dmc-tz3
 2009	07	13	violet.blue	Xacti HD-1000	xacti-vpc-hd1000
 2009	07	13	violet.blue	Xacti HD waterproof	xacti-vpc-wh1
-2009	07	13	violet.blue	Helio Ocean	helio-ocean
+2009	07	13	violet.blue	Helio Ocean	ocean
 2009	07	13	violet.blue	N95-8G	n95-8g
 2009	07	13	violet.blue	N95	n95
 2009	07	13	violet.blue	N97	n97
@@ -4379,6 +4379,7 @@
 2011	08	29	nozlee.samadzadeh	Netflix	netflix
 2011	08	29	nozlee.samadzadeh	MUDDUS	muddus
 2011	08	29	nozlee.samadzadeh	Saarinen Tulip chair	tulip-chair
+2011	08	29	nozlee.samadzadeh	Field Notes	field-notes
 2011	08	29	nozlee.samadzadeh	Pilot	precise-v5
 2011	08	29	nozlee.samadzadeh	Bialetti Moka pots	moka-express
 2011	08	29	nozlee.samadzadeh	Firefox	firefox
@@ -4882,3 +4883,188 @@
 2011	10	14	john.allspaw	strace	strace
 2011	10	14	john.allspaw	ktrace	ktrace
 2011	10	14	john.allspaw	truss	truss
+2011	10	17	william.gibson	MacBook Pro	macbook-pro
+2011	10	17	william.gibson	Apple IIc	iic
+2011	10	17	william.gibson	iPad	ipad
+2011	10	17	william.gibson	Word	word
+2011	10	17	william.gibson	Final Draft	final-draft
+2011	10	17	william.gibson	Pages	pages-ios
+2011	10	17	william.gibson	Twitterrific	twitterrific-ios
+2011	10	19	zara.gonzalez.hoang	MacBook Pro	macbook-pro
+2011	10	19	zara.gonzalez.hoang	Intuos4 wireless tablet	intuos
+2011	10	19	zara.gonzalez.hoang	keyboard	keyboard
+2011	10	19	zara.gonzalez.hoang	of	ipad
+2011	10	19	zara.gonzalez.hoang	iPads	ipad-2
+2011	10	19	zara.gonzalez.hoang	iPhone 3GS	iphone-3gs
+2011	10	19	zara.gonzalez.hoang	iPhone 4	iphone-4
+2011	10	19	zara.gonzalez.hoang	Epson NX515	stylus-nx515
+2011	10	19	zara.gonzalez.hoang	HP LaserJet CP1525NW	laserjet-pro-cp1525nw
+2011	10	19	zara.gonzalez.hoang	Epson R1900	stylus-photo-r1900
+2011	10	19	zara.gonzalez.hoang	Canon 7D	eos-7d
+2011	10	19	zara.gonzalez.hoang	Moleskine	moleskine
+2011	10	19	zara.gonzalez.hoang	Field Notes	field-notes
+2011	10	19	zara.gonzalez.hoang	The Pilot Razor Point Stick Pen	razor-point
+2011	10	19	zara.gonzalez.hoang	Wacom Inkling	inkling
+2011	10	19	zara.gonzalez.hoang	Kindle 3	kindle
+2011	10	19	zara.gonzalez.hoang	Epson Pro 4000	stylus-pro-4000
+2011	10	19	zara.gonzalez.hoang	Photoshop	photoshop
+2011	10	19	zara.gonzalez.hoang	Illustrator	illustrator
+2011	10	19	zara.gonzalez.hoang	InDesign	indesign
+2011	10	19	zara.gonzalez.hoang	Powerpoint	powerpoint
+2011	10	19	zara.gonzalez.hoang	Keynote	keynote
+2011	10	19	zara.gonzalez.hoang	BBEdit	bbedit
+2011	10	19	zara.gonzalez.hoang	Coda	coda
+2011	10	19	zara.gonzalez.hoang	Textmate	textmate
+2011	10	19	zara.gonzalez.hoang	Xcode	xcode
+2011	10	19	zara.gonzalez.hoang	Transmit	transmit
+2011	10	19	zara.gonzalez.hoang	Simplenote	simplenote-ios
+2011	10	19	zara.gonzalez.hoang	Notational Velocity	notational-velocity
+2011	10	19	zara.gonzalez.hoang	teuxdeux	teuxdeux
+2011	10	19	zara.gonzalez.hoang	Basecamp	basecamp
+2011	10	19	zara.gonzalez.hoang	Skype	skype
+2011	10	19	zara.gonzalez.hoang	iChat	ichat
+2011	10	19	zara.gonzalez.hoang	FaceTime	facetime
+2011	10	19	zara.gonzalez.hoang	Gmail	gmail
+2011	10	19	zara.gonzalez.hoang	Google Calendar	google-calendar
+2011	10	19	zara.gonzalez.hoang	Google Docs	google-docs
+2011	10	19	zara.gonzalez.hoang	Dropbox	dropbox
+2011	10	19	zara.gonzalez.hoang	Crashplan	crashplan
+2011	10	19	zara.gonzalez.hoang	Mac	twitter-mac
+2011	10	19	zara.gonzalez.hoang	iPhone	twitter-ios
+2011	10	19	zara.gonzalez.hoang	Pandora	pandora
+2011	10	19	zara.gonzalez.hoang	iTunes	itunes
+2011	10	19	zara.gonzalez.hoang	Pinterest	pinterest
+2011	10	19	zara.gonzalez.hoang	Ffffound	ffffound
+2011	10	19	zara.gonzalez.hoang	Dribbble	dribbble
+2011	10	19	zara.gonzalez.hoang	Google Reader	google-reader
+2011	10	19	zara.gonzalez.hoang	RSS5000	rss5000-ios
+2011	10	19	zara.gonzalez.hoang	Reeder	reeder-ios
+2011	10	19	zara.gonzalez.hoang	Pinboard	pinboard
+2011	10	19	zara.gonzalez.hoang	Instapaper	instapaper
+2011	10	19	zara.gonzalez.hoang	New York Times Crossword Puzzle	nytimes-crosswords-ios
+2011	10	19	zara.gonzalez.hoang	Words With Friends	words-with-friends-ios
+2011	10	19	zara.gonzalez.hoang	SketchBook Pro	sketchbook-pro-ios
+2011	10	19	zara.gonzalez.hoang	More/Real Stylus Cap	more-real
+2011	10	19	zara.gonzalez.hoang	Apple Cinema Display	cinema-display
+2011	10	19	zara.gonzalez.hoang	Cintiq 12WX	cintiq
+2011	10	21	zed.shaw	Mongrel	mongrel
+2011	10	21	zed.shaw	Lamson	lamson
+2011	10	21	zed.shaw	Mongrel2	mongrel2
+2011	10	21	zed.shaw	Fretwar	fret-war
+2011	10	21	zed.shaw	OS X	mac-os-x
+2011	10	21	zed.shaw	MacBook	macbook
+2011	10	21	zed.shaw	H4N	h4n
+2011	10	21	zed.shaw	DP-008	dp-008
+2011	10	21	zed.shaw	Carl Martin Quattro	quattro
+2011	10	21	zed.shaw	Line 6 M5	m5
+2011	10	21	zed.shaw	Boomerang III Looper	boomerang-iii
+2011	10	21	zed.shaw	Boss DR880	dr-880
+2011	10	21	zed.shaw	Surprise Sound Labs Rock Block Tube Amp	rock-block
+2011	10	21	zed.shaw	G&L ASAT Classic S	classic-s
+2011	10	21	zed.shaw	G&L Comanche	comanche
+2011	10	21	zed.shaw	Will Ray ASAT	will-ray-signature
+2011	10	21	zed.shaw	Bass VI	bass-vi
+2011	10	21	zed.shaw	Seymour Duncan Rails pickups	hot-rails
+2011	10	21	zed.shaw	Torres Engineering Varitone	deluxe-varitone
+2011	10	21	zed.shaw	MacVim	macvim
+2011	10	21	zed.shaw	awesome	awesome
+2011	10	21	zed.shaw	C	c
+2011	10	21	zed.shaw	Python	python
+2011	10	21	zed.shaw	Lua	lua
+2011	10	21	zed.shaw	Ruby	ruby
+2011	10	21	zed.shaw	Objective-C	objective-c
+2011	10	21	zed.shaw	Java	java
+2011	10	21	zed.shaw	LaTeX	latex
+2011	10	21	zed.shaw	Dexy	dexy
+2011	10	21	zed.shaw	Sphinx	sphinx
+2011	10	21	zed.shaw	Reaper	reaper
+2011	10	24	douglas.rushkoff	MacBook Pro 15"	macbook-pro
+2011	10	24	douglas.rushkoff	iMac	imac
+2011	10	24	douglas.rushkoff	M-Audio Firewire 410	firewire-410
+2011	10	24	douglas.rushkoff	Yamaha CR-1020	cr-1020
+2011	10	24	douglas.rushkoff	KEF 104AB	104ab
+2011	10	24	douglas.rushkoff	Blue Snowball	snowball
+2011	10	24	douglas.rushkoff	AKG 240	k-240-studio
+2011	10	24	douglas.rushkoff	Sangean DT 400W	dt-400w
+2011	10	24	douglas.rushkoff	Ocean2	ocean-2
+2011	10	24	douglas.rushkoff	Scrivener	scrivener
+2011	10	24	douglas.rushkoff	Word	word
+2011	10	24	douglas.rushkoff	Textedit	textedit
+2011	10	24	douglas.rushkoff	Audio Hijack Pro	audio-hijack-pro
+2011	10	24	douglas.rushkoff	Audacity	audacity
+2011	10	24	douglas.rushkoff	Reaper	reaper
+2011	10	24	douglas.rushkoff	Mail	mail
+2011	10	24	douglas.rushkoff	Thunderbird	thunderbird
+2011	10	24	douglas.rushkoff	Dropbox	dropbox
+2011	10	24	douglas.rushkoff	Google Docs	google-docs
+2011	10	24	douglas.rushkoff	Chrome	chrome
+2011	10	24	douglas.rushkoff	Tweetdeck	tweetdeck
+2011	10	24	douglas.rushkoff	Wordpress	wordpress
+2011	10	24	douglas.rushkoff	Handbrake	handbrake
+2011	10	24	douglas.rushkoff	VLC	vlc
+2011	10	24	douglas.rushkoff	iTunes	itunes
+2011	10	24	douglas.rushkoff	Ubuntu	ubuntu
+2011	10	24	douglas.rushkoff	Electrovoice RE20	re20
+2011	10	24	douglas.rushkoff	Neumann U47	u-47
+2011	10	24	douglas.rushkoff	XB-14 mixer	xb-14
+2011	10	24	douglas.rushkoff	Source-Connect	source-connect
+2011	10	24	douglas.rushkoff	MC2KW amplifiers	mc2kw
+2011	10	24	douglas.rushkoff	Python	python
+2011	10	31	paige.saez	MacBook Pro	macbook-pro
+2011	10	31	paige.saez	moleskines	moleskine
+2011	10	31	paige.saez	Canon G10	powershot-g10
+2011	10	31	paige.saez	iPhone 4	iphone-4
+2011	10	31	paige.saez	A30 Headset	a30
+2011	10	31	paige.saez	Coda	coda
+2011	10	31	paige.saez	Omnigraffle	omnigraffle
+2011	10	31	paige.saez	Photoshop	photoshop
+2011	10	31	paige.saez	Skitch	skitch
+2011	10	31	paige.saez	Google Docs	google-docs
+2011	10	31	paige.saez	BlinkSale	blinksale
+2011	10	31	paige.saez	Firefox	firefox
+2011	10	31	paige.saez	Chrome	chrome
+2011	10	31	paige.saez	Adium	adium
+2011	10	31	paige.saez	Quicksilver	quicksilver
+2011	10	31	paige.saez	Open Frameworks	openframeworks
+2011	10	31	paige.saez	Processing	processing
+2011	11	04	mike.krieger	Instagram	instagram-ios
+2011	11	04	mike.krieger	iMacs	imac
+2011	11	04	mike.krieger	Django	django
+2011	11	04	mike.krieger	Magic Trackpad	magic-trackpad
+2011	11	04	mike.krieger	Microsoft Natural Keyboard 4000	natural-ergonomic-keyboard-4000
+2011	11	04	mike.krieger	MacBook Air	macbook-air
+2011	11	04	mike.krieger	Lion's	mac-os-x
+2011	11	04	mike.krieger	Fuji Roubaix 3.0	roubaix-3
+2011	11	04	mike.krieger	iPhone 4	iphone-4
+2011	11	04	mike.krieger	4S	iphone-4s
+2011	11	04	mike.krieger	3rd generation Kindle	kindle
+2011	11	04	mike.krieger	Grado SR-60s	sr60i
+2011	11	04	mike.krieger	Sennheiser HD280s	hd-280-pro
+2011	11	04	mike.krieger	Bowers & Wilkins Zeppelin	zeppelin-air
+2011	11	04	mike.krieger	AirFoil	airfoil
+2011	11	04	mike.krieger	Amazon EC2	ec2
+2011	11	04	mike.krieger	MacVim	macvim
+2011	11	04	mike.krieger	XCode	xcode
+2011	11	04	mike.krieger	Sublime Text 2	sublime-text-2
+2011	11	04	mike.krieger	Vico	vico
+2011	11	04	mike.krieger	Kod	kod
+2011	11	04	mike.krieger	Accessorizer	accessorizer
+2011	11	04	mike.krieger	XScope	xscope
+2011	11	04	mike.krieger	CodeRunner	coderunner
+2011	11	04	mike.krieger	Carousel	carousel
+2011	11	04	mike.krieger	Sparrow	sparrow
+2011	11	04	mike.krieger	Rdio	rdio
+2011	11	04	mike.krieger	Things	things
+2011	11	04	mike.krieger	OmniFocus	omnifocus
+2011	11	04	mike.krieger	TaskPaper	taskpaper
+2011	11	04	mike.krieger	The Hit List	the-hit-list
+2011	11	04	mike.krieger	Field Notes	field-notes
+2011	11	04	mike.krieger	Tweetbot	tweetbot-ios
+2011	11	04	mike.krieger	the Hit List	the-hit-list-ios
+2011	11	04	mike.krieger	Reeder	reeder-ios
+2011	11	04	mike.krieger	Rdio	rdio-ios
+2011	11	04	mike.krieger	Simplenote	simplenote-ios
+2011	11	04	mike.krieger	The Last Rocket	the-last-rocket-ios
+2011	11	04	mike.krieger	Dropbox	dropbox
+2011	11	04	mike.krieger	GitHub	github
+2011	11	04	mike.krieger	Cinema Display	cinema-display
