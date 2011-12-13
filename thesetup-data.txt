@@ -289,7 +289,6 @@
 2009	03	27	steph.thirion	Leopard	leopard
 2009	03	27	steph.thirion	Spaces	spaces
 2009	03	27	steph.thirion	Time Machine	time-machine
-2009	03	27	steph.thirion	Tiger	tiger
 2009	03	27	steph.thirion	Logic Pro 8	logic-pro
 2009	03	27	steph.thirion	Ableton Live 7	live
 2009	03	27	steph.thirion	Soundtrack Pro	soundtrack-pro
@@ -1108,7 +1107,7 @@
 2010	01	30	mark.pilgrim	ThinkCentre M57p	thinkcentre-m57p
 2010	01	30	mark.pilgrim	Ultrasharp 2407WFP	2407wfp
 2010	01	30	mark.pilgrim	Samsung 275T+	275t-plus
-2010	01	30	mark.pilgrim	Customizer 104	customizer-104
+2010	01	30	mark.pilgrim	Customizer 104	customizer-104-105
 2010	01	30	mark.pilgrim	IBM Model M	model-m
 2010	01	30	mark.pilgrim	Logitech MX-1000 Cordless mouse	mx-1000
 2010	01	30	mark.pilgrim	Drobos	drobo
@@ -4208,7 +4207,7 @@
 2011	08	15	rich.siegel	MacBook Air	macbook-air
 2011	08	15	rich.siegel	Apple Cinema Display	cinema-display
 2011	08	15	rich.siegel	DVI KVM	2x1-dvikvm-dl
-2011	08	15	rich.siegel	Customizer 104	customizer-104
+2011	08	15	rich.siegel	Customizer 104	customizer-104-105
 2011	08	15	rich.siegel	Razer Mamba	mamba
 2011	08	15	rich.siegel	World of Warcraft	wow
 2011	08	15	rich.siegel	Promise SmartStor DS4600	smartstor-ds4600
@@ -5068,3 +5067,283 @@
 2011	11	04	mike.krieger	Dropbox	dropbox
 2011	11	04	mike.krieger	GitHub	github
 2011	11	04	mike.krieger	Cinema Display	cinema-display
+2011	11	07	mary.rose.cook	11" MacBook Air	macbook-air
+2011	11	07	mary.rose.cook	Incase sleeve	neoprene-sleeve-air
+2011	11	07	mary.rose.cook	Apple Wireless Keyboard	keyboard
+2011	11	07	mary.rose.cook	Magic Mouse	magic-mouse
+2011	11	07	mary.rose.cook	iPhone 4	iphone-4
+2011	11	07	mary.rose.cook	emacs	emacs
+2011	11	07	mary.rose.cook	TextMate	textmate
+2011	11	07	mary.rose.cook	Quicksilver	quicksilver
+2011	11	07	mary.rose.cook	Peepopen	peepopen
+2011	11	07	mary.rose.cook	Mail.app	mail
+2011	11	07	mary.rose.cook	Chrome	chrome
+2011	11	07	mary.rose.cook	Acorn	acorn
+2011	11	07	mary.rose.cook	Transmit	transmit
+2011	11	07	mary.rose.cook	Github	github
+2011	11	07	mary.rose.cook	iCal	ical
+2011	11	07	mary.rose.cook	Notational Velocity	notational-velocity
+2011	11	07	mary.rose.cook	iTunes	itunes
+2011	11	07	mary.rose.cook	Spotify	spotify
+2011	11	07	mary.rose.cook	VLC	vlc
+2011	11	07	mary.rose.cook	official Twitter client	twitter-ios
+2011	11	07	mary.rose.cook	Instagram	instagram-ios
+2011	11	07	mary.rose.cook	SimpleNote	simplenote-ios
+2011	11	07	mary.rose.cook	Prompt	prompt-ios
+2011	11	07	mary.rose.cook	WordPress	wordpress-ios
+2011	11	07	mary.rose.cook	SM58	sm58
+2011	11	14	renaud.bedard	Asus N51Vn	n51vn
+2011	11	14	renaud.bedard	Logitech MX310	mx310
+2011	11	14	renaud.bedard	Unicomp Customizer 105	customizer-104-105
+2011	11	14	renaud.bedard	Panasonic RP-HTX7	rp-htx7
+2011	11	14	renaud.bedard	iPhone 3G	iphone-3g
+2011	11	14	renaud.bedard	Aeron Chair	aeron
+2011	11	14	renaud.bedard	Windows 7	windows-7
+2011	11	14	renaud.bedard	Visual Studio.NET 2008	visual-studio
+2011	11	14	renaud.bedard	Resharper 6	resharper
+2011	11	14	renaud.bedard	Programmer's Notepad	programmers-notepad
+2011	11	14	renaud.bedard	ANTS Performance Profiler	ants-performance-profiler
+2011	11	14	renaud.bedard	CLR Profiler	clr-profiler
+2011	11	14	renaud.bedard	SciTech .NET Memory Profiler	dotnet-memory-profiler
+2011	11	14	renaud.bedard	Unity	unity
+2011	11	14	renaud.bedard	Chrome	chrome
+2011	11	14	renaud.bedard	GMail	gmail
+2011	11	14	renaud.bedard	Google Docs	google-docs
+2011	11	14	renaud.bedard	Dropbox	dropbox
+2011	11	14	renaud.bedard	FileZilla	filezilla
+2011	11	14	renaud.bedard	Windows Media Player 11	windows-media-player
+2011	11	14	renaud.bedard	VLC	vlc
+2011	11	14	renaud.bedard	Fraps	fraps
+2011	11	14	renaud.bedard	Audacity	audacity
+2011	11	14	renaud.bedard	Photoshop	photoshop
+2011	11	14	renaud.bedard	Irfanview	irfanview
+2011	11	14	renaud.bedard	uTorrent	utorrent
+2011	11	14	renaud.bedard	MSN Messenger	windows-live-messenger
+2011	11	14	renaud.bedard	Google Talk	google-talk
+2011	11	14	renaud.bedard	Skype	skype
+2011	11	14	renaud.bedard	Handbrake	handbrake
+2011	11	14	renaud.bedard	VirtualDub	virtualdub
+2011	11	14	renaud.bedard	Zeta Resource Editor	zeta-resource-editor
+2011	11	14	renaud.bedard	SourceRepo	sourcerepo
+2011	11	14	renaud.bedard	Macbook Pro	macbook-pro
+2011	11	14	renaud.bedard	iPhone 4S	iphone-4s
+2011	11	14	renaud.bedard	Grado SR80i	sr80i
+2011	11	14	renaud.bedard	AKG K702	k702
+2011	11	18	merkley	Macbook Pro	macbook-pro
+2011	11	18	merkley	OS X 10.6.8	mac-os-x
+2011	11	18	merkley	Mozy	mozy
+2011	11	18	merkley	Samsung NV24HD	nv24hd
+2011	11	18	merkley	5D mrk2	eos-5d-mark-ii
+2011	11	18	merkley	Samsung Galaxy II	galaxy-s-ii
+2011	11	18	merkley	GraphicConverter	graphicconverter
+2011	11	18	merkley	CS4	creative-suite
+2011	11	18	merkley	InDesign	indesign
+2011	11	18	merkley	Final Cut Pro	final-cut-pro
+2011	11	18	merkley	Adobe Premiere	premiere
+2011	11	18	merkley	Google SketchUp	sketchup
+2011	11	18	merkley	shapeways.com	shapeways
+2011	11	18	merkley	Safari	safari
+2011	11	18	merkley	Firefox	firefox
+2011	11	18	merkley	Shrook	shrook
+2011	11	18	merkley	TweetDeck	tweetdeck
+2011	11	18	merkley	Flickr	flickr
+2011	11	18	merkley	Facebook	facebook
+2011	11	21	amber.case	Geoloqi	geoloqi
+2011	11	21	amber.case	MapAttack!	mapattack
+2011	11	21	amber.case	Canon PowerShot ELPH 300 HS	powershot-elph-300-hs
+2011	11	21	amber.case	EyeFi Connect 4G SD	connect-x2
+2011	11	21	amber.case	30" Dell HD monitor	u3011
+2011	11	21	amber.case	NetDraw	netdraw
+2011	11	21	amber.case	iMac	imac
+2011	11	21	amber.case	Wordpress	wordpress
+2011	11	21	amber.case	MediaWiki	mediawiki
+2011	11	21	amber.case	iPhone 3GS	iphone-3gs
+2011	11	21	amber.case	TextEdit	textedit
+2011	11	21	amber.case	Visio	visio
+2011	11	21	amber.case	Omnigraffle	omnigraffle
+2011	11	21	amber.case	Photoshop	photoshop
+2011	11	21	amber.case	Skitch	skitch
+2011	11	21	amber.case	Flickr	flickr
+2011	11	21	amber.case	Colloquy	colloquy
+2011	11	21	amber.case	Dropbox	dropbox
+2011	11	21	amber.case	Google Calendar	google-calendar
+2011	11	21	amber.case	Gmail	gmail
+2011	11	21	amber.case	MacBook Air	macbook-air
+2011	11	21	amber.case	MacBook Pro	macbook-pro
+2011	11	21	amber.case	MacBook	macbook
+2011	11	21	amber.case	JumpCut	jumpcut
+2011	11	25	coda.hale	Yammer	yammer
+2011	11	25	coda.hale	Java	java
+2011	11	25	coda.hale	MacBook Pro	macbook-pro
+2011	11	25	coda.hale	Lion	mac-os-x
+2011	11	25	coda.hale	iPhone 4	iphone-4
+2011	11	25	coda.hale	Time Capsule	time-capsule
+2011	11	25	coda.hale	Java	java
+2011	11	25	coda.hale	IntelliJ IDEA	intellij-idea
+2011	11	25	coda.hale	TextMate	textmate
+2011	11	25	coda.hale	Quicksilver	quicksilver
+2011	11	25	coda.hale	Sublime Text 2	sublime-text-2
+2011	11	25	coda.hale	Terminal	terminal
+2011	11	25	coda.hale	Bash	bash
+2011	11	25	coda.hale	MacPorts	macports
+2011	11	25	coda.hale	csshX	csshx
+2011	11	25	coda.hale	curl	curl
+2011	11	25	coda.hale	git	git
+2011	11	25	coda.hale	git-flow	git-flow
+2011	11	25	coda.hale	Maven	maven
+2011	11	25	coda.hale	ack	ack
+2011	11	25	coda.hale	pv	pv
+2011	11	25	coda.hale	Scala	scala
+2011	11	25	coda.hale	jsawk	jsawk
+2011	11	25	coda.hale	tig	tig
+2011	11	25	coda.hale	RStudio	rstudio
+2011	11	25	coda.hale	YourKit	yourkit
+2011	11	25	coda.hale	VisualVM	visualvm
+2011	11	25	coda.hale	Soulver	soulver
+2011	11	25	coda.hale	Wireshark	wireshark
+2011	11	25	coda.hale	JD-GUI	jd-gui
+2011	11	25	coda.hale	GitHub	github
+2011	11	25	coda.hale	Yammer	yammer
+2011	11	25	coda.hale	Chrome Beta	chrome
+2011	11	25	coda.hale	Sparrow	sparrow
+2011	11	25	coda.hale	iChat	ichat
+2011	11	25	coda.hale	Rdio	rdio
+2011	11	25	coda.hale	Reeder	reeder
+2011	11	25	coda.hale	LimeChat	limechat
+2011	11	25	coda.hale	Dropbox	dropbox
+2011	11	25	coda.hale	GrabBox	grabbox
+2011	11	25	coda.hale	iCal	ical
+2011	11	25	coda.hale	Fantastical	fantastical
+2011	11	25	coda.hale	Things	things
+2011	11	25	coda.hale	Papers 2	papers
+2011	11	25	coda.hale	1Password	1password
+2011	11	25	coda.hale	LaunchBar	launchbar
+2011	11	25	coda.hale	Divvy	divvy
+2011	11	25	coda.hale	Stay	stay
+2011	11	25	coda.hale	AppZapper	appzapper
+2011	11	25	coda.hale	Transmission	transmission
+2011	11	25	coda.hale	Movist	movist
+2011	11	28	richard.jones	Last.fm	last.fm
+2011	11	28	richard.jones	irccloud.com	irccloud
+2011	11	28	richard.jones	Ubuntu	ubuntu
+2011	11	28	richard.jones	Logitech MX 518 mouse	mx-518
+2011	11	28	richard.jones	Realforce Capacitive Keyboard	realforce-105uk
+2011	11	28	richard.jones	Herman Miller Aeron chair	aeron
+2011	11	28	richard.jones	Macbook Pro	macbook-pro
+2011	11	28	richard.jones	OS X	mac-os-x
+2011	11	28	richard.jones	Starcraft II	starcraft-2
+2011	11	28	richard.jones	Ubuntu	ubuntu
+2011	11	28	richard.jones	KDE	kde
+2011	11	28	richard.jones	Gnome	gnome
+2011	11	28	richard.jones	iTerm2	iterm2
+2011	11	28	richard.jones	KeyRemap4Macbook	keyremap4macbook
+2011	11	28	richard.jones	BetterTouchTool	bettertouchtool
+2011	11	28	richard.jones	Chrome	chrome
+2011	11	28	richard.jones	gfxCardStatus	gfxcardstatus
+2011	11	28	richard.jones	Chrome	chrome
+2011	11	28	richard.jones	Gmail	gmail
+2011	11	28	richard.jones	Vim	vim
+2011	11	28	richard.jones	MacVim	macvim
+2011	12	02	brett.terpstra	Marked	marked
+2011	12	02	brett.terpstra	nvALT	nvalt
+2011	12	02	brett.terpstra	Notational Velocity	notational-velocity
+2011	12	02	brett.terpstra	Mac Pro	mac-pro
+2011	12	02	brett.terpstra	aluminum Bluetooth keyboard	keyboard
+2011	12	02	brett.terpstra	Magic Trackpad	magic-trackpad
+2011	12	02	brett.terpstra	BookArc	bookarc-ipad
+2011	12	02	brett.terpstra	Oxygen 49	oxygen-49
+2011	12	02	brett.terpstra	Blue Snowball	snowball
+2011	12	02	brett.terpstra	MacBook Air	macbook-air
+2011	12	02	brett.terpstra	TextMate	textmate
+2011	12	02	brett.terpstra	Xcode	xcode
+2011	12	02	brett.terpstra	iTerm2	iterm2
+2011	12	02	brett.terpstra	Espresso 2	espresso
+2011	12	02	brett.terpstra	Photoshop	photoshop
+2011	12	02	brett.terpstra	Illustrator	illustrator
+2011	12	02	brett.terpstra	Acorn	acorn
+2011	12	02	brett.terpstra	Gradient	gradient
+2011	12	02	brett.terpstra	ColorSchemer Studio 2	colorschemer-studio
+2011	12	02	brett.terpstra	AppControls	appcontrols
+2011	12	02	brett.terpstra	Safari	safari
+2011	12	02	brett.terpstra	Chrome	chrome
+2011	12	02	brett.terpstra	Markdown	markdown
+2011	12	02	brett.terpstra	MindNode Pro	mindnode-pro
+2011	12	02	brett.terpstra	Mindjet MindManager	mindmanager-mac
+2011	12	02	brett.terpstra	Fluid SSB	fluid
+2011	12	02	brett.terpstra	MindMeister	mindmeister
+2011	12	02	brett.terpstra	nvALT	nvalt
+2011	12	02	brett.terpstra	Byword	byword
+2011	12	02	brett.terpstra	Scrivener	scrivener
+2011	12	02	brett.terpstra	Nebulous Notes	nebulous-notes-ios
+2011	12	02	brett.terpstra	Writing Kit	writing-kit-ios
+2011	12	02	brett.terpstra	Paragraft	paragraft-ios
+2011	12	02	brett.terpstra	Dropbox	dropbox
+2011	12	02	brett.terpstra	GarageBand	garageband
+2011	12	02	brett.terpstra	Spotify	spotify
+2011	12	02	brett.terpstra	Musicality	musicality
+2011	12	02	brett.terpstra	TextExpander	textexpander
+2011	12	02	brett.terpstra	1Password	1password
+2011	12	02	brett.terpstra	Growl	growl
+2011	12	02	brett.terpstra	Apptivate	apptivate
+2011	12	02	brett.terpstra	Tags	tags
+2011	12	02	brett.terpstra	F.lux	f.lux
+2011	12	02	brett.terpstra	Delibar	delibar
+2011	12	02	brett.terpstra	Pinboard	pinboard
+2011	12	02	brett.terpstra	Dropzone	dropzone
+2011	12	02	brett.terpstra	TotalFinder	totalfinder
+2011	12	02	brett.terpstra	ScreenFloat	screenfloat
+2011	12	05	derek.sivers	Lenovo T400s	thinkpad-t400s
+2011	12	05	derek.sivers	Nexus One phone	nexus-one
+2011	12	05	derek.sivers	Kindle	kindle
+2011	12	05	derek.sivers	ATH-ANC7b headphones	ath-anc7b
+2011	12	05	derek.sivers	a carry-on bag	tri-star
+2011	12	05	derek.sivers	Arch Linux	arch-linux
+2011	12	05	derek.sivers	OpenBSD	openbsd
+2011	12	05	derek.sivers	FreeBSD	freebsd
+2011	12	05	derek.sivers	Ubuntu	ubuntu
+2011	12	05	derek.sivers	Ratpoison	ratpoison
+2011	12	05	derek.sivers	xterm	xterm
+2011	12	05	derek.sivers	Firefox	firefox
+2011	12	05	derek.sivers	Vim	vim
+2011	12	05	derek.sivers	Postfix	postfix
+2011	12	05	derek.sivers	Mutt	mutt
+2011	12	05	derek.sivers	Mplayer	mplayer
+2011	12	05	derek.sivers	Ledger	ledger
+2011	12	05	derek.sivers	ImageMagick	imagemagick
+2011	12	05	derek.sivers	xpdf	xpdf
+2011	12	05	derek.sivers	Wenlin	wenlin
+2011	12	05	derek.sivers	Anki	anki
+2011	12	05	derek.sivers	Pinyin Toolkit	pinyin-tooklit
+2011	12	05	derek.sivers	Skype	skype
+2011	12	09	steve.goedde	Nikon Coolscan 9000ED	super-coolscan-9000-ed
+2011	12	09	steve.goedde	Epson Perfection V750-M Pro Scanner	perfection-v750-m-pro
+2011	12	09	steve.goedde	iMac	imac
+2011	12	09	steve.goedde	SilverFast	silverfast
+2011	12	09	steve.goedde	Epson R2880	stylus-photo-r2880
+2011	12	09	steve.goedde	Mamiya 645AF	645af
+2011	12	09	steve.goedde	Yashica T4	yashica-t4
+2011	12	09	steve.goedde	Nikon D200	d200
+2011	12	09	steve.goedde	Photoshop CS3	photoshop
+2011	12	12	erik.spiekermann	early M3	m3
+2011	12	12	erik.spiekermann	M8	m8
+2011	12	12	erik.spiekermann	NSU Ro80	ro-80
+2011	12	12	erik.spiekermann	20th Anniversary Macs	20th-anniversary-macintosh
+2011	12	12	erik.spiekermann	Mac Plus	macintosh-plus
+2011	12	12	erik.spiekermann	Indesign	indesign
+2011	12	12	erik.spiekermann	TextEdit	textedit
+2011	12	12	erik.spiekermann	Writer	ia-writer-mac
+2011	12	12	erik.spiekermann	iPad	ia-writer-ios
+2011	12	12	erik.spiekermann	Twitter	twitter
+2011	12	12	erik.spiekermann	FontLab	fontlab-studio
+2011	12	12	erik.spiekermann	BitFonter	bitfonter
+2011	12	12	erik.spiekermann	Glyphs	glyphs
+2011	12	12	erik.spiekermann	RoboFont	robofont
+2011	12	12	erik.spiekermann	Keynote	keynote
+2011	12	12	erik.spiekermann	Keynotopia	keynotopia
+2011	12	12	erik.spiekermann	Photoshop	photoshop
+2011	12	12	erik.spiekermann	Illustrator	illustrator
+2011	12	12	erik.spiekermann	CSSEdit	cssedit
+2011	12	12	erik.spiekermann	Espresso	espresso
+2011	12	12	erik.spiekermann	Word	word
+2011	12	12	erik.spiekermann	PowerPoint	powerpoint
+2011	12	12	erik.spiekermann	Excel	excel
