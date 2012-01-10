@@ -1114,10 +1114,10 @@
 2010	01	30	mark.pilgrim	Android G1 Dev Phone	g1
 2010	01	30	mark.pilgrim	IKEA Poäng	poang
 2010	01	30	mark.pilgrim	Cyanogen ROM	cyanogen
-2010	01	30	mark.pilgrim	Astrid	astrid
-2010	01	30	mark.pilgrim	Twidroid	twidroid
-2010	01	30	mark.pilgrim	connectbot	connectbot
-2010	01	30	mark.pilgrim	Robo Defense	robo-defense
+2010	01	30	mark.pilgrim	Astrid	astrid-android
+2010	01	30	mark.pilgrim	Twidroid	twidroid-android
+2010	01	30	mark.pilgrim	connectbot	connectbot-android
+2010	01	30	mark.pilgrim	Robo Defense	robo-defense-android
 2010	01	30	mark.pilgrim	Ubuntu Linux	ubuntu
 2010	01	30	mark.pilgrim	rxvt-unicode	rxvt-unicode
 2010	01	30	mark.pilgrim	screen	screen
@@ -1406,9 +1406,9 @@
 2010	05	08	tim.bray	bash	bash
 2010	05	08	tim.bray	Vim	vim
 2010	05	08	tim.bray	Emacs	emacs
-2010	05	08	tim.bray	Twidroid	twidroid
-2010	05	08	tim.bray	Connectbot	connectbot
-2010	05	08	tim.bray	Tunes remote	tunesremote
+2010	05	08	tim.bray	Twidroid	twidroid-android
+2010	05	08	tim.bray	Connectbot	connectbot-android
+2010	05	08	tim.bray	Tunes remote	tunesremote-android
 2010	05	08	tim.bray	Spanning Sync	spanning-sync
 2010	05	08	tim.bray	doubleTwist	doubletwist
 2010	05	08	tim.bray	Debian	debian
@@ -1601,8 +1601,8 @@
 2010	06	27	colin.percival	EC2	ec2
 2010	06	27	colin.percival	Ubuntu	ubuntu
 2010	06	27	colin.percival	Android	android
-2010	06	27	colin.percival	Twidroid	twidroid
-2010	06	27	colin.percival	ConnectBot	connectbot
+2010	06	27	colin.percival	Twidroid	twidroid-android
+2010	06	27	colin.percival	ConnectBot	connectbot-android
 2010	06	27	colin.percival	Dell Latitude Z	latitude-z
 2010	07	03	sue.allspaw	G60-120US	g60-120us
 2010	07	03	sue.allspaw	iPhone 3G	iphone-3g
@@ -2267,7 +2267,7 @@
 2010	12	01	jeff.lindsay	Growl	growl
 2010	12	01	jeff.lindsay	Notify.io	notify-io
 2010	12	01	jeff.lindsay	git	git
-2010	12	01	jeff.lindsay	ssh	openssh
+2010	12	01	jeff.lindsay	ssh	ssh
 2010	12	01	jeff.lindsay	python	python
 2010	12	01	jeff.lindsay	ruby	ruby
 2010	12	01	jeff.lindsay	irb	irb
@@ -3421,7 +3421,7 @@
 2011	05	13	josh.nimoy	Code::Blocks	codeblocks
 2011	05	13	josh.nimoy	Visual Studio	visual-studio
 2011	05	13	josh.nimoy	git	git
-2011	05	13	josh.nimoy	svn	svn
+2011	05	13	josh.nimoy	svn	subversion
 2011	05	13	josh.nimoy	Python	python
 2011	05	13	josh.nimoy	PHP	php
 2011	05	13	josh.nimoy	jttoolkit	jttoolkit
@@ -4852,9 +4852,9 @@
 2011	10	12	gabriel.weinberg	Photoshop Elements	photoshop-elements
 2011	10	12	gabriel.weinberg	Illustrator	illustrator
 2011	10	12	gabriel.weinberg	official one	twitter-ios
-2011	10	12	gabriel.weinberg	Twidroid	twidroid
-2011	10	12	gabriel.weinberg	connectbot	connectbot
-2011	10	12	gabriel.weinberg	Decaf	decaf
+2011	10	12	gabriel.weinberg	Twidroid	twidroid-android
+2011	10	12	gabriel.weinberg	connectbot	connectbot-android
+2011	10	12	gabriel.weinberg	Decaf	decaf-android
 2011	10	14	john.allspaw	Etsy.com	etsy
 2011	10	14	john.allspaw	MacBook Pro	macbook-pro
 2011	10	14	john.allspaw	Sony MDR V600 headphones	mdr-v600
@@ -4866,8 +4866,8 @@
 2011	10	14	john.allspaw	Omnigraffle	omnigraffle
 2011	10	14	john.allspaw	vi	vi
 2011	10	14	john.allspaw	git	git
-2011	10	14	john.allspaw	svn	svn
-2011	10	14	john.allspaw	ssh	openssh
+2011	10	14	john.allspaw	svn	subversion
+2011	10	14	john.allspaw	ssh	ssh
 2011	10	14	john.allspaw	Chef	chef
 2011	10	14	john.allspaw	Firefox	firefox
 2011	10	14	john.allspaw	Adium	adium
@@ -5347,3 +5347,235 @@
 2011	12	12	erik.spiekermann	Word	word
 2011	12	12	erik.spiekermann	PowerPoint	powerpoint
 2011	12	12	erik.spiekermann	Excel	excel
+2011	12	16	brad.fitzpatrick	LiveJournal	livejournal
+2011	12	16	brad.fitzpatrick	memcached	memcached
+2011	12	16	brad.fitzpatrick	OpenID	openid
+2011	12	16	brad.fitzpatrick	gearman	gearman
+2011	12	16	brad.fitzpatrick	Gmail	gmail
+2011	12	16	brad.fitzpatrick	App Engine	app-engine
+2011	12	16	brad.fitzpatrick	Android	android
+2011	12	16	brad.fitzpatrick	Go	go
+2011	12	16	brad.fitzpatrick	Mac Mini	mac-mini
+2011	12	16	brad.fitzpatrick	Xen	xen
+2011	12	16	brad.fitzpatrick	KVM	kvm
+2011	12	16	brad.fitzpatrick	Amazon EC2	ec2
+2011	12	16	brad.fitzpatrick	x200	thinkpad-x200
+2011	12	16	brad.fitzpatrick	Macbook Pro	macbook-pro
+2011	12	16	brad.fitzpatrick	z600	z600
+2011	12	16	brad.fitzpatrick	Ubuntu	ubuntu
+2011	12	16	brad.fitzpatrick	Debian	debian
+2011	12	16	brad.fitzpatrick	Chrome	chrome
+2011	12	16	brad.fitzpatrick	emacs	emacs
+2011	12	16	brad.fitzpatrick	screen	screen
+2011	12	16	brad.fitzpatrick	Perl	perl
+2011	12	16	brad.fitzpatrick	gcc	gcc
+2011	12	16	brad.fitzpatrick	Gimp	gimp
+2011	12	16	brad.fitzpatrick	tcpdump	tcpdump
+2011	12	16	brad.fitzpatrick	wireshark	wireshark
+2011	12	16	brad.fitzpatrick	libvirt	libvirt
+2011	12	16	brad.fitzpatrick	Macbook Air	macbook-air
+2011	12	16	brad.fitzpatrick	Thunderbolt Display	thunderbolt-display
+2011	12	19	toby.boudreaux	Macbook Pro	macbook-pro
+2011	12	19	toby.boudreaux	Kinects	kinect
+2011	12	19	toby.boudreaux	Mac Pro	mac-pro
+2011	12	19	toby.boudreaux	Apple displays	cinema-display
+2011	12	19	toby.boudreaux	Fitbit	fitbit
+2011	12	19	toby.boudreaux	Withings scale	wifi-body-scale
+2011	12	19	toby.boudreaux	BP monitor	blood-pressure-monitor
+2011	12	19	toby.boudreaux	Xcode	xcode
+2011	12	19	toby.boudreaux	TextMate	textmate
+2011	12	19	toby.boudreaux	IDEA	intellij-idea
+2011	12	19	toby.boudreaux	LaunchBar	launchbar
+2011	12	19	toby.boudreaux	1Password	1password
+2011	12	19	toby.boudreaux	ZSH	zsh
+2011	12	19	toby.boudreaux	LLVM	llvm
+2011	12	19	toby.boudreaux	mail	gmail
+2011	12	19	toby.boudreaux	docs	google-docs
+2011	12	19	toby.boudreaux	Google+	google-plus
+2011	12	19	toby.boudreaux	Mail	mail
+2011	12	19	toby.boudreaux	Keynote	keynote
+2011	12	19	toby.boudreaux	Pages	pages
+2011	12	19	toby.boudreaux	iChat	ichat
+2011	12	19	toby.boudreaux	Adium	adium
+2011	12	19	toby.boudreaux	Sparrow	sparrow
+2011	12	19	toby.boudreaux	Acorn	acorn
+2011	12	19	toby.boudreaux	OmniGraffle Pro	omnigraffle-pro
+2011	12	19	toby.boudreaux	Scrivener	scrivener
+2011	12	19	toby.boudreaux	Feedler	feedler-ios
+2011	12	19	toby.boudreaux	iClone	iclone-for-eve-online-ios
+2011	12	19	toby.boudreaux	Weightbot	weightbot-ios
+2011	12	19	toby.boudreaux	Withings	wiscale-ios
+2011	12	19	toby.boudreaux	Lion	mac-os-x
+2011	12	19	toby.boudreaux	Windows 7	windows-7
+2011	12	19	toby.boudreaux	Leica M9	m9
+2011	12	23	alexandra.klasinski	Nexus One	nexus-one
+2011	12	23	alexandra.klasinski	LOMO LC-A+	lc-a-plus
+2011	12	23	alexandra.klasinski	Voigtländer Bessa	bessa
+2011	12	23	alexandra.klasinski	Yashica Samurai	yashica-samurai
+2011	12	23	alexandra.klasinski	Kindle	kindle
+2011	12	23	alexandra.klasinski	PSP	psp
+2011	12	23	alexandra.klasinski	Wii	wii
+2011	12	23	alexandra.klasinski	Gamecube	gamecube
+2011	12	23	alexandra.klasinski	Baldwin Fun Machine	fun-machine
+2011	12	23	alexandra.klasinski	Google Docs	google-docs
+2011	12	23	alexandra.klasinski	Dropbox	dropbox
+2011	12	23	alexandra.klasinski	Word	word
+2011	12	23	alexandra.klasinski	Excel	excel
+2011	12	23	alexandra.klasinski	Illustrator	illustrator
+2011	12	23	alexandra.klasinski	Photoshop	photoshop
+2011	12	23	alexandra.klasinski	Skype	skype
+2011	12	23	alexandra.klasinski	Google Talk	google-talk
+2011	12	23	alexandra.klasinski	TweetDeck	tweetdeck
+2011	12	23	alexandra.klasinski	Gmail	gmail
+2011	12	23	alexandra.klasinski	Firefox	firefox
+2011	12	23	alexandra.klasinski	Chrome	chrome
+2011	12	23	alexandra.klasinski	XMarks	xmarks
+2011	12	23	alexandra.klasinski	Google Voice	google-voice
+2011	12	23	alexandra.klasinski	Foursquare	foursquare-android
+2011	12	23	alexandra.klasinski	Twidroid	twidroid-android
+2011	12	23	alexandra.klasinski	Vignette	vignette-android
+2011	12	23	alexandra.klasinski	Catch	catch-notes-android
+2011	12	23	alexandra.klasinski	Math Alarm	math-alarm-clock-android
+2011	12	23	alexandra.klasinski	Macbook Air	macbook-air
+2011	12	23	alexandra.klasinski	Chromebook	chromebook
+2012	01	02	jordan.mcrae	Macbook Pro	macbook-pro
+2012	01	02	jordan.mcrae	Galaxy S II	galaxy-s-ii
+2012	01	02	jordan.mcrae	Btwin RockRider 5.0	rockrider-5.0-men
+2012	01	02	jordan.mcrae	MPLAB ICD 3	mplab-icd-3
+2012	01	02	jordan.mcrae	Fluke 179	fluke-179
+2012	01	02	jordan.mcrae	PicoScope 2204	picoscope-2204
+2012	01	02	jordan.mcrae	XPS M1330	xps-m1330
+2012	01	02	jordan.mcrae	Samsung Slide phone	e250
+2012	01	02	jordan.mcrae	Hakko FX-901	fx-901
+2012	01	02	jordan.mcrae	Leatherman Wave	wave
+2012	01	02	jordan.mcrae	Suunto D6 Dive	d6-elastomer
+2012	01	02	jordan.mcrae	Olympus Stylus Tough 8010 camera	tough-tg-810
+2012	01	02	jordan.mcrae	Osprey Atmos 50	atmos-50
+2012	01	02	jordan.mcrae	OS X	mac-os-x
+2012	01	02	jordan.mcrae	Windows 7	windows-7
+2012	01	02	jordan.mcrae	Ubuntu	ubuntu
+2012	01	02	jordan.mcrae	Gmail	gmail
+2012	01	02	jordan.mcrae	Google Calendar	google-calendar
+2012	01	02	jordan.mcrae	Google Chrome	chrome
+2012	01	02	jordan.mcrae	Picasa	picasa
+2012	01	02	jordan.mcrae	Google Earth	google-earth
+2012	01	02	jordan.mcrae	Google Maps	google-maps
+2012	01	02	jordan.mcrae	Sketchup	sketchup
+2012	01	02	jordan.mcrae	Solidworks	solidworks
+2012	01	02	jordan.mcrae	EAGLE	eagle
+2012	01	02	jordan.mcrae	Matlab	matlab
+2012	01	02	jordan.mcrae	Octave	octave
+2012	01	02	jordan.mcrae	MPLAB IDE	mplab-ide
+2012	01	02	jordan.mcrae	C++	c-plusplus
+2012	01	02	jordan.mcrae	Java	java
+2012	01	02	jordan.mcrae	Netbeans	netbeans
+2012	01	02	jordan.mcrae	TextMate	textmate
+2012	01	02	jordan.mcrae	Skype	skype
+2012	01	02	jordan.mcrae	Dropbox	dropbox
+2012	01	02	jordan.mcrae	Evernote	evernote
+2012	01	02	jordan.mcrae	Gmail	gmail
+2012	01	02	jordan.mcrae	DSO Quad	dso-quad
+2012	01	02	jordan.mcrae	Mikron travel regulator	mikron
+2012	01	06	matt.might	MacBook Air	macbook-air
+2012	01	06	matt.might	ThunderBolt display	thunderbolt-display
+2012	01	06	matt.might	Harmon Kardon Soundsticks	soundsticks
+2012	01	06	matt.might	linode	linode
+2012	01	06	matt.might	Mac Mini	mac-mini
+2012	01	06	matt.might	Apple Magic TrackPad	magic-trackpad
+2012	01	06	matt.might	Apple Keyboard	keyboard
+2012	01	06	matt.might	iPhone 4	iphone-4
+2012	01	06	matt.might	Spotify	spotify
+2012	01	06	matt.might	iPad 2	ipad-2
+2012	01	06	matt.might	Linksys E2500 Dual-Band	e2500
+2012	01	06	matt.might	Time Capsule	time-capsule
+2012	01	06	matt.might	Kensington remote	wireless-presenter
+2012	01	06	matt.might	Ubuntu	ubuntu
+2012	01	06	matt.might	MagSafe	magsafe
+2012	01	06	matt.might	HyperJuice	hyperjuice
+2012	01	06	matt.might	Red Hat Linux	red-hat-enterprise-desktop
+2012	01	06	matt.might	OS X	mac-os-x
+2012	01	06	matt.might	ion	ion
+2012	01	06	matt.might	ShiftIt	shiftit
+2012	01	06	matt.might	Spotify	spotify-ios
+2012	01	06	matt.might	Amazon	amazon-mobile-ios
+2012	01	06	matt.might	Skype	skype-ios
+2012	01	06	matt.might	MacPorts	macports
+2012	01	06	matt.might	apt package management system	apt
+2012	01	06	matt.might	VMWare Fusion	vmware-fusion
+2012	01	06	matt.might	Aquamacs	aquamacs
+2012	01	06	matt.might	MacVim	macvim
+2012	01	06	matt.might	LaTeX	latex
+2012	01	06	matt.might	citeulike	citeulike
+2012	01	06	matt.might	BibTeX	bibtex
+2012	01	06	matt.might	Keynote	keynote
+2012	01	06	matt.might	LaTeXiT	latexit
+2012	01	06	matt.might	Preview	preview
+2012	01	06	matt.might	beamer	beamer
+2012	01	06	matt.might	OmniGraphSketcher	omnigraphsketcher
+2012	01	06	matt.might	GraphViz	graphviz
+2012	01	06	matt.might	OmniGraffle	omnigraffle
+2012	01	06	matt.might	Google docs	google-docs
+2012	01	06	matt.might	OpenOffice	openoffice
+2012	01	06	matt.might	firebug	firebug
+2012	01	06	matt.might	Greasemonkey	greasemonkey
+2012	01	06	matt.might	OmniFocus	omnifocus
+2012	01	06	matt.might	Google Calendars	google-calendar
+2012	01	06	matt.might	DropBox	dropbox
+2012	01	06	matt.might	SVN	subversion
+2012	01	06	matt.might	Evernote	evernote
+2012	01	06	matt.might	git	git
+2012	01	06	matt.might	TweetDeck	tweetdeck
+2012	01	06	matt.might	mIRC	mirc
+2012	01	06	matt.might	bip IRC proxy	bip
+2012	01	06	matt.might	Colloquy	colloquy
+2012	01	06	matt.might	irssi	irssi
+2012	01	06	matt.might	screen session	screen
+2012	01	06	matt.might	Google Analytics	google-analytics
+2012	01	06	matt.might	ssh	ssh
+2012	01	06	matt.might	grep	grep
+2012	01	06	matt.might	find	find
+2012	01	06	matt.might	awk	awk
+2012	01	06	matt.might	sed	sed
+2012	01	06	matt.might	cut	cut
+2012	01	06	matt.might	sort	sort
+2012	01	06	matt.might	pbcopy	pbcopy
+2012	01	06	matt.might	pbpaste	pbpaste
+2012	01	06	matt.might	Racket	racket
+2012	01	06	matt.might	JavaScript	javascript
+2012	01	06	matt.might	bash	bash
+2012	01	06	matt.might	Scala	scala
+2012	01	06	matt.might	C	c
+2012	01	06	matt.might	PHP	php
+2012	01	06	matt.might	Perl	perl
+2012	01	06	matt.might	Python	python
+2012	01	06	matt.might	C++	c-plusplus
+2012	01	06	matt.might	Haskell	haskell
+2012	01	06	matt.might	DrRacket	drracket
+2012	01	09	liza.daly	Ibis Reader	ibis-reader
+2012	01	09	liza.daly	iMac	imac
+2012	01	09	liza.daly	MacBook Air	macbook-air
+2012	01	09	liza.daly	iPhone 4S	iphone-4s
+2012	01	09	liza.daly	iPad 2	ipad-2
+2012	01	09	liza.daly	Nexus One	nexus-one
+2012	01	09	liza.daly	Galaxy Tab	galaxy-tab
+2012	01	09	liza.daly	OLPC XO laptop	xo
+2012	01	09	liza.daly	Dell Mini 9	inspiron-mini-9
+2012	01	09	liza.daly	ChromeBook	chromebook
+2012	01	09	liza.daly	Kindle 1	kindle
+2012	01	09	liza.daly	Kindle Fire	kindle-fire
+2012	01	09	liza.daly	Sony Reader PRS-505	prs-505
+2012	01	09	liza.daly	Nook	nook
+2012	01	09	liza.daly	Nook Color	nook-color
+2012	01	09	liza.daly	Underwood Noiseless Portable	noiseless-portable
+2012	01	09	liza.daly	Moleskine	moleskine
+2012	01	09	liza.daly	Python	python
+2012	01	09	liza.daly	Django	django
+2012	01	09	liza.daly	emacs	emacs
+2012	01	09	liza.daly	Subversion	subversion
+2012	01	09	liza.daly	Mercurial	mercurial
+2012	01	09	liza.daly	Quickbooks Online	quickbooks-online
+2012	01	09	liza.daly	Word	word
+2012	01	09	liza.daly	asciidoc	asciidoc
+2012	01	09	liza.daly	Skype	skype
+2012	01	09	liza.daly	Google Talk	google-talk
+2012	01	09	liza.daly	Keynote	keynote
