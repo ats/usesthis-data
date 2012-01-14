@@ -5579,3 +5579,37 @@
 2012	01	09	liza.daly	Skype	skype
 2012	01	09	liza.daly	Google Talk	google-talk
 2012	01	09	liza.daly	Keynote	keynote
+2012	01	13	adrian.holovaty	EveryBlock	everyblock
+2012	01	13	adrian.holovaty	Django	django
+2012	01	13	adrian.holovaty	MacBook Pro	macbook-pro
+2012	01	13	adrian.holovaty	Logitech MX Revolution	mx-revolution
+2012	01	13	adrian.holovaty	Netgear Rangemax WNDR3700	n600
+2012	01	13	adrian.holovaty	ReadyNAS	readynas-ultra
+2012	01	13	adrian.holovaty	iPod	ipod-classic
+2012	01	13	adrian.holovaty	Bose QuietComfort 15	quietcomfort-15
+2012	01	13	adrian.holovaty	Sony PCM-D50	pcm-d50
+2012	01	13	adrian.holovaty	Google Chrome	chrome
+2012	01	13	adrian.holovaty	Terminal	terminal
+2012	01	13	adrian.holovaty	Colloquy	colloquy
+2012	01	13	adrian.holovaty	TextMate	textmate
+2012	01	13	adrian.holovaty	Gmail	gmail
+2012	01	13	adrian.holovaty	Google Reader	google-reader
+2012	01	13	adrian.holovaty	Basecamp	basecamp
+2012	01	13	adrian.holovaty	iTunes	itunes
+2012	01	13	adrian.holovaty	Dropbox	dropbox
+2012	01	13	adrian.holovaty	Audacity	audacity
+2012	01	13	adrian.holovaty	1password	1password
+2012	01	13	adrian.holovaty	GitX	gitx
+2012	01	13	adrian.holovaty	VLC	vlc
+2012	01	13	adrian.holovaty	youtube-dl	youtube-dl
+2012	01	13	adrian.holovaty	Fission	fission
+2012	01	13	adrian.holovaty	Max	max.2
+2012	01	13	adrian.holovaty	Caffeine	caffeine
+2012	01	13	adrian.holovaty	Sidestep	sidestep
+2012	01	13	adrian.holovaty	Buster	buster-ios
+2012	01	13	adrian.holovaty	Words	words-with-friends-ios
+2012	01	13	adrian.holovaty	Chess	chess-with-friends-ios
+2012	01	13	adrian.holovaty	Hanging With Friends	hanging-with-friends-ios
+2012	01	13	adrian.holovaty	Facebook	facebook-ios
+2012	01	13	adrian.holovaty	Everyday	everyday-ios
+2012	01	13	adrian.holovaty	Remote	remote-ios
