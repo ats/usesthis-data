@@ -114,7 +114,6 @@
 2009	01	22	john.gruber	G-Raid2	g-raid2
 2009	01	22	john.gruber	Time Capsule	time-capsule
 2009	01	22	john.gruber	Kensington 7-port USB hub	domehub
-2009	01	22	john.gruber	soft cover Moleskine	moleskine
 2009	01	22	john.gruber	0.38mm Uni-ball Signo RT	signo-gel-rt
 2009	01	22	john.gruber	Yojimbo	yojimbo
 2009	01	22	john.gruber	BBEdit	bbedit
@@ -828,7 +827,7 @@
 2009	10	06	dan.benjamin	Logitech V450 Nano Cordless Laser Mouse for Notebooks	v450-nano
 2009	10	06	dan.benjamin	SuperDuper!	superduper
 2009	10	06	dan.benjamin	Time Machine	time-machine
-2009	10	06	dan.benjamin	500GB Western Digital Passport USB 2.0 portable hard drive	passport-essential
+2009	10	06	dan.benjamin	500GB Western Digital Passport USB 2.0 portable hard drive	my-passport-essential
 2009	10	06	dan.benjamin	2TB Lacie 2Big Quadra	2big-quadra
 2009	10	06	dan.benjamin	Drobo 2	drobo
 2009	10	06	dan.benjamin	NewerTech Voyager Q drive dock	voyager-q
@@ -1226,7 +1225,7 @@
 2010	03	12	anne.halsall	NeXTcube	nextcube
 2010	03	19	bert.kersey	MacBook Pro	macbook-pro
 2010	03	19	bert.kersey	G-Raid	g-raid
-2010	03	19	bert.kersey	PowerBook’s	powerbook-g4
+2010	03	19	bert.kersey	PowerBook's	powerbook-g4
 2010	03	19	bert.kersey	Sony HDR-FX7 HDV	hdr-fx7
 2010	03	19	bert.kersey	iPod photo	ipod-photo
 2010	03	19	bert.kersey	AT2020 USB Cardioid Condenser Microphone	at2020
@@ -1521,7 +1520,7 @@
 2010	06	08	craig.mod	Magic Mouse	magic-mouse
 2010	06	08	craig.mod	iPod Touch	ipod-touch
 2010	06	08	craig.mod	iPhone 3GS	iphone-3gs
-2010	06	08	craig.mod	Lumix GF1	lumix-gf1
+2010	06	08	craig.mod	Lumix GF1	lumix-dmc-gf1
 2010	06	08	craig.mod	Chrome	chrome
 2010	06	08	craig.mod	Gmail	gmail
 2010	06	08	craig.mod	Google Calendar	google-calendar
@@ -1655,7 +1654,7 @@
 2010	07	09	michael.lopp	keyboard	keyboard
 2010	07	09	michael.lopp	Logitech Performance Mouse MX	performance-mouse-mx
 2010	07	09	michael.lopp	iPhone 4	iphone-4
-2010	07	09	michael.lopp	a Panasonic DMC-LX3	dmc-lx3
+2010	07	09	michael.lopp	a Panasonic DMC-LX3	lumix-dmc-lx3
 2010	07	09	michael.lopp	Mac OS X	mac-os-x
 2010	07	09	michael.lopp	LaunchBar	launchbar
 2010	07	09	michael.lopp	Chrome	chrome
@@ -2433,7 +2432,7 @@
 2010	12	13	ted.leung	ColorMunki	colormunki-photo
 2010	12	13	ted.leung	iPad	ipad
 2010	12	13	ted.leung	iPhone 4	iphone-4
-2010	12	13	ted.leung	Panasonic GF-1	lumix-gf1
+2010	12	13	ted.leung	Panasonic GF-1	lumix-dmc-gf1
 2010	12	13	ted.leung	Nikon D3	d3
 2010	12	13	ted.leung	Firefox	firefox
 2010	12	13	ted.leung	Safari	safari
@@ -2680,7 +2679,6 @@
 2011	02	07	emily.short	64 GB iPad	ipad
 2011	02	07	emily.short	Sennheiser CX 300 II in-ear headphones	cx-300-ii
 2011	02	07	emily.short	iPhone	iphone
-2011	02	07	emily.short	black Moleskine notebooks	moleskine
 2011	02	07	emily.short	Mac OS X 10.6.4	mac-os-x
 2011	02	07	emily.short	Mail	mail
 2011	02	07	emily.short	Safari	safari
@@ -2731,7 +2729,7 @@
 2011	02	15	jessica.hische	Adobe Creative Suite CS5	creative-suite
 2011	02	15	jessica.hische	Illustrator	illustrator
 2011	02	15	jessica.hische	Lightroom	lightroom
-2011	02	15	jessica.hische	GF1	lumix-gf1
+2011	02	15	jessica.hische	GF1	lumix-dmc-gf1
 2011	02	15	jessica.hische	Fontlab Studio 5	fontlab-studio
 2011	02	15	jessica.hische	DropBox	dropbox
 2011	02	15	jessica.hische	Google Calendar	google-calendar
@@ -3213,7 +3211,7 @@
 2011	04	18	frank.chimero	Kindle	kindle
 2011	04	18	frank.chimero	Macbook Air	macbook-air
 2011	04	18	frank.chimero	iPad	ipad
-2011	04	18	frank.chimero	Panasonic Lumix GF1	lumix-gf1
+2011	04	18	frank.chimero	Panasonic Lumix GF1	lumix-dmc-gf1
 2011	04	18	frank.chimero	Apple TV	apple-tv
 2011	04	18	frank.chimero	Netflix	netflix
 2011	04	18	frank.chimero	Illustrator	illustrator
@@ -3571,6 +3569,7 @@
 2011	05	30	ben.kamens	Terminal.app	terminal
 2011	05	30	ben.kamens	Chrome	chrome
 2011	05	30	ben.kamens	MacVim's	macvim
+2011	05	30	ben.kamens	Vico	vico
 2011	05	30	ben.kamens	HipChat	hipchat
 2011	05	30	ben.kamens	Skype	skype
 2011	05	30	ben.kamens	gmail/Google apps	gmail
@@ -3711,7 +3710,6 @@
 2011	06	17	thessaly.la.force	Macbook Pro	macbook-pro
 2011	06	17	thessaly.la.force	iMac	imac
 2011	06	17	thessaly.la.force	iPhone	iphone-3g
-2011	06	17	thessaly.la.force	Moleskines	moleskine
 2011	06	17	thessaly.la.force	Wordpress	wordpress
 2011	06	17	thessaly.la.force	Word	word
 2011	06	17	thessaly.la.force	Tweetie	tweetie
@@ -4238,7 +4236,7 @@
 2011	08	17	ruthie.bendor	Suntactics PC5	scharger-5
 2011	08	17	ruthie.bendor	Koss KSC75	ksc75
 2011	08	17	ruthie.bendor	Transcend StoreJet 320GB	storejet-25
-2011	08	17	ruthie.bendor	Panasonic Lumix GF-2	lumix-gf2
+2011	08	17	ruthie.bendor	Panasonic Lumix GF-2	lumix-dmc-gf2
 2011	08	17	ruthie.bendor	Sony ECM-DS70P	ecm-ds70p
 2011	08	17	ruthie.bendor	Olympus ME-52W	me-52w
 2011	08	17	ruthie.bendor	Audio-Technica ATR-3350	atr-3350
@@ -4323,7 +4321,7 @@
 2011	08	24	meghan.newell	Epson Stylus Photo R2000	stylus-photo-r2000
 2011	08	24	meghan.newell	20D	eos-20d
 2011	08	24	meghan.newell	24-70 mm	ef-24-70mm-f2.8l-usm
-2011	08	24	meghan.newell	Panasonic GF1	lumix-gf1
+2011	08	24	meghan.newell	Panasonic GF1	lumix-dmc-gf1
 2011	08	24	meghan.newell	TomBow ABT	dual-brush-pen-abt
 2011	08	24	meghan.newell	Staedtler Mars Lumograph	mars-lumograph
 2011	08	24	meghan.newell	Graphics 360	graphics-360
@@ -4827,7 +4825,7 @@
 2011	10	12	gabriel.weinberg	Android T-mobile G2	g2
 2011	10	12	gabriel.weinberg	iPad 2	ipad-2
 2011	10	12	gabriel.weinberg	Zagg keyboard folio	zaggfolio-ipad-2
-2011	10	12	gabriel.weinberg	Lumix DMC-GH2	lumix-gh2
+2011	10	12	gabriel.weinberg	Lumix DMC-GH2	lumix-dmc-gh2
 2011	10	12	gabriel.weinberg	putty	putty
 2011	10	12	gabriel.weinberg	emacs	emacs
 2011	10	12	gabriel.weinberg	git	git
@@ -4900,7 +4898,6 @@
 2011	10	19	zara.gonzalez.hoang	HP LaserJet CP1525NW	laserjet-pro-cp1525nw
 2011	10	19	zara.gonzalez.hoang	Epson R1900	stylus-photo-r1900
 2011	10	19	zara.gonzalez.hoang	Canon 7D	eos-7d
-2011	10	19	zara.gonzalez.hoang	Moleskine	moleskine
 2011	10	19	zara.gonzalez.hoang	Field Notes	field-notes
 2011	10	19	zara.gonzalez.hoang	The Pilot Razor Point Stick Pen	razor-point
 2011	10	19	zara.gonzalez.hoang	Wacom Inkling	inkling
@@ -5010,7 +5007,6 @@
 2011	10	24	douglas.rushkoff	MC2KW amplifiers	mc2kw
 2011	10	24	douglas.rushkoff	Python	python
 2011	10	31	paige.saez	MacBook Pro	macbook-pro
-2011	10	31	paige.saez	moleskines	moleskine
 2011	10	31	paige.saez	Canon G10	powershot-g10
 2011	10	31	paige.saez	iPhone 4	iphone-4
 2011	10	31	paige.saez	A30 Headset	a30
@@ -5567,7 +5563,6 @@
 2012	01	09	liza.daly	Nook	nook
 2012	01	09	liza.daly	Nook Color	nook-color
 2012	01	09	liza.daly	Underwood Noiseless Portable	noiseless-portable
-2012	01	09	liza.daly	Moleskine	moleskine
 2012	01	09	liza.daly	Python	python
 2012	01	09	liza.daly	Django	django
 2012	01	09	liza.daly	emacs	emacs
@@ -5613,3 +5608,472 @@
 2012	01	13	adrian.holovaty	Facebook	facebook-ios
 2012	01	13	adrian.holovaty	Everyday	everyday-ios
 2012	01	13	adrian.holovaty	Remote	remote-ios
+2012	01	16	jack.cheng	Oh Chair	oh-chair
+2012	01	16	jack.cheng	CB2 console	peekaboo-clear-console
+2012	01	16	jack.cheng	Crate and Barrel side chair	folio-cherry
+2012	01	16	jack.cheng	Sis Move! adjustable-height desk	move
+2012	01	16	jack.cheng	my Knoll Generation task chair	generation
+2012	01	16	jack.cheng	MacBook Pro	macbook-pro
+2012	01	16	jack.cheng	Incase Compact Backpack	nylon-compact-backpack
+2012	01	16	jack.cheng	23" Samsung LED display	px2370
+2012	01	16	jack.cheng	Nikon D5100	d5100
+2012	01	16	jack.cheng	Panasonic Lumix DMC-LX2	lumix-dmc-lx2
+2012	01	16	jack.cheng	iPhone 3Gs	iphone-3gs
+2012	01	16	jack.cheng	iPad	ipad
+2012	01	16	jack.cheng	Kindle	kindle
+2012	01	16	jack.cheng	ScannerPro for iPhone	scanner-pro-ios
+2012	01	16	jack.cheng	Dropbox	dropbox
+2012	01	16	jack.cheng	Textmate	textmate
+2012	01	16	jack.cheng	Haml	haml
+2012	01	16	jack.cheng	Sass	sass
+2012	01	16	jack.cheng	Stasis	stasis
+2012	01	16	jack.cheng	Ruby on Rails	rails
+2012	01	16	jack.cheng	Github for Mac	github-for-mac
+2012	01	16	jack.cheng	HipChat	hipchat
+2012	01	16	jack.cheng	CloudApp	cloudapp
+2012	01	16	jack.cheng	Alfred	alfred
+2012	01	16	jack.cheng	Quicksilver	quicksilver
+2012	01	16	jack.cheng	iA Writer	ia-writer-mac
+2012	01	16	jack.cheng	Taskpaper	taskpaper
+2012	01	16	jack.cheng	Scrivener	scrivener
+2012	01	16	jack.cheng	iTunes	itunes
+2012	01	16	jack.cheng	Spotify	spotify
+2012	01	16	jack.cheng	Aperture	aperture
+2012	01	16	jack.cheng	iWork	iwork
+2012	01	16	jack.cheng	Keynote	keynote
+2012	01	16	jack.cheng	Sparrow	sparrow
+2012	01	16	jack.cheng	Gmail	gmail
+2012	01	16	jack.cheng	Kindle app	kindle-ios
+2012	01	16	jack.cheng	Instapaper	instapaper-ios
+2012	01	16	jack.cheng	Recco	recco-ios
+2012	01	16	jack.cheng	Instagram	instagram-ios
+2012	01	20	yanier.gonzalez	Asus G70	g70
+2012	01	20	yanier.gonzalez	Sony VPC-EB46FX/Wi	vaio-eb46fx-wi
+2012	01	20	yanier.gonzalez	Macbook Pro	macbook-pro
+2012	01	20	yanier.gonzalez	Razer Copperhead	copperhead
+2012	01	20	yanier.gonzalez	Samsung LN40A550	ln40a550
+2012	01	20	yanier.gonzalez	Logitech Z 5500	z-5500
+2012	01	20	yanier.gonzalez	Samsung Galaxy S II	galaxy-s-ii
+2012	01	20	yanier.gonzalez	iPhone 3G	iphone-3g
+2012	01	20	yanier.gonzalez	iPod Nano	ipod-nano
+2012	01	20	yanier.gonzalez	Google Docs	google-docs
+2012	01	20	yanier.gonzalez	Basecamp	basecamp
+2012	01	20	yanier.gonzalez	Campfire	campfire
+2012	01	20	yanier.gonzalez	Terminal	terminal
+2012	01	20	yanier.gonzalez	Bash	bash
+2012	01	20	yanier.gonzalez	TextMate	textmate
+2012	01	20	yanier.gonzalez	Github	github
+2012	01	20	yanier.gonzalez	Coda	coda
+2012	01	20	yanier.gonzalez	Corel Photopaint 8	photo-paint
+2012	01	20	yanier.gonzalez	Pixlr	pixlr
+2012	01	20	yanier.gonzalez	Screenshot Plus	screenshot-plus
+2012	01	20	yanier.gonzalez	OS X	mac-os-x
+2012	01	20	yanier.gonzalez	Macbook Air	macbook-air
+2012	01	20	yanier.gonzalez	Android	android
+2012	01	20	yanier.gonzalez	Windows 7	windows-7
+2012	01	23	dhanji.prasanna	Amazon EC2	ec2
+2012	01	23	dhanji.prasanna	iMac	imac
+2012	01	23	dhanji.prasanna	Macbook Pro	macbook-pro
+2012	01	23	dhanji.prasanna	Starcraft 2	starcraft-2
+2012	01	23	dhanji.prasanna	Razer Mamba	mamba
+2012	01	23	dhanji.prasanna	Kinesis Advantage	advantage-usb
+2012	01	23	dhanji.prasanna	Apple keyboard	keyboard
+2012	01	23	dhanji.prasanna	iPad 2	ipad-2
+2012	01	23	dhanji.prasanna	iPhone 4	iphone-4
+2012	01	23	dhanji.prasanna	Google Nexus One	nexus-one
+2012	01	23	dhanji.prasanna	Java	java
+2012	01	23	dhanji.prasanna	IntelliJ IDEA	intellij-idea
+2012	01	23	dhanji.prasanna	TextMate	textmate
+2012	01	23	dhanji.prasanna	Sublime	sublime-text-2
+2012	01	23	dhanji.prasanna	TextWrangler	textwrangler
+2012	01	23	dhanji.prasanna	jQuery	jquery
+2012	01	23	dhanji.prasanna	mongoDB	mongodb
+2012	01	23	dhanji.prasanna	PostgreSQL	postgresql
+2012	01	23	dhanji.prasanna	Haskell	haskell
+2012	01	23	dhanji.prasanna	Scheme	scheme
+2012	01	23	dhanji.prasanna	Racket	racket
+2012	01	23	dhanji.prasanna	Chrome	chrome
+2012	01	23	dhanji.prasanna	Twitter Mac App	twitter-mac
+2012	01	23	dhanji.prasanna	Adium	adium
+2012	01	23	dhanji.prasanna	Terminal.app	terminal
+2012	01	23	dhanji.prasanna	GNU screen	screen
+2012	01	23	dhanji.prasanna	The Economist	the-economist-ios
+2012	01	23	dhanji.prasanna	Wired	wired-ios
+2012	01	23	dhanji.prasanna	Twitter	twitter-ios
+2012	01	23	dhanji.prasanna	Flixter	flixter-ios
+2012	01	23	dhanji.prasanna	Penultimate	penultimate-ios
+2012	01	23	dhanji.prasanna	Adobe Ideas	adobe-ideas-ios
+2012	01	23	dhanji.prasanna	TripView	tripview-ios
+2012	01	23	dhanji.prasanna	Vi	vi
+2012	01	23	dhanji.prasanna	Emacs	emacs
+2012	01	23	dhanji.prasanna	Dropbox	dropbox
+2012	01	25	phil.hagelberg	Heroku	heroku
+2012	01	25	phil.hagelberg	Clojure	clojure
+2012	01	25	phil.hagelberg	ThinkPad X200s	thinkpad-x200
+2012	01	25	phil.hagelberg	an IRC bouncer	znc
+2012	01	25	phil.hagelberg	pair.io	pair.io
+2012	01	25	phil.hagelberg	GNU Emacs	emacs
+2012	01	25	phil.hagelberg	programming	swank-clojure
+2012	01	25	phil.hagelberg	version control	magit
+2012	01	25	phil.hagelberg	note taking	org-mode
+2012	01	25	phil.hagelberg	email	gnus
+2012	01	25	phil.hagelberg	shells	eshell
+2012	01	25	phil.hagelberg	IM	elim
+2012	01	25	phil.hagelberg	IRC	erc
+2012	01	25	phil.hagelberg	presentations	epresent
+2012	01	25	phil.hagelberg	pastebinning	scpaste
+2012	01	25	phil.hagelberg	database interaction	relax.el
+2012	01	25	phil.hagelberg	Conkeror	conkeror
+2012	01	25	phil.hagelberg	xbindkeys	xbindkeys
+2012	01	25	phil.hagelberg	mpd	mpd
+2012	01	25	phil.hagelberg	dmenu	dmenu
+2012	01	25	phil.hagelberg	OCaml	ocaml
+2012	01	25	phil.hagelberg	Erythrina	erythrina
+2012	01	25	phil.hagelberg	Debian	debian
+2012	01	25	phil.hagelberg	GNOME	gnome
+2012	01	25	phil.hagelberg	XMonad	xmonad
+2012	01	27	jason.kottke	Stellar	stellar
+2012	01	27	jason.kottke	Apple Keyboard with Numeric Keypad	keyboard
+2012	01	27	jason.kottke	23" Apple Cinema Display	cinema-display
+2012	01	27	jason.kottke	15-inch 3.06 GHz MacBook Pro	macbook-pro
+2012	01	27	jason.kottke	1 Tb Western Digital My Passport portable hard drive	my-passport-mac
+2012	01	27	jason.kottke	Time Machine	time-machine
+2012	01	27	jason.kottke	Magic Mouse	magic-mouse
+2012	01	27	jason.kottke	Shure SE115m+ earbuds	se115m-plus
+2012	01	27	jason.kottke	an Emeco 111 Navy Chair	111-navy
+2012	01	27	jason.kottke	iPhone 4S	iphone-4s
+2012	01	27	jason.kottke	iPad 1	ipad
+2012	01	27	jason.kottke	Kindle	kindle
+2012	01	27	jason.kottke	Safari	safari
+2012	01	27	jason.kottke	Firefox	firefox
+2012	01	27	jason.kottke	Chrome	chrome
+2012	01	27	jason.kottke	Terminal	terminal
+2012	01	27	jason.kottke	Mail.app	mail
+2012	01	27	jason.kottke	TextMate	textmate
+2012	01	27	jason.kottke	iTunes	itunes
+2012	01	27	jason.kottke	Spotify	spotify
+2012	01	27	jason.kottke	Rdio	rdio
+2012	01	27	jason.kottke	Photoshop	photoshop
+2012	01	27	jason.kottke	Sequel Pro	sequel-pro
+2012	01	30	hugo.liu	Hunch	hunch
+2012	01	30	hugo.liu	15" Macbook Pro	macbook-pro
+2012	01	30	hugo.liu	30" Cinema display	cinema-display
+2012	01	30	hugo.liu	11" MacBook Air	macbook-air
+2012	01	30	hugo.liu	ER4 MicroPros	er4-micropro
+2012	01	30	hugo.liu	05 Pigma Micron	pigma-micron
+2012	01	30	hugo.liu	Python	python
+2012	01	30	hugo.liu	Emacs	emacs
+2012	01	30	hugo.liu	Terminal	terminal
+2012	01	30	hugo.liu	MySQL	mysql
+2012	01	30	hugo.liu	GMail	gmail
+2012	01	30	hugo.liu	Things	things
+2012	01	30	hugo.liu	Google Calendar	google-calendar
+2012	01	30	hugo.liu	Google Spreadsheets	google-docs
+2012	01	30	hugo.liu	Adobe Illustrator	illustrator
+2012	01	30	hugo.liu	rsync	rsync
+2012	01	30	hugo.liu	foursquare	foursquare-ios
+2012	01	30	hugo.liu	camera+	camera-plus-ios
+2012	01	30	hugo.liu	buddha machine	buddha-machine-ios
+2012	01	30	hugo.liu	exit strategy	exit-strategy-nyc-ios
+2012	01	30	hugo.liu	greplin	greplin-ios
+2012	02	01	harper.reed	Dropbox	dropbox
+2012	02	01	harper.reed	Git	git
+2012	02	01	harper.reed	Ubuntu	ubuntu
+2012	02	01	harper.reed	Macbook Air	macbook-air
+2012	02	01	harper.reed	Mac Mini	mac-mini
+2012	02	01	harper.reed	Samsung SyncMaster 2343 monitor	syncmaster-2343bwx-plus
+2012	02	01	harper.reed	Chrome Buran bag	buran
+2012	02	01	harper.reed	EOD mini utility bag	eod-utility
+2012	02	01	harper.reed	Defy Urban Cowboy bag	urban-cowboy
+2012	02	01	harper.reed	Hampshire pouch	hampshire-air
+2012	02	01	harper.reed	Quirky PowerCurl	powercurl
+2012	02	01	harper.reed	AiAiAi TMA-1	tma-1
+2012	02	01	harper.reed	Grado SR60i	sr60i
+2012	02	01	harper.reed	Shure SE115	se115m
+2012	02	01	harper.reed	iPhone 4S	iphone-4s
+2012	02	01	harper.reed	Nexus S	nexus-s
+2012	02	01	harper.reed	Kindle	kindle
+2012	02	01	harper.reed	Google Chrome	chrome
+2012	02	01	harper.reed	Vim	vim
+2012	02	01	harper.reed	MacVim	macvim
+2012	02	01	harper.reed	Janus	janus
+2012	02	01	harper.reed	iTunes	itunes
+2012	02	01	harper.reed	iChat	ichat
+2012	02	01	harper.reed	Adium	adium
+2012	02	01	harper.reed	Gajim	gajim
+2012	02	01	harper.reed	Scrollz	scrollz
+2012	02	01	harper.reed	screen	screen
+2012	02	01	harper.reed	tmux	tmux
+2012	02	01	harper.reed	homebrew	homebrew
+2012	02	01	harper.reed	Google Apps	google-apps
+2012	02	01	harper.reed	mail	gmail
+2012	02	01	harper.reed	docs	google-docs
+2012	02	01	harper.reed	Simplenote	simplenote-ios
+2012	02	01	harper.reed	github	github
+2012	02	01	harper.reed	Amazon Cloud Player	cloud-player
+2012	02	01	harper.reed	Google Music	google-music
+2012	02	01	harper.reed	Rdio	rdio
+2012	02	01	harper.reed	Hype Machine	the-hype-machine
+2012	02	01	harper.reed	partychat	partychat
+2012	02	01	harper.reed	Google Talk	google-talk
+2012	02	01	harper.reed	OS/2	os-2
+2012	02	01	harper.reed	Slackware Linux	slackware
+2012	02	03	jordan.mechner	MacBook Air	macbook-air
+2012	02	03	jordan.mechner	Apple Cinema display	cinema-display
+2012	02	03	jordan.mechner	keyboard	keyboard
+2012	02	03	jordan.mechner	Magic Mouse	magic-mouse
+2012	02	03	jordan.mechner	iPhone 4S	iphone-4s
+2012	02	03	jordan.mechner	Kindle	kindle
+2012	02	03	jordan.mechner	Pigma Micron	pigma-micron
+2012	02	03	jordan.mechner	iPad	ipad
+2012	02	03	jordan.mechner	iMac	imac
+2012	02	03	jordan.mechner	Airport Extreme	airport-extreme
+2012	02	03	jordan.mechner	ScanSnap scanner	scansnap-s1500m
+2012	02	03	jordan.mechner	Scrivener	scrivener
+2012	02	03	jordan.mechner	Movie Magic Screenwriter	movie-magic-screenwriter
+2012	02	03	jordan.mechner	Final Draft	final-draft
+2012	02	03	jordan.mechner	Evernote	evernote
+2012	02	03	jordan.mechner	Apple Mail	mail
+2012	02	03	jordan.mechner	Address Book	address-book
+2012	02	03	jordan.mechner	iCal	ical
+2012	02	03	jordan.mechner	MobileMe	mobile-me
+2012	02	03	jordan.mechner	Gmail	gmail
+2012	02	03	jordan.mechner	Google Calendars	google-calendar
+2012	02	03	jordan.mechner	Google Apps	google-apps
+2012	02	03	jordan.mechner	Things	things
+2012	02	03	jordan.mechner	Echofon	echofon-ios
+2012	02	07	pippin.barr	MacBook Pro	macbook-pro
+2012	02	07	pippin.barr	Mac OS X Lion	mac-os-x
+2012	02	07	pippin.barr	Windows 7	windows-7
+2012	02	07	pippin.barr	iPod Touch	ipod-touch
+2012	02	07	pippin.barr	Sony Ericsson K800i	k800i
+2012	02	07	pippin.barr	Wacom Bamboo Pen	bamboo
+2012	02	07	pippin.barr	Flash Builder 4.5	flash-builder
+2012	02	07	pippin.barr	Flixel	flixel
+2012	02	07	pippin.barr	Processing	processing
+2012	02	07	pippin.barr	Pixen	pixen
+2012	02	07	pippin.barr	Manga Studio	manga-studio-debut
+2012	02	07	pippin.barr	Photoshop	photoshop
+2012	02	07	pippin.barr	Bfxr	bfxr
+2012	02	07	pippin.barr	Audacity	audacity
+2012	02	07	pippin.barr	Wolfram Tones	wolfram-tones
+2012	02	07	pippin.barr	PowerPoint	powerpoint
+2012	02	07	pippin.barr	WriteRoom	writeroom
+2012	02	07	pippin.barr	Quicksilver	quicksilver
+2012	02	07	pippin.barr	Things	things
+2012	02	07	pippin.barr	DevonTHINK	devonthink
+2012	02	07	pippin.barr	Instapaper	instapaper-ios
+2012	02	07	pippin.barr	Stanza	stanza-ios
+2012	02	07	pippin.barr	iBooks	ibooks-ios
+2012	02	07	pippin.barr	Kindle app	kindle-ios
+2012	02	07	pippin.barr	iPad	ipad
+2012	02	07	pippin.barr	Kindle	kindle
+2012	02	07	pippin.barr	Cintiq	cintiq
+2012	02	08	fu	Robot 99	robot-99-ios
+2012	02	08	fu	iMac	imac
+2012	02	08	fu	Logitech Mouse MX	performance-mouse-mx
+2012	02	08	fu	Aeron chair	aeron
+2012	02	08	fu	Shiatsu Neck Massager	nms-350
+2012	02	08	fu	Roomba	roomba-550
+2012	02	08	fu	Mint	mint.2
+2012	02	08	fu	Scooba	scooba-230
+2012	02	08	fu	Simplehuman Sensor Pump	sensor-soap-pump
+2012	02	08	fu	iPhone 3GS	iphone-3gs
+2012	02	08	fu	iPod Touch	ipod-touch
+2012	02	08	fu	iPad 2	ipad-2
+2012	02	08	fu	Apple TV	apple-tv
+2012	02	08	fu	Sony desktop	vaio-j11bfx
+2012	02	08	fu	Sony Playstation 3	ps3
+2012	02	08	fu	Xbox 360	xbox-360
+2012	02	08	fu	Kinect	kinect
+2012	02	08	fu	Wii	wii
+2012	02	08	fu	Adobe Flash	flash
+2012	02	08	fu	Corona SDK	corona
+2012	02	08	fu	Fudada	fudada-hd-ios
+2012	02	08	fu	Lua	lua
+2012	02	08	fu	Sublime Text	sublime-text-2
+2012	02	08	fu	Join.me	join.me
+2012	02	08	fu	Arduino	arduino
+2012	02	08	fu	Processing	processing
+2012	02	08	fu	Zootool	zootool
+2012	02	08	fu	Emperor 200	emperor-200
+2012	02	10	jessica.hammer	Dell Optiplex 745	optiplex-745
+2012	02	10	jessica.hammer	HP W17E	w17e
+2012	02	10	jessica.hammer	Kinesis Maxim keyboard	maxim
+2012	02	10	jessica.hammer	Toshiba NB205	nb205
+2012	02	10	jessica.hammer	Logitech portable optical mouse	notebook-optical-mouse-plus
+2012	02	10	jessica.hammer	Lenovo T400	thinkpad-t400
+2012	02	10	jessica.hammer	32GB iPad	ipad
+2012	02	10	jessica.hammer	Arkon stand	ipm-tab1
+2012	02	10	jessica.hammer	keyboard	keyboard
+2012	02	10	jessica.hammer	Boxwave stylus	capacitive-stylus
+2012	02	10	jessica.hammer	Cosmonaut	cosmonaut
+2012	02	10	jessica.hammer	iPhone 3GS	iphone-3gs
+2012	02	10	jessica.hammer	Vestalife Ladybug	ladybug-portable-speaker
+2012	02	10	jessica.hammer	JBuds	jbuds-j2
+2012	02	10	jessica.hammer	Sennheiser PX-100s	px-100
+2012	02	10	jessica.hammer	Logitech R400 presentation clicker	wireless-presenter-r400
+2012	02	10	jessica.hammer	Chrome	chrome
+2012	02	10	jessica.hammer	Gmail	gmail
+2012	02	10	jessica.hammer	Google Calendar	google-calendar
+2012	02	10	jessica.hammer	Remember the Milk	remember-the-milk
+2012	02	10	jessica.hammer	Pinboard	pinboard
+2012	02	10	jessica.hammer	Launchy	launchy
+2012	02	10	jessica.hammer	Pidgin	pidgin
+2012	02	10	jessica.hammer	Wordpress	wordpress
+2012	02	10	jessica.hammer	Google Reader	google-reader
+2012	02	10	jessica.hammer	Spotify	spotify
+2012	02	10	jessica.hammer	Pandora	pandora
+2012	02	10	jessica.hammer	Kindle	kindle-ios
+2012	02	10	jessica.hammer	Mendeley	mendeley-ios
+2012	02	10	jessica.hammer	OpenOffice	openoffice
+2012	02	10	jessica.hammer	Mendeley	mendeley
+2012	02	10	jessica.hammer	SPSS	spss-statistics
+2012	02	10	jessica.hammer	Atlas TI	atlas.ti
+2012	02	10	jessica.hammer	PBWiki	pbworks
+2012	02	10	jessica.hammer	Tungle	tungle
+2012	02	10	jessica.hammer	TripIt	tripit
+2012	02	10	jessica.hammer	Flex Builder	flash-builder
+2012	02	10	jessica.hammer	Textpad	textpad
+2012	02	10	jessica.hammer	Leverage	leverage
+2012	02	10	jessica.hammer	FogBugz	fogbugz
+2012	02	10	jessica.hammer	Dropbox	dropbox
+2012	02	10	jessica.hammer	Carbonite	carbonite
+2012	02	10	jessica.hammer	Twitter	twitter-ios
+2012	02	10	jessica.hammer	Instapaper	instapaper-ios
+2012	02	10	jessica.hammer	Penultimate	penultimate-ios
+2012	02	10	jessica.hammer	MusicNotes	musicnotes
+2012	02	10	jessica.hammer	iBooks	ibooks-ios
+2012	02	10	jessica.hammer	Virtuoso	virtuoso-piano-free-2-hd-ios
+2012	02	10	jessica.hammer	iBeat	ibeat-ios
+2012	02	10	jessica.hammer	Angband	angband
+2012	02	10	jessica.hammer	Cut the Rope	cut-the-rope-ios
+2012	02	10	jessica.hammer	Starcraft II	starcraft-2
+2012	02	13	adewale.oshineye	Google+ project	google-plus
+2012	02	13	adewale.oshineye	MacBook Air	macbook-air
+2012	02	13	adewale.oshineye	Mac Pro	mac-pro
+2012	02	13	adewale.oshineye	Cinema Display	cinema-display
+2012	02	13	adewale.oshineye	HP 2510i	2510i
+2012	02	13	adewale.oshineye	Ubuntu	ubuntu
+2012	02	13	adewale.oshineye	iPhone 4	iphone-4
+2012	02	13	adewale.oshineye	Nikon D700	d700
+2012	02	13	adewale.oshineye	24-70mm f/2.8 lens	af-s-nikkor-24-70mm-f2.8g-ed
+2012	02	13	adewale.oshineye	Fuji X100	finepix-x100
+2012	02	13	adewale.oshineye	iPad	ipad
+2012	02	13	adewale.oshineye	Belkin leather pouch	envelope-for-ipad
+2012	02	13	adewale.oshineye	Muji's 0.38mm gel ink pens	gel-ink-0.38mm
+2012	02	13	adewale.oshineye	Kindle	kindle
+2012	02	13	adewale.oshineye	Bose QC15 noise-cancelling headphones	quietcomfort-15
+2012	02	13	adewale.oshineye	SmartGo	smartgo-ios
+2012	02	13	adewale.oshineye	CGoban	kgs-go-client
+2012	02	13	adewale.oshineye	Kiseido Go Server	kgs-go-server
+2012	02	13	adewale.oshineye	Twitterrific	twitterrific
+2012	02	13	adewale.oshineye	Instapaper	instapaper
+2012	02	13	adewale.oshineye	Adium	adium
+2012	02	13	adewale.oshineye	Apple's Aperture	aperture
+2012	02	13	adewale.oshineye	Adobe Lightroom	lightroom
+2012	02	13	adewale.oshineye	iTunes	itunes
+2012	02	13	adewale.oshineye	Spotify	spotify
+2012	02	13	adewale.oshineye	last.fm	last.fm
+2012	02	13	adewale.oshineye	FourSquare	foursquare
+2012	02	13	adewale.oshineye	Google Places	google-places
+2012	02	13	adewale.oshineye	Chrome	chrome
+2012	02	13	adewale.oshineye	Chocolat	chocolat
+2012	02	13	adewale.oshineye	AquaMacs on OSX	aquamacs
+2012	02	13	adewale.oshineye	Emacs	emacs
+2012	02	13	adewale.oshineye	NTEmacs	ntemacs
+2012	02	13	adewale.oshineye	IntelliJ	intellij-idea
+2012	02	13	adewale.oshineye	TextMate	textmate
+2012	02	13	adewale.oshineye	Python	python
+2012	02	13	adewale.oshineye	Keynote	keynote
+2012	02	13	adewale.oshineye	Dropbox	dropbox
+2012	02	13	adewale.oshineye	Github	github
+2012	02	13	adewale.oshineye	Time Machine	time-machine
+2012	02	13	adewale.oshineye	Remembrance Agent	rememberance-agent
+2012	02	13	adewale.oshineye	Google Docs	google-docs
+2012	02	13	adewale.oshineye	GMail	gmail
+2012	02	15	joshua.topolsky	MacBook Air	macbook-air
+2012	02	15	joshua.topolsky	Lumix DMC-GF1	lumix-dmc-gf1
+2012	02	15	joshua.topolsky	Lumix DMC-LX5	lumix-dmc-lx5
+2012	02	15	joshua.topolsky	LG VL600 LTE stick	vl600
+2012	02	15	joshua.topolsky	Samsung Galaxy Nexus	galaxy-nexus
+2012	02	15	joshua.topolsky	iPad 2	ipad-2
+2012	02	15	joshua.topolsky	Logitech M555b	m555b
+2012	02	15	joshua.topolsky	Time Capsule	time-capsule
+2012	02	15	joshua.topolsky	Overflow	overflow
+2012	02	15	joshua.topolsky	Alfred	alfred
+2012	02	15	joshua.topolsky	Typinator	typinator
+2012	02	15	joshua.topolsky	Better Touch Tool	bettertouchtool
+2012	02	15	joshua.topolsky	Dropbox	dropbox
+2012	02	15	joshua.topolsky	Fantastical	fantastical
+2012	02	15	joshua.topolsky	Slingshot	slingshot
+2012	02	15	joshua.topolsky	Spanning Sync	spanning-sync
+2012	02	15	joshua.topolsky	Path Finder	path-finder
+2012	02	15	joshua.topolsky	AppCleaner	appcleaner
+2012	02	15	joshua.topolsky	EasyBatchPhoto	easybatchphoto
+2012	02	15	joshua.topolsky	Growl	growl
+2012	02	15	joshua.topolsky	Adium	adium
+2012	02	15	joshua.topolsky	Textual	textual
+2012	02	15	joshua.topolsky	Colloquy	colloquy
+2012	02	15	joshua.topolsky	Twitter	twitter-mac
+2012	02	15	joshua.topolsky	Gmail	gmail
+2012	02	15	joshua.topolsky	Mailplane	mailplane
+2012	02	15	joshua.topolsky	Fluid	fluid
+2012	02	15	joshua.topolsky	Google Docs	google-docs
+2012	02	15	joshua.topolsky	Calendar	google-calendar
+2012	02	15	joshua.topolsky	TextEdit	textedit
+2012	02	15	joshua.topolsky	Compositions	compositions
+2012	02	15	joshua.topolsky	Photoshop	photoshop
+2012	02	15	joshua.topolsky	Preview	preview
+2012	02	15	joshua.topolsky	OmniGraffle	omnigraffle
+2012	02	15	joshua.topolsky	Coda	coda
+2012	02	15	joshua.topolsky	Evernote	evernote-mac
+2012	02	15	joshua.topolsky	Chrome	chrome
+2012	02	17	brent.simmons	Glassboard	glassboard
+2012	02	17	brent.simmons	NetNewsWire	netnewswire
+2012	02	17	brent.simmons	TapLynx	taplynx
+2012	02	17	brent.simmons	MarsEdit	marsedit
+2012	02	17	brent.simmons	Magic Trackpad	magic-trackpad
+2012	02	17	brent.simmons	Apple Extended Keyboard II	extended-keyboard-ii
+2012	02	17	brent.simmons	Verilux Happy Light	happylight-deluxe
+2012	02	17	brent.simmons	Fender Squier	squier
+2012	02	17	brent.simmons	old-style Pilot Razor Point	razor-point
+2012	02	17	brent.simmons	Vim	vim
+2012	02	17	brent.simmons	mutt	mutt
+2012	02	17	brent.simmons	Xcode	xcode
+2012	02	17	brent.simmons	Acorn	acorn
+2012	02	17	brent.simmons	Photoshop	photoshop
+2012	02	17	brent.simmons	Preview	preview
+2012	02	17	brent.simmons	Safari	safari
+2012	02	17	brent.simmons	Colloquy	colloquy
+2012	02	17	brent.simmons	iChat	ichat
+2012	02	17	brent.simmons	Twitter for OS X	twitter-mac
+2012	02	17	brent.simmons	Instruments	instruments
+2012	02	17	brent.simmons	iCal	ical
+2012	02	17	brent.simmons	xScope	xscope
+2012	02	17	brent.simmons	LaunchBar	launchbar
+2012	02	17	brent.simmons	Keynote	keynote
+2012	02	17	brent.simmons	Growl	growl
+2012	02	17	brent.simmons	FileMerge	filemerge
+2012	02	17	brent.simmons	Versions	versions
+2012	02	17	brent.simmons	iTunes	itunes
+2012	02	17	brent.simmons	FastScripts	fastscripts
+2012	02	17	brent.simmons	Transmit	transmit
+2012	02	17	brent.simmons	OmniFocus	omnifocus
+2012	02	17	brent.simmons	OmniOutliner	omnioutliner
+2012	02	17	brent.simmons	LiveView Screencaster	liveview-ios
+2012	02	17	brent.simmons	Chrome	chrome
+2012	02	17	brent.simmons	Firefox	firefox
+2012	02	17	brent.simmons	Chromium	chromium
+2012	02	17	brent.simmons	IE 9	internet-explorer
+2012	02	17	brent.simmons	Ubuntu	ubuntu
+2012	02	17	brent.simmons	Windows 7	windows-7
+2012	02	17	brent.simmons	VMWare Fusion	vmware-fusion
+2012	02	17	brent.simmons	ack	ack
+2012	02	17	brent.simmons	Mercurial	mercurial
+2012	02	17	brent.simmons	SourceTree	sourcetree
+2012	02	17	brent.simmons	Bitbucket	bitbucket
+2012	02	17	brent.simmons	tcsh	tcsh
+2012	02	17	brent.simmons	zsh	zsh
+2012	02	17	brent.simmons	DropBox	dropbox
+2012	02	17	brent.simmons	Lighthouse	lighthouse
