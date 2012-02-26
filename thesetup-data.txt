@@ -6077,3 +6077,104 @@
 2012	02	17	brent.simmons	zsh	zsh
 2012	02	17	brent.simmons	DropBox	dropbox
 2012	02	17	brent.simmons	Lighthouse	lighthouse
+2012	02	20	scntfc	MacBook Pro	macbook-pro
+2012	02	20	scntfc	iPad 2	ipad-2
+2012	02	20	scntfc	Tascam FW-1884	fw-1884
+2012	02	20	scntfc	Maschine	maschine
+2012	02	20	scntfc	Launchpad	launchpad
+2012	02	20	scntfc	PadKontrol	padkontrol
+2012	02	20	scntfc	Edirol PCR-M80	pcr-m80
+2012	02	20	scntfc	Roland JP-8080	jp-8080
+2012	02	20	scntfc	Alesis Ion	ion.2
+2012	02	20	scntfc	Roland Juno 60	juno-60
+2012	02	20	scntfc	Boss DM-300	dm-300
+2012	02	20	scntfc	Amek System 9098	system-9098
+2012	02	20	scntfc	Peavey Classic 50	classic-50
+2012	02	20	scntfc	Roland SEQ-315	seq-315
+2012	02	20	scntfc	Teac A-2340R	a-2340r
+2012	02	20	scntfc	Electro Harmonix LPB2ube	lpb-2ube
+2012	02	20	scntfc	Epiphone Valve Jr.	valve-junior
+2012	02	20	scntfc	Antares ATR-1a	atr-1a
+2012	02	20	scntfc	Electro Harmonix 12AY7	12ay7
+2012	02	20	scntfc	Electro Harmonix MicroSynth	micro-synthesizer
+2012	02	20	scntfc	KRK V8	v8
+2012	02	20	scntfc	KRK RP-10S	10s
+2012	02	20	scntfc	KRK Rokit 5's	rokit-5
+2012	02	20	scntfc	Canon t2i	rebel-t2i
+2012	02	20	scntfc	Magic Lantern	magic-lantern
+2012	02	20	scntfc	Rokinon 85mm 1.4 lens	85m-p-85mm-f1.4
+2012	02	20	scntfc	Ableton Live	live
+2012	02	20	scntfc	Aether Reverb	aether
+2012	02	20	scntfc	PSP Vintage Warmer	vintage-warmer
+2012	02	20	scntfc	Logic	logic-pro
+2012	02	20	scntfc	After Effects	after-effects
+2012	02	20	scntfc	Premiere	premiere
+2012	02	20	scntfc	Animoog	animoog-ios
+2012	02	20	scntfc	PolyChord	polychord-ios
+2012	02	20	scntfc	SoundPrism	soundprism-ios
+2012	02	20	scntfc	DM1	dm1-ios
+2012	02	20	scntfc	Sketchbook Pro	sketchbook-pro-ios
+2012	02	20	scntfc	MP-E 65mm	mp-e-65mm-f2.8-1-5x
+2012	02	20	scntfc	Red Scarlet	scarlet
+2012	02	20	scntfc	Vision Research Phantom Flex	phantom-flex
+2012	02	22	robert.bohnke	SoundCloud	soundcloud
+2012	02	22	robert.bohnke	Mac	soundcloud-mac
+2012	02	22	robert.bohnke	iOS	soundcloud-ios
+2012	02	22	robert.bohnke	MacBook Air	macbook-air
+2012	02	22	robert.bohnke	sixty four	sixty-four
+2012	02	22	robert.bohnke	one twenty eight	one-twenty-eight
+2012	02	22	robert.bohnke	arc 4	arc
+2012	02	22	robert.bohnke	Ultrasone DJ1 Pro headphones	dj-1-pro
+2012	02	22	robert.bohnke	iMac	imac
+2012	02	22	robert.bohnke	iPhone 4S	iphone-4s
+2012	02	22	robert.bohnke	iPad 2	ipad-2
+2012	02	22	robert.bohnke	OS X Lion	mac-os-x
+2012	02	22	robert.bohnke	Windows 7	windows-7
+2012	02	22	robert.bohnke	F.lux	f.lux
+2012	02	22	robert.bohnke	iTerm 2	iterm2
+2012	02	22	robert.bohnke	PCKeyboardHack	pckeyboardhack
+2012	02	22	robert.bohnke	zsh	zsh
+2012	02	22	robert.bohnke	oh my zsh	oh-my-zsh
+2012	02	22	robert.bohnke	Xcode 4	xcode
+2012	02	22	robert.bohnke	Sublime Text 2	sublime-text-2
+2012	02	22	robert.bohnke	git	git
+2012	02	22	robert.bohnke	Github	github
+2012	02	22	robert.bohnke	CoffeeScript	coffeescript
+2012	02	22	robert.bohnke	Chrome	chrome
+2012	02	22	robert.bohnke	Sparrow	sparrow
+2012	02	22	robert.bohnke	Instapaper	instapaper-ios
+2012	02	22	robert.bohnke	Readmill	readmill-ios
+2012	02	22	robert.bohnke	Spotify	spotify-ios
+2012	02	24	thomson.nguyen	Macbook Pro	macbook-pro
+2012	02	24	thomson.nguyen	mStand	mstand
+2012	02	24	thomson.nguyen	Samsung monitors	2443bw
+2012	02	24	thomson.nguyen	Diamond USB Display adapter	bvu160
+2012	02	24	thomson.nguyen	Magic Mouse	magic-mouse
+2012	02	24	thomson.nguyen	Apple Wireless Keyboard	keyboard
+2012	02	24	thomson.nguyen	Kinesis Advantage Pro	advantage-pro-usb
+2012	02	24	thomson.nguyen	Aeron	aeron
+2012	02	24	thomson.nguyen	HTC HD2	hd2
+2012	02	24	thomson.nguyen	Droid Bionic	droid-bionic
+2012	02	24	thomson.nguyen	noise-canceling headphones	clear-harmony
+2012	02	24	thomson.nguyen	iPad	ipad-2
+2012	02	24	thomson.nguyen	Ubuntu	ubuntu
+2012	02	24	thomson.nguyen	R	r
+2012	02	24	thomson.nguyen	Ruby	ruby
+2012	02	24	thomson.nguyen	RStudio	rstudio
+2012	02	24	thomson.nguyen	Vim-R	vim-r
+2012	02	24	thomson.nguyen	bitchx	bitchx
+2012	02	24	thomson.nguyen	finch	finch
+2012	02	24	thomson.nguyen	mutt	mutt
+2012	02	24	thomson.nguyen	Mail.app	mail
+2012	02	24	thomson.nguyen	iTerm	iterm2
+2012	02	24	thomson.nguyen	tmux	tmux
+2012	02	24	thomson.nguyen	vim	vim
+2012	02	24	thomson.nguyen	twitVim	twitvim
+2012	02	24	thomson.nguyen	LaTeX	latex
+2012	02	24	thomson.nguyen	Keynote	keynote
+2012	02	24	thomson.nguyen	Spotify	spotify
+2012	02	24	thomson.nguyen	Dropbox	dropbox
+2012	02	24	thomson.nguyen	Divvy	divvy
+2012	02	24	thomson.nguyen	Alfred	alfred
+2012	02	24	thomson.nguyen	Reeder	reeder
+2012	02	24	thomson.nguyen	Wunderlist	wunderlist
