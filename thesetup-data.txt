@@ -6178,3 +6178,96 @@
 2012	02	24	thomson.nguyen	Alfred	alfred
 2012	02	24	thomson.nguyen	Reeder	reeder
 2012	02	24	thomson.nguyen	Wunderlist	wunderlist
+2012	02	27	charlie.stross	Debian	debian
+2012	02	27	charlie.stross	Movable Type Pro	movable-type
+2012	02	27	charlie.stross	Macbook Air	macbook-air
+2012	02	27	charlie.stross	Apple Cinema Display	cinema-display
+2012	02	27	charlie.stross	Time Capsule	time-capsule
+2012	02	27	charlie.stross	iPad 2	ipad-2
+2012	02	27	charlie.stross	iPhone	iphone-4
+2012	02	27	charlie.stross	Aeron	aeron
+2012	02	27	charlie.stross	Microsoft Office	office
+2012	02	27	charlie.stross	vim	vim
+2012	02	27	charlie.stross	makefile	make
+2012	02	27	charlie.stross	rcs	rcs
+2012	02	27	charlie.stross	perl	perl
+2012	02	27	charlie.stross	Microsoft Word	word
+2012	02	27	charlie.stross	OpenOffice	openoffice
+2012	02	27	charlie.stross	LibreOffice	libreoffice
+2012	02	27	charlie.stross	NeoOffice	neooffice
+2012	02	27	charlie.stross	Pages	pages
+2012	02	27	charlie.stross	BBEdit	bbedit
+2012	02	27	charlie.stross	MacVim	macvim
+2012	02	27	charlie.stross	Scrivener	scrivener
+2012	02	27	charlie.stross	Firefox	firefox
+2012	02	27	charlie.stross	Thunderbird	thunderbird
+2012	02	27	charlie.stross	Calibre	calibre
+2012	02	27	charlie.stross	NetNewsWire	netnewswire
+2012	02	27	charlie.stross	DropBox	dropbox
+2012	02	27	charlie.stross	MacPorts	macports
+2012	02	27	charlie.stross	Apple Thunderbolt Display	thunderbolt-display
+2012	02	29	daniel.robbins	Gentoo Linux	gentoo
+2012	02	29	daniel.robbins	Funtoo Linux	funtoo
+2012	02	29	daniel.robbins	MacBook Pro	macbook-pro
+2012	02	29	daniel.robbins	MacOS X	mac-os-x
+2012	02	29	daniel.robbins	Dell R710	poweredge-r710
+2012	02	29	daniel.robbins	OpenVZ	openvz
+2012	02	29	daniel.robbins	Ergotron WorkFit	workfit-s
+2012	02	29	daniel.robbins	Swopper	swopper
+2012	02	29	daniel.robbins	screen	screen
+2012	02	29	daniel.robbins	ssh	ssh
+2012	02	29	daniel.robbins	Chrome	chrome
+2012	02	29	daniel.robbins	Windows 7	windows-7
+2012	02	29	daniel.robbins	Python	python
+2012	02	29	daniel.robbins	Tornado	tornado
+2012	02	29	daniel.robbins	Raphael	raphael
+2012	02	29	daniel.robbins	JQuery	jquery
+2012	02	29	daniel.robbins	vim	vim
+2012	02	29	daniel.robbins	emacs	emacs
+2012	02	29	daniel.robbins	Zope	zope
+2012	02	29	daniel.robbins	Ext JS	ext-js
+2012	03	02	divya.manian	HTML5 Boilerplate	html5-boilerplate
+2012	03	02	divya.manian	13" MacBook Air	macbook-air
+2012	03	02	divya.manian	Dell 30" monitor	3007wfp
+2012	03	02	divya.manian	Kinesis Advantage	advantage-usb
+2012	03	02	divya.manian	Magic Trackpad	magic-trackpad
+2012	03	02	divya.manian	Aeron chair	aeron
+2012	03	02	divya.manian	Sherwood RX-4109 receiver	rx-4109
+2012	03	02	divya.manian	Sony Bookshelf Speakers	ss-b1000
+2012	03	02	divya.manian	Nexus S	nexus-s
+2012	03	02	divya.manian	Nokia 1208	1208
+2012	03	02	divya.manian	iPod shuffle	ipod-shuffle
+2012	03	02	divya.manian	Kindle	kindle
+2012	03	02	divya.manian	iPad 1G	ipad
+2012	03	02	divya.manian	Opera	opera
+2012	03	02	divya.manian	Gmail	gmail
+2012	03	02	divya.manian	Google Reader	google-reader
+2012	03	02	divya.manian	Adium	adium
+2012	03	02	divya.manian	Gyazo	gyazo
+2012	03	02	divya.manian	Screenflow	screenflow
+2012	03	02	divya.manian	Alfred	alfred
+2012	03	02	divya.manian	VLC	vlc
+2012	03	02	divya.manian	Spotify	spotify
+2012	03	02	divya.manian	Dropbox	dropbox
+2012	03	02	divya.manian	Microsoft Office	office
+2012	03	02	divya.manian	zsh	zsh
+2012	03	02	divya.manian	oh-my-zsh	oh-my-zsh
+2012	03	02	divya.manian	MacVim	macvim
+2012	03	02	divya.manian	Python	python
+2012	03	02	divya.manian	Github	github
+2012	03	02	divya.manian	jsfiddle	jsfiddle
+2012	03	02	divya.manian	jsbin	jsbin
+2012	03	02	divya.manian	Opera Dragonfly	dragonfly
+2012	03	02	divya.manian	Chrome	chrome
+2012	03	02	divya.manian	Firefox	firefox
+2012	03	02	divya.manian	Safari	safari
+2012	03	02	divya.manian	IE	internet-explorer
+2012	03	02	divya.manian	VirtualBox	virtualbox
+2012	03	02	divya.manian	Jekyll	jekyll
+2012	03	02	divya.manian	Piratepad	piratepad
+2012	03	02	divya.manian	Etherpad clones	mopad
+2012	03	02	divya.manian	Reeder	reeder-ios
+2012	03	02	divya.manian	Instapaper	instapaper-ios
+2012	03	02	divya.manian	Opera Mobile	opera-mobile-android
+2012	03	02	divya.manian	Opera Mini	opera-mini-android
+2012	03	02	divya.manian	Spotify	spotify-android
