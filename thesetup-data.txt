@@ -7348,3 +7348,114 @@
 2012	05	25	john.macfarlane	Arq	arq
 2012	05	25	john.macfarlane	Mendeley	mendeley
 2012	05	25	john.macfarlane	MacBook Air	macbook-air
+2012	05	28	jonathan.corbet	LibreOffice	libreoffice
+2012	05	28	jonathan.corbet	git	git
+2012	05	28	jonathan.corbet	Logitech diNovo Edge keyboard	dinovo-edge
+2012	05	28	jonathan.corbet	HP 2510p	compaq-2510p
+2012	05	28	jonathan.corbet	OLPC XO	xo
+2012	05	28	jonathan.corbet	HTC Nexus One	nexus-one
+2012	05	28	jonathan.corbet	CyanogenMod 7	cyanogen
+2012	05	28	jonathan.corbet	Nokia N9	n9
+2012	05	28	jonathan.corbet	Netgear WNDR3700v2	n600
+2012	05	28	jonathan.corbet	OpenWRT	openwrt
+2012	05	28	jonathan.corbet	iRiver H340	h340
+2012	05	28	jonathan.corbet	Rockbox	rockbox
+2012	05	28	jonathan.corbet	Fedora Rawhide	fedora
+2012	05	28	jonathan.corbet	CentOS	centos
+2012	05	28	jonathan.corbet	C	c
+2012	05	28	jonathan.corbet	Python	python
+2012	05	28	jonathan.corbet	Postfix	postfix
+2012	05	28	jonathan.corbet	Dovecot	dovecot
+2012	05	28	jonathan.corbet	Claws-mail	claws-mail
+2012	05	28	jonathan.corbet	Notmuch	notmuch
+2012	05	28	jonathan.corbet	SpamAssassin	spamassassin
+2012	05	28	jonathan.corbet	gnucash	gnucash
+2012	05	28	jonathan.corbet	Firefox	firefox
+2012	05	28	jonathan.corbet	rsync	rsync
+2012	05	30	ian.hickson	iMac	imac
+2012	05	30	ian.hickson	Kinesis Advantage keyboard	advantage-usb
+2012	05	30	ian.hickson	Drobo	drobo
+2012	05	30	ian.hickson	Chromebook	chromebook
+2012	05	30	ian.hickson	Macbook Pro	macbook-pro
+2012	05	30	ian.hickson	Pine	pine
+2012	05	30	ian.hickson	Emacs	emacs
+2012	05	30	ian.hickson	irssi	irssi
+2012	05	30	ian.hickson	SSH	ssh
+2012	05	30	ian.hickson	screen	screen
+2012	06	04	mike.kruzeniski	Twitter	twitter
+2012	06	04	mike.kruzeniski	Nokia Lumia 900	lumia-900
+2012	06	04	mike.kruzeniski	iPhone 4	iphone-4
+2012	06	04	mike.kruzeniski	iMac	imac
+2012	06	04	mike.kruzeniski	iPad 2	ipad-2
+2012	06	04	mike.kruzeniski	Nikon D7000	d7000
+2012	06	04	mike.kruzeniski	Alpha NEX-5N	nex-5n
+2012	06	04	mike.kruzeniski	Flip Mino HD	minohd
+2012	06	04	mike.kruzeniski	Western Digital 2TB	elements-desktop
+2012	06	04	mike.kruzeniski	Photoshop	photoshop
+2012	06	04	mike.kruzeniski	Illustrator	illustrator
+2012	06	04	mike.kruzeniski	Outlook	outlook
+2012	06	04	mike.kruzeniski	Word	word
+2012	06	04	mike.kruzeniski	Powerpoint	powerpoint
+2012	06	04	mike.kruzeniski	Coda	coda
+2012	06	04	mike.kruzeniski	Wordpress	wordpress
+2012	06	04	mike.kruzeniski	Tumblr	tumblr
+2012	06	04	mike.kruzeniski	Sparrow	sparrow
+2012	06	04	mike.kruzeniski	iA Writer	ia-writer-mac
+2012	06	04	mike.kruzeniski	IE10	internet-explorer
+2012	06	04	mike.kruzeniski	Safari	safari
+2012	06	04	mike.kruzeniski	Firefox	firefox
+2012	06	04	mike.kruzeniski	Kindle	kindle-ios
+2012	06	04	mike.kruzeniski	Paper	paper-ios
+2012	06	06	bhautik.joshi	iMac	imac
+2012	06	06	bhautik.joshi	Spyder express	spyder4-express
+2012	06	06	bhautik.joshi	D-Link DNS-323	dns-323
+2012	06	06	bhautik.joshi	EC2 server	ec2
+2012	06	06	bhautik.joshi	dyndns	dyndns
+2012	06	06	bhautik.joshi	HP m9000 desktop PC	pavilion-elite-m9000
+2012	06	06	bhautik.joshi	Windows 7	windows-7
+2012	06	06	bhautik.joshi	Mandriva Linux	mandriva
+2012	06	06	bhautik.joshi	Canon 7D	eos-7d
+2012	06	06	bhautik.joshi	Canon EF S10-22mm	ef-s-10-22mm-f3.5-4.5-usm
+2012	06	06	bhautik.joshi	EF S f1.8 50mm	ef-50mm-f1.8-ii
+2012	06	06	bhautik.joshi	iPhone 3g	iphone-3g
+2012	06	06	bhautik.joshi	OS X 10.6	mac-os-x
+2012	06	06	bhautik.joshi	Firefox	firefox
+2012	06	06	bhautik.joshi	Google Docs	google-docs
+2012	06	06	bhautik.joshi	Lightroom 4	lightroom
+2012	06	06	bhautik.joshi	Photoshop	photoshop
+2012	06	06	bhautik.joshi	hugin	hugin
+2012	06	06	bhautik.joshi	PIL	pil
+2012	06	06	bhautik.joshi	C++	c-plusplus
+2012	06	06	bhautik.joshi	Python	python
+2012	06	06	bhautik.joshi	VirtualBox	virtualbox
+2012	06	06	bhautik.joshi	kate	kate
+2012	06	06	bhautik.joshi	kwrite	kwrite
+2012	06	06	bhautik.joshi	konsole	konsole
+2012	06	06	bhautik.joshi	Mill Colour	mill-colour-ios
+2012	06	06	bhautik.joshi	Instagram	instagram-ios
+2012	06	06	bhautik.joshi	HP DreamColor LP2480zx	dreamcolor-lp2480zx
+2012	06	06	bhautik.joshi	Leica M9	m9
+2012	06	06	bhautik.joshi	35mm f2 Summicron	summicron-m-50mm-f2
+2012	06	08	claire.robertson	MacBook Pro	macbook-pro
+2012	06	08	claire.robertson	iMac	imac
+2012	06	08	claire.robertson	Wacom Intuos 3	intuos
+2012	06	08	claire.robertson	CanoScan LiDE 700F	canoscan-lide-700f
+2012	06	08	claire.robertson	iPhone 3G	iphone-3g
+2012	06	08	claire.robertson	Jawbone Jambox	jambox
+2012	06	08	claire.robertson	Canon 350D SLR	eos-350d
+2012	06	08	claire.robertson	Kindle	kindle
+2012	06	08	claire.robertson	Janome 3160 QDC	3160qdc
+2012	06	08	claire.robertson	Pitt Artist Pens	pitt-artist-pen
+2012	06	08	claire.robertson	Prismacolor Premier drawing pencils	premier-soft-core
+2012	06	08	claire.robertson	Chrome	chrome
+2012	06	08	claire.robertson	Photoshop	photoshop
+2012	06	08	claire.robertson	iTunes	itunes
+2012	06	08	claire.robertson	Scrivener	scrivener
+2012	06	08	claire.robertson	Wordpress	wordpress
+2012	06	08	claire.robertson	Tumblr	tumblr
+2012	06	08	claire.robertson	Gmail	gmail
+2012	06	08	claire.robertson	Runkeeper	runkeeper-ios
+2012	06	08	claire.robertson	Wacom Cintiq Pen Display	cintiq
+2012	06	08	claire.robertson	Instagram	instagram-ios
+2012	06	08	claire.robertson	MacBook Air	macbook-air
+2012	06	08	claire.robertson	Adobe Creative Suite	creative-suite
