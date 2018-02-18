@@ -1,7 +1,7 @@
 # usesthis.R -- run a bunch of numbers on the usesthis data
 
 # -- uncomment and adjust path to set working directory
-#setwd("~/data/usesthis-data/")
+setwd("~/data/usesthis-data/")
 
 # -- load in the data
 usesthis <- read.table("thesetup-data.txt", sep="\t", comment.char="", quote="", col.names=c("year","month","day","name","gear","usesthis"))
@@ -11,10 +11,12 @@ regex.mac <- "macbook|powerbook|mac\\-pro|mac\\-mini|ibook|imac|power\\-mac"
 regex.winpcs <- "thinkpad|thinkcentre|inspiron|xps|latitude|precision|aspire|acer|eee\\-pc|elitebook|touchsmart"
 regex.winos <- "windows\\-7|windows\\-xp|windows\\-vista"
 regex.linux <- "ubuntu|linux|fedora|cygwin"
-regex.androids <- "^android|nexus|g1$|droid-2"
-regex.consoles <- "wii|ps3|ps3|xbox"
-regex.texteditors <- "emacs|textmate|vim|^vi$|bbedit"
-regex.nodistraction <- "writeroom|^omm|ia\\-writer"
+regex.androids <- "^android|nexus|g1$|^droid\\-|^galaxy|pixel"
+regex.consoles <- "wii|ps3|ps3|switch|ps4|xbox\\-one|^xbox\\-360$|3ds"
+# regex.nodistraction <- "writeroom|^omm|ia\\-writer"
+# regex.texteditors <- paste("^(x?)emacs$|^textmate$|^vim$|^vi$|bbedit|^bear|sublime|byword|ulysses|textwrangler|scrivener|elements\\-ios|subetha", regex.nodistraction, sep="|")
+regex.nodistraction <- "writeroom$|ia\\-writer"
+regex.texteditors <- paste("^emacs$|^textmate$|^vim$|^vi$|bbedit|^bear|sublime|byword$|textwrangler|editorially", regex.nodistraction, sep="|")
 regex.coffee <- "aws\\-scale|camano|ceramic\\-dripper|chemex|hario|impressa|kenaf|kone|moccamaster|moka|porlex|robur|rocky|super\\-jolly|takahiro|black\\-cat|el\\-pino|la\\-tortuga"
 
 numinterviews <- length(levels(usesthis$name))
@@ -22,18 +24,18 @@ apples <- nrow(usesthis[regexpr(regex.mac, usesthis$usesthis, ignore.case=TRUE)!
 winpcs <- nrow(usesthis[regexpr(regex.winpcs, usesthis$usesthis, ignore.case=TRUE)!=-1,])
 windowsOS <- nrow(usesthis[regexpr(regex.winos, usesthis$usesthis, ignore.case=TRUE)!=-1,])
 linuxOS <- nrow(usesthis[regexpr(regex.linux, usesthis$usesthis, ignore.case=TRUE)!=-1,])
-iphones <- nrow(usesthis[regexpr("iphone", usesthis$usesthis, ignore.case=TRUE)!=-1,])
-ipads <- nrow(usesthis[regexpr("ipad", usesthis$usesthis, ignore.case=TRUE)!=-1,])
+iphones <- nrow(usesthis[regexpr("^iphone", usesthis$usesthis, ignore.case=TRUE)!=-1,])
+ipads <- nrow(usesthis[regexpr("^ipad", usesthis$usesthis, ignore.case=TRUE)!=-1,])
 androids <- nrow(usesthis[regexpr(regex.androids, usesthis$usesthis, ignore.case=TRUE)!=-1,])
-
+winphone <- nrow(usesthis[regexpr("windows\\-phone", usesthis$usesthis, ignore.case=TRUE)!=-1,])
 
 numapps.ios <- length(levels(as.factor(as.character(usesthis$usesthis[grep("-ios", usesthis$usesthis)]))))
 numapps.android <- length(levels(as.factor(as.character(usesthis$usesthis[grep("-android", usesthis$usesthis)]))))
 
 summary.names <- as.character(summary(usesthis$name, maxsum=11)[1:10])
-summary.consoles <- summary(usesthis[regexpr(regex.consoles, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=5)
-summary.texteditors <- summary(usesthis[regexpr(regex.texteditors, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=8)
-summary.android <- summary(usesthis[regexpr(regex.androids, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=6)[1:5]
+summary.consoles <- summary(usesthis[regexpr(regex.consoles, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=10)
+summary.texteditors <- summary(usesthis[regexpr(regex.texteditors, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=15)
+summary.android <- summary(usesthis[regexpr(regex.androids, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=17)[1:18]
 summary.nodistraction <- summary(usesthis[regexpr(regex.nodistraction, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=5)[1:4]
 summary.coffee <- summary(usesthis[regexpr(regex.coffee, usesthis$usesthis, ignore.case=TRUE)!=-1,][6], maxsum=5)[1:4]
 
@@ -62,6 +64,8 @@ writeLines(summary(usesthis[regexpr(regex.winpcs, usesthis$usesthis, ignore.case
 writeLines("\nMobile Devices:\n---------------", outputfile)
 writeLines(sprintf("iPhones: \t%s\niPads: \t%s", iphones, ipads), outputfile)
 writeLines(sprintf("Androids: \t%s", androids), outputfile)
+writeLines(sprintf("Windows Phone: \t%s", winphone), outputfile)
+
 
 # -- Break out Android phones if desired
 # writeLines(sprintf("\nAndroid phones (%i):", androids),outputfile)
@@ -79,6 +83,7 @@ writeLines(summary.consoles, outputfile)
 writeLines("\nApple vs. Adobe:\n----------------", outputfile)
 writeLines(sprintf("Lightroom:\t%s",nrow(usesthis[regexpr("lightroom", usesthis$usesthis, ignore.case=TRUE)!=-1,])), outputfile)
 writeLines(sprintf("Aperture:\t%s",nrow(usesthis[regexpr("aperture", usesthis$usesthis, ignore.case=TRUE)!=-1,])), outputfile)
+writeLines(sprintf("Photos:\t%s",nrow(usesthis[regexpr("^photos$", usesthis$usesthis, ignore.case=TRUE)!=-1,])), outputfile)
 
 writeLines("\nText Editor Showdown:",outputfile)
 writeLines(  "---------------------",outputfile)
@@ -109,3 +114,19 @@ writeLines(sprintf("\n\n\nSummary generated by usesthis.R, %s", date()), outputf
 writeLines("https://github.com/ats/usesthis-data", outputfile)
 
 close(outputfile)
+
+# library(ggplot2)
+# library(plyr)
+# editorsByYear <- cbind(usesthis[regexpr(regex.texteditors, usesthis$usesthis, ignore.case=TRUE)!=-1,][6],usesthis[regexpr(regex.texteditors, usesthis$usesthis, ignore.case=TRUE)!=-1,][1])
+# eds <- ddply(editorsByYear, .(usesthis, year), c("nrow"))
+# qplot(year, nrow, data = eds[eds$year %in% 2009:2013,], colour=usesthis, facets=.~usesthis) + geom_line() + theme(axis.text.x = element_text(angle = -90, hjust=1, size=8)) + xlab("") + ylab("numer of mentions") + theme(legend.position = "none") + theme(strip.text.x = element_text(size=8, angle=45)) + ggtitle("The Setup, text editors, 2009-2013\n")
+# 
+# regex.mobiles <- paste("^iphone|^ipad",regex.androids, sep="|")
+# mobileByYear <- cbind(usesthis[regexpr(regex.mobiles, usesthis$usesthis, ignore.case=TRUE)!=-1,][6],usesthis[regexpr(regex.mobiles, usesthis$usesthis, ignore.case=TRUE)!=-1,][1])
+# mobs <- ddply(mobileByYear, .(usesthis, year), c("nrow"))
+# qplot(year, nrow, data = mobs[mobs$year %in% 2009:2013,], colour=usesthis, facets=.~usesthis) + geom_line() + theme(axis.text.x = element_blank()) + xlab("") + ylab("numer of mentions") + theme(legend.position = "none") + theme(strip.text.x = element_text(size=8, angle=45)) + ggtitle("The Setup, mobile devices, 2009-2012\n")
+# 
+# good three-row plot
+# qplot(year, nrow, data = mobs[mobs$year %in% 2009:2013,], colour=usesthis, facets=.~usesthis) + geom_line() + theme(axis.text.x = element_blank()) + xlab("") + ylab("numer of mentions") + theme(legend.position = "none") + theme(strip.text.x = element_text(size=8)) + ggtitle("The Setup, mobile devices, 2009-2012\n") + facet_wrap(~ usesthis, nrow=3)
+
+# 

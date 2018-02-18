@@ -7,10 +7,10 @@
 # usesthis repo
 
 # get all the [description][item] references from the _posts directory
-grep -oEH '\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]' ../usesthis/_posts/*.interview > gear-raw.txt
+grep -oEH '\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]' ../usesthis/posts/*.markdown > gear-raw.txt
 
 # clean out path
-perl -p -i -e 's/.*\/_posts\///g' gear-raw.txt
+perl -p -i -e 's/.*\/posts\///g' gear-raw.txt
 # clean up user name
 perl -p -i -e 's/.interview:\[/:[/g' gear-raw.txt
 # start making record separators

@@ -4,131 +4,145 @@ THE SETUP, BY THE NUMBERS
 Data from The Setup, http://usesthis.com/
 [ https://github.com/waferbaby/usesthis ]
 
-261 interviews
+845 interviews
 
-Apple PCs:	399
-Windows PCs:	51
+Apple PCs:	1080
+Windows PCs:	117
 
 Top 10 Mac models:
 ------------------
-macbook-pro :136  
-macbook-air : 79  
-imac        : 60  
-mac-pro     : 46  
-macbook     : 28  
-mac-mini    : 27  
-power-mac-g5:  5  
-powerbook-g4:  5  
-ibooks-ios  :  4  
-power-mac-g4:  3  
+macbook-pro :412  
+macbook-air :238  
+imac        :166  
+mac-pro     :103  
+mac-mini    : 54  
+macbook     : 48  
+macbook.2   : 17  
+ibooks-ios  :  8  
+powerbook-g4:  8  
+power-mac-g5:  6  
 
 Top 10 WinPC models:
 --------------------
-thinkpad-x200    : 3  
-thinkpad-x201    : 3  
-inspiron-mini-9  : 2  
-thinkpad-t400    : 2  
-thinkpad-x220    : 2  
-thinkpad-x60     : 2  
-xps-m1530        : 2  
-acer-ferrari-5000: 1  
-aspire-one-d250  : 1  
-eee-pc-701       : 1  
+thinkpad-x220     : 9  
+inspiron-mini-9   : 4  
+thinkpad-x200     : 4  
+thinkpad-x201     : 4  
+precision-bass    : 3  
+thinkpad-x1-carbon: 3  
+thinkpad-x230     : 3  
+thinkpad-x60      : 3  
+tracery           : 3  
+xps-13            : 3  
 
 Mobile Devices:
 ---------------
-iPhones: 	151
-iPads: 	100
-Androids: 	46
+iPhones: 	369
+iPads: 	238
+Androids: 	208
+Windows Phone: 	6
 
-iOS apps (unique):	216
-Android apps (unique):	23
+iOS apps (unique):	458
+Android apps (unique):	82
 
 Top 20 iOS apps by frequency:
 ----------------------
-instapaper-ios        : 22  
-instagram-ios         : 17  
-simplenote-ios        : 17  
-kindle-ios            : 15  
-twitter-ios           : 14  
-reeder-ios            : 13  
+instagram-ios         : 48  
+kindle-ios            : 32  
+tweetbot-ios          : 32  
+twitter-ios           : 32  
+instapaper-ios        : 27  
+simplenote-ios        : 25  
+reeder-ios            : 20  
+foursquare-ios        : 14  
+paper-ios             : 12  
+dropbox-ios           : 11  
+vsco-cam-ios          : 11  
+words-with-friends-ios: 11  
+evernote-ios          : 10  
+safari-ios            : 10  
+flipboard-ios         :  9  
+ia-writer-ios         :  9  
+procreate-ios         :  9  
+spotify-ios           :  9  
 tweetie-ios           :  9  
-words-with-friends-ios:  9  
-evernote-ios          :  8  
-foursquare-ios        :  8  
-tweetbot-ios          :  7  
-facebook-ios          :  6  
-flipboard-ios         :  6  
-yelp-ios              :  6  
-ego-ios               :  5  
-goodreader-ios        :  5  
-ia-writer-ios         :  5  
-safari-ios            :  5  
-twitterrific-ios      :  5  
-dropbox-ios           :  4  
+ibooks-ios            :  8  
 
 Game consoles:
 --------------
-ps3                            :16  
-xbox-360                       :15  
-wii                            :13  
-xbox-360-controller-for-windows: 2  
-(Other)                        : 2  
+ps3     :29  
+xbox-360:28  
+wii     :21  
+ps4     :15  
+3ds     : 8  
+3ds-max : 7  
+wii-u   : 6  
+switch.2: 4  
+xbox-one: 4  
+(Other) :11  
 
 Apple vs. Adobe:
 ----------------
-Lightroom:	32
-Aperture:	17
+Lightroom:	63
+Aperture:	31
+Photos:	5
 
 Text Editor Showdown:
 ---------------------
-textmate    :59  
-emacs       :35  
-vim         :29  
-bbedit      :22  
-macvim      :13  
-vi          : 5  
-carbon-emacs: 1  
-(Other)     : 6  
+sublime-text :96  
+vim          :93  
+textmate     :84  
+emacs        :69  
+bbedit       :45  
+ia-writer    :30  
+textwrangler :23  
+byword       :15  
+vi           :12  
+ia-writer-ios: 9  
+writeroom    : 9  
+bear         : 4  
+editorially  : 4  
+01v          : 0  
+(Other)      : 0  
 
 Text editors (aggregated):
 --------------------------
-Emacs:	39
-Textmate:	60
-vi(m):	49
-BBEdit:	22
+Emacs:	73
+Textmate:	87
+vi(m):	138
+BBEdit:	45
 
 "Distraction-Free Environments:"
 --------------------------------
-ia-writer-mac:6  
-ia-writer-ios:5  
-writeroom    :5  
-ommwriter    :2  
+ia-writer    :30  
+ia-writer-ios: 9  
+writeroom    : 9  
+01v          : 0  
 
 Who names the most stuff (no. of items)?
 ---------------------------------------
-benjamin.mako.hill :	 79
-matt.might :	 75
-ted.leung :	 68
-ethan.schoonover :	 61
-julian.bleecker :	 59
-mairin.duffy :	 59
-avery.edison :	 58
-max.temkin :	 58
-ruthie.bendor :	 57
-john.siracusa :	 56
+benjamin.mako.hill.markdown :	 83
+kenneth.reitz.markdown :	 81
+matt.might.markdown :	 76
+christian.neukirchen.markdown :	 73
+anita.sarkeesian.markdown :	 71
+ryan.essmaker.markdown :	 70
+jesse.vincent.markdown :	 69
+rusty.hodge.markdown :	 69
+ted.leung.markdown :	 68
+brendan.gregg.markdown :	 67
 
 Coffee geeks (who names how much coffee gear?):
 ---------------------------------------------
-katie.o.shea     :10  
-james.freeman    : 5  
-nozlee.samadzadeh: 1  
-r.stevens        : 1  
-rich.siegel      : 1  
-aaron.boodman    : 0  
-(Other)          : 0  
+katie.o.shea.markdown     :8  
+james.freeman.markdown    :5  
+nozlee.samadzadeh.markdown:1  
+r.stevens.markdown        :1  
+rich.siegel.markdown      :1  
+tony.konecny.markdown     :1  
+(Other)                   :0  
 
 
 
-Summary generated by usesthis.R, Sat Jun  9 21:48:18 2012
+Summary generated by usesthis.R, Sun Feb 18 16:14:09 2018
 https://github.com/ats/usesthis-data
